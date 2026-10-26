@@ -786,8 +786,8 @@
   },
   {
     "path": "CAD/RackBladeSolidCraft/Tolerances/resultats.csv",
-    "bytes": 1080,
-    "sha256": "b32c911b23a2c39eccb55df6635495022c7ce986c984f2f2bbfdd4058cab46eb"
+    "bytes": 1066,
+    "sha256": "719e87db2606cf1677a5897a6df53f322e72122ee032a58d8bae94d22960735c"
   },
   {
     "path": "CAD/RackBladeSolidCraft/Tolerances/verification/audit.py",
@@ -856,8 +856,8 @@
   },
   {
     "path": "CAD/RackBladeSolidCraft/V5/NOMENCLATURE.csv",
-    "bytes": 1018,
-    "sha256": "b435a206804e4ddea10a6f4210d9baa7d85ebe9d2d65930e76b37ae2946b4544"
+    "bytes": 992,
+    "sha256": "9bfda6b17bc2bb31f27da9fb08a41f001071b4f10014326a9cb88386966aafdf"
   },
   {
     "path": "CAD/RackBladeSolidCraft/V5/README.md",
@@ -1156,8 +1156,8 @@
   },
   {
     "path": "CAD/RackBladeSolidCraft/V5/remesh_step.py",
-    "bytes": 3963,
-    "sha256": "c682aa863442aad122b502c419cffcd5c25724551597bce7516fdac51f8752b1"
+    "bytes": 3959,
+    "sha256": "48ca4ce0cb895fcc235dd405cb48cd8715c5260a0e91267a1412368aa1fa579d"
   },
   {
     "path": "CAD/RackBladeSolidCraft/V5/restore-assembly.json",
@@ -1936,8 +1936,8 @@
   },
   {
     "path": "CAD/RackBladeSolidCraft/V6/remesh_step.py",
-    "bytes": 4610,
-    "sha256": "1400d74935de7d8f893385c1b367b95d42a5b5e840aaa9ce4eb3d4187e52844d"
+    "bytes": 4606,
+    "sha256": "c5000883b1abe19e4d04dc7fdbb9eff1a4795b1fbb9aae1b983dbf5416ffa2ff"
   },
   {
     "path": "CAD/RackBladeSolidCraft/V6/rotate-print.json",
@@ -3241,8 +3241,8 @@
   },
   {
     "path": "CAD/RackBladeSolidCraft/V7/remesh_step.py",
-    "bytes": 4015,
-    "sha256": "1a476956812d63a0c633b5cf488c38ea71c344afe18afeefe5f5b38fde7b1563"
+    "bytes": 4011,
+    "sha256": "dc571cd8c2224cf39ed32e73424a015f9fde9dd2bcf69a5402c5420d65f12e6f"
   },
   {
     "path": "CAD/RackBladeSolidCraft/V7/test-filament.png",

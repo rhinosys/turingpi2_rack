@@ -1,0 +1,4 @@
+*.csv text eol=lf
+*.solidcraft -text
+*.3mf -text
+*.step -text

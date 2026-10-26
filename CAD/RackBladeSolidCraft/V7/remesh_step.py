@@ -39,7 +39,7 @@ for name in (sys.argv[1:] or ["BT-D","BT-G","FOND-AR-D","FOND-AR-G"]):
     lo=np.array(audit[name+".3mf"]["bbox_min"]); expected_bounds=np.array([lo,lo+np.array(audit[name+".3mf"]["dimensions"])])
     bd=float(np.max(np.abs(mesh.bounds-expected_bounds)))
     report={"name":name,"method":"Gmsh/OCC triangulation of SolidCraft STEP","watertight":bool(mesh.is_watertight),"winding_consistent":bool(mesh.is_winding_consistent),"solidcraft_volume_mm3":expected,"occ_import_volume_mm3":occ_vol,"mesh_volume_mm3":float(mesh.volume),"relative_volume_delta":float(delta),"bbox_max_delta_mm":bd,"vertices":len(mesh.vertices),"triangles":len(mesh.faces)}
-    
+
     if not mesh.is_watertight:
         counts=np.bincount(mesh.edges_unique_inverse);bad=mesh.edges_unique[counts!=2]; print("BAD",len(bad),mesh.vertices[bad[:12]].tolist(),flush=True)
         mesh.export(str(root/"verification"/(name+"-debug.ply")))
