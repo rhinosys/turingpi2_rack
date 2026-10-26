@@ -2,7 +2,9 @@
 
 # Initial design prompt — historical brief
 
-[Download the complete original French prompt](../assets/initial-prompt-fr.txt).
+[Read the complete original French prompt on the page](../fr/prompt.md#prompt-original) or [download the original text file](../assets/initial-prompt-fr.txt).
+
+The owner supplied the original prompt again; the French page now displays the entire text unchanged, with a copy button. The English guide below remains an editorial translation and summary.
 
 The original is preserved verbatim as project evidence. This English page is an **editorial translation and condensed reading guide**, not a claim that the initial design is still current. In particular, through-holes in external panels, a short removable tray, separate roofs/partitions and the original M3/M4 tolerances were superseded.
 
