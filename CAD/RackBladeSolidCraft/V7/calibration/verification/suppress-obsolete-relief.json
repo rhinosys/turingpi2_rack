@@ -1,0 +1,12 @@
+{
+  "id": 13,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"feature\": 909,\n  \"suppressed\": true\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

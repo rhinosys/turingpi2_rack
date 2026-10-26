@@ -1,0 +1,215 @@
+{
+  "objects": [
+    {
+      "id": "2",
+      "name": "PLANCHE",
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 172719.6899786669,
+      "bounds": [
+        [
+          0.0,
+          -1.6342483e-15,
+          -4.0856207e-14
+        ],
+        [
+          210.0,
+          150.0,
+          6.0
+        ]
+      ]
+    },
+    {
+      "id": "3",
+      "name": "RAIL_3.1",
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 4765.691633811167,
+      "bounds": [
+        [
+          0.0,
+          158.0,
+          0.0
+        ],
+        [
+          20.0,
+          183.0,
+          10.0
+        ]
+      ]
+    },
+    {
+      "id": "4",
+      "name": "RAIL_3.2",
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 4758.0304058827605,
+      "bounds": [
+        [
+          40.0,
+          158.0,
+          0.0
+        ],
+        [
+          60.0,
+          183.0,
+          10.0
+        ]
+      ]
+    },
+    {
+      "id": "5",
+      "name": "RAIL_3.3",
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 4750.466126799579,
+      "bounds": [
+        [
+          80.0,
+          158.0,
+          0.0
+        ],
+        [
+          100.0,
+          183.0,
+          10.0
+        ]
+      ]
+    },
+    {
+      "id": "6",
+      "name": "RAIL_3.4",
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 4743.026684222891,
+      "bounds": [
+        [
+          120.0,
+          158.0,
+          0.0
+        ],
+        [
+          140.0,
+          183.0,
+          10.0
+        ]
+      ]
+    },
+    {
+      "id": "7",
+      "name": "RAIL_3.5",
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 4735.418770724856,
+      "bounds": [
+        [
+          160.0,
+          158.0,
+          0.0
+        ],
+        [
+          180.0,
+          183.0,
+          10.0
+        ]
+      ]
+    },
+    {
+      "id": "8",
+      "name": "BIS_TEST",
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 1294.9200000000008,
+      "bounds": [
+        [
+          0.0,
+          195.0,
+          0.0
+        ],
+        [
+          21.8,
+          214.8,
+          3.0
+        ]
+      ]
+    },
+    {
+      "id": "9",
+      "name": "BIS_X_TEST",
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 1425.7200000000005,
+      "bounds": [
+        [
+          28.0,
+          195.0,
+          0.0
+        ],
+        [
+          49.8,
+          216.8,
+          3.0
+        ]
+      ]
+    },
+    {
+      "id": "10",
+      "name": "LANGUE_TEST",
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 1417.5,
+      "bounds": [
+        [
+          60.0,
+          195.0,
+          0.0
+        ],
+        [
+          70.9,
+          220.0,
+          6.0
+        ]
+      ]
+    },
+    {
+      "id": "11",
+      "name": "M3_VERTICAL",
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 17668.12459518552,
+      "bounds": [
+        [
+          90.0,
+          195.0,
+          0.0
+        ],
+        [
+          200.0,
+          207.0,
+          14.0
+        ]
+      ]
+    },
+    {
+      "id": "12",
+      "name": "M4_VERTICAL",
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 17008.971282854855,
+      "bounds": [
+        [
+          90.0,
+          214.0,
+          0.0
+        ],
+        [
+          200.0,
+          226.0,
+          14.0
+        ]
+      ]
+    }
+  ],
+  "relative_volume_delta": 0.00014287471814280285,
+  "passed": true
+}

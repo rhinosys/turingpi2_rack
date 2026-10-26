@@ -1,0 +1,14 @@
+{
+  "name": "BT-D",
+  "rear_end_numerical_trim_mm": 0.0,
+  "method": "Gmsh/OCC triangulation of SolidCraft STEP",
+  "watertight": true,
+  "winding_consistent": true,
+  "solidcraft_volume_mm3": 215329.80969969076,
+  "occ_import_volume_mm3": 215330.21434969068,
+  "mesh_volume_mm3": 215327.3611528891,
+  "relative_volume_delta": 1.1371146452409419e-05,
+  "bbox_max_delta_mm": 9.436084482672413e-07,
+  "vertices": 104843,
+  "triangles": 209802
+}

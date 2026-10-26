@@ -1,0 +1,14 @@
+{
+  "name": "Q-AV-D",
+  "rear_end_numerical_trim_mm": 0.0,
+  "method": "Gmsh/OCC triangulation of SolidCraft STEP",
+  "watertight": true,
+  "winding_consistent": true,
+  "solidcraft_volume_mm3": 671439.3159512569,
+  "occ_import_volume_mm3": 671445.2967245491,
+  "mesh_volume_mm3": 671443.8856907451,
+  "relative_volume_delta": 6.8058860713453585e-06,
+  "bbox_max_delta_mm": 7.285248699417934e-06,
+  "vertices": 55883,
+  "triangles": 111814
+}

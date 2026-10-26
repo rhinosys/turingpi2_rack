@@ -1,0 +1,783 @@
+[
+  {
+    "first_layer_with_supports_and_brim": [
+      2.67892,
+      35.07905,
+      253.32126000000002,
+      220.92095
+    ],
+    "file": "01_Q-AV-D.3mf",
+    "objects": [
+      {
+        "name": "Q-AV-D",
+        "min": [
+          7.349433000000005,
+          39.7497326,
+          0.0
+        ],
+        "max": [
+          248.65058100000002,
+          216.25025140000002,
+          220.00032
+        ]
+      }
+    ],
+    "settings": "PETG HF noir, X1C 0.4, PEI lisse, couche 0.16",
+    "slice": {
+      "index": "1",
+      "extruder_type": "0",
+      "nozzle_volume_type": "0",
+      "printer_model_id": "",
+      "nozzle_diameters": "0.4",
+      "timelapse_type": "0",
+      "prediction": "61458",
+      "weight": "480.95",
+      "pause_count": "0",
+      "first_layer_time": "0.000000",
+      "outside": "false",
+      "support_used": "true",
+      "label_object_enabled": "false",
+      "support_material_on_wipe_tower": "false",
+      "enable_filament_dynamic_map": "false",
+      "has_filament_switcher": "false",
+      "filament_maps": "1",
+      "limit_filament_maps": "0"
+    }
+  },
+  {
+    "first_layer_with_supports_and_brim": [
+      2.67911,
+      35.078770000000006,
+      253.32068,
+      220.92134000000001
+    ],
+    "file": "02_Q-AV-G-EAR.3mf",
+    "objects": [
+      {
+        "name": "Q-AV-G-EAR",
+        "min": [
+          7.349807999999996,
+          39.74933059999999,
+          0.0
+        ],
+        "max": [
+          248.650192,
+          216.25067339999998,
+          220.00064
+        ]
+      }
+    ],
+    "settings": "PETG HF noir, X1C 0.4, PEI lisse, couche 0.16",
+    "slice": {
+      "index": "1",
+      "extruder_type": "0",
+      "nozzle_volume_type": "0",
+      "printer_model_id": "",
+      "nozzle_diameters": "0.4",
+      "timelapse_type": "0",
+      "prediction": "61040",
+      "weight": "480.49",
+      "pause_count": "0",
+      "first_layer_time": "0.000000",
+      "outside": "false",
+      "support_used": "true",
+      "label_object_enabled": "false",
+      "support_material_on_wipe_tower": "false",
+      "enable_filament_dynamic_map": "false",
+      "has_filament_switcher": "false",
+      "filament_maps": "1",
+      "limit_filament_maps": "0"
+    }
+  },
+  {
+    "first_layer_with_supports_and_brim": [
+      11.779330000000002,
+      35.079060000000005,
+      244.12092,
+      220.92076000000003
+    ],
+    "file": "03_Q-AR-D.3mf",
+    "objects": [
+      {
+        "name": "Q-AR-D",
+        "min": [
+          16.449782,
+          39.7494222,
+          0.0
+        ],
+        "max": [
+          239.550216,
+          216.2505818,
+          213.800918
+        ]
+      }
+    ],
+    "settings": "PETG HF noir, X1C 0.4, PEI lisse, couche 0.16",
+    "slice": {
+      "index": "1",
+      "extruder_type": "0",
+      "nozzle_volume_type": "0",
+      "printer_model_id": "",
+      "nozzle_diameters": "0.4",
+      "timelapse_type": "0",
+      "prediction": "58070",
+      "weight": "533.55",
+      "pause_count": "0",
+      "first_layer_time": "0.000000",
+      "outside": "false",
+      "support_used": "true",
+      "label_object_enabled": "false",
+      "support_material_on_wipe_tower": "false",
+      "enable_filament_dynamic_map": "false",
+      "has_filament_switcher": "false",
+      "filament_maps": "1",
+      "limit_filament_maps": "0"
+    }
+  },
+  {
+    "first_layer_with_supports_and_brim": [
+      11.8792,
+      35.07931,
+      244.22060000000002,
+      220.92101000000002
+    ],
+    "file": "04_Q-AR-G.3mf",
+    "objects": [
+      {
+        "name": "Q-AR-G",
+        "min": [
+          16.450088000000008,
+          39.74967959999999,
+          0.0
+        ],
+        "max": [
+          239.54991,
+          216.25032040000002,
+          213.796082
+        ]
+      }
+    ],
+    "settings": "PETG HF noir, X1C 0.4, PEI lisse, couche 0.16",
+    "slice": {
+      "index": "1",
+      "extruder_type": "0",
+      "nozzle_volume_type": "0",
+      "printer_model_id": "",
+      "nozzle_diameters": "0.4",
+      "timelapse_type": "0",
+      "prediction": "58329",
+      "weight": "538.53",
+      "pause_count": "0",
+      "first_layer_time": "0.000000",
+      "outside": "false",
+      "support_used": "true",
+      "label_object_enabled": "false",
+      "support_material_on_wipe_tower": "false",
+      "enable_filament_dynamic_map": "false",
+      "has_filament_switcher": "false",
+      "filament_maps": "1",
+      "limit_filament_maps": "0"
+    }
+  },
+  {
+    "first_layer_with_supports_and_brim": [
+      27.52135,
+      24.399990000000003,
+      228.47861000000003,
+      231.60001000000003
+    ],
+    "file": "05_BT-D.3mf",
+    "objects": [
+      {
+        "name": "BT-D",
+        "min": [
+          26.599998999999997,
+          24.400001000000017,
+          0.0
+        ],
+        "max": [
+          229.399987,
+          231.600013,
+          62.9996452
+        ]
+      }
+    ],
+    "settings": "PETG HF noir, X1C 0.4, PEI lisse, couche 0.16",
+    "slice": {
+      "index": "1",
+      "extruder_type": "0",
+      "nozzle_volume_type": "0",
+      "printer_model_id": "",
+      "nozzle_diameters": "0.4",
+      "timelapse_type": "0",
+      "prediction": "14276",
+      "weight": "135.39",
+      "pause_count": "0",
+      "first_layer_time": "0.000000",
+      "outside": "false",
+      "support_used": "true",
+      "label_object_enabled": "false",
+      "support_material_on_wipe_tower": "false",
+      "enable_filament_dynamic_map": "false",
+      "has_filament_switcher": "false",
+      "filament_maps": "1",
+      "limit_filament_maps": "0"
+    }
+  },
+  {
+    "first_layer_with_supports_and_brim": [
+      27.521440000000002,
+      18.02145,
+      228.47854,
+      246.60000000000002
+    ],
+    "file": "06_FOND-AR-D.3mf",
+    "objects": [
+      {
+        "name": "FOND-AR-D",
+        "min": [
+          26.599998999999997,
+          20.0,
+          0.0
+        ],
+        "max": [
+          229.399987,
+          246.600006,
+          139.0
+        ]
+      }
+    ],
+    "settings": "PETG HF noir, X1C 0.4, PEI lisse, couche 0.16",
+    "slice": {
+      "index": "1",
+      "extruder_type": "0",
+      "nozzle_volume_type": "0",
+      "printer_model_id": "",
+      "nozzle_diameters": "0.4",
+      "timelapse_type": "0",
+      "prediction": "29592",
+      "weight": "310.13",
+      "pause_count": "0",
+      "first_layer_time": "0.000000",
+      "outside": "false",
+      "support_used": "true",
+      "label_object_enabled": "false",
+      "support_material_on_wipe_tower": "false",
+      "enable_filament_dynamic_map": "false",
+      "has_filament_switcher": "false",
+      "filament_maps": "1",
+      "limit_filament_maps": "0"
+    }
+  },
+  {
+    "first_layer_with_supports_and_brim": [
+      27.52135,
+      24.399990000000003,
+      228.47863,
+      231.60001000000003
+    ],
+    "file": "07_BT-G.3mf",
+    "objects": [
+      {
+        "name": "BT-G",
+        "min": [
+          26.599998999999997,
+          24.400001000000017,
+          0.0
+        ],
+        "max": [
+          229.399987,
+          231.600013,
+          63.0004692
+        ]
+      }
+    ],
+    "settings": "PETG HF noir, X1C 0.4, PEI lisse, couche 0.16",
+    "slice": {
+      "index": "1",
+      "extruder_type": "0",
+      "nozzle_volume_type": "0",
+      "printer_model_id": "",
+      "nozzle_diameters": "0.4",
+      "timelapse_type": "0",
+      "prediction": "14158",
+      "weight": "135.09",
+      "pause_count": "0",
+      "first_layer_time": "0.000000",
+      "outside": "false",
+      "support_used": "true",
+      "label_object_enabled": "false",
+      "support_material_on_wipe_tower": "false",
+      "enable_filament_dynamic_map": "false",
+      "has_filament_switcher": "false",
+      "filament_maps": "1",
+      "limit_filament_maps": "0"
+    }
+  },
+  {
+    "first_layer_with_supports_and_brim": [
+      27.521440000000002,
+      18.02145,
+      228.47854,
+      246.60000000000002
+    ],
+    "file": "08_FOND-AR-G.3mf",
+    "objects": [
+      {
+        "name": "FOND-AR-G",
+        "min": [
+          26.599998999999997,
+          20.0,
+          0.0
+        ],
+        "max": [
+          229.399987,
+          246.600006,
+          139.0
+        ]
+      }
+    ],
+    "settings": "PETG HF noir, X1C 0.4, PEI lisse, couche 0.16",
+    "slice": {
+      "index": "1",
+      "extruder_type": "0",
+      "nozzle_volume_type": "0",
+      "printer_model_id": "",
+      "nozzle_diameters": "0.4",
+      "timelapse_type": "0",
+      "prediction": "29551",
+      "weight": "310.13",
+      "pause_count": "0",
+      "first_layer_time": "0.000000",
+      "outside": "false",
+      "support_used": "true",
+      "label_object_enabled": "false",
+      "support_material_on_wipe_tower": "false",
+      "enable_filament_dynamic_map": "false",
+      "has_filament_switcher": "false",
+      "filament_maps": "1",
+      "limit_filament_maps": "0"
+    }
+  },
+  {
+    "first_layer_with_supports_and_brim": [
+      24.49999,
+      18.0,
+      233.8,
+      249.8
+    ],
+    "file": "09_Facade_D_poignee_biscuits.3mf",
+    "objects": [
+      {
+        "name": "BF-D",
+        "min": [
+          24.5,
+          18.0,
+          0.0
+        ],
+        "max": [
+          231.5,
+          183.0,
+          7.0
+        ]
+      },
+      {
+        "name": "HANDLE-D",
+        "min": [
+          25.0,
+          195.0,
+          0.0
+        ],
+        "max": [
+          115.0,
+          220.0,
+          12.0
+        ]
+      },
+      {
+        "name": "BIS",
+        "min": [
+          125.0000085,
+          195.00000847,
+          0.0
+        ],
+        "max": [
+          146.8000115,
+          214.80001153,
+          3.0
+        ]
+      },
+      {
+        "name": "BIS",
+        "min": [
+          154.0000085,
+          195.00000847,
+          0.0
+        ],
+        "max": [
+          175.8000115,
+          214.80001153,
+          3.0
+        ]
+      },
+      {
+        "name": "BIS",
+        "min": [
+          183.0000085,
+          195.00000847,
+          0.0
+        ],
+        "max": [
+          204.8000115,
+          214.80001153,
+          3.0
+        ]
+      },
+      {
+        "name": "BIS",
+        "min": [
+          212.0000085,
+          195.00000847,
+          0.0
+        ],
+        "max": [
+          233.8000115,
+          214.80001153,
+          3.0
+        ]
+      },
+      {
+        "name": "BIS",
+        "min": [
+          24.9999981,
+          228.00000847,
+          0.0
+        ],
+        "max": [
+          46.7999973,
+          247.80001153,
+          3.0
+        ]
+      },
+      {
+        "name": "BIS",
+        "min": [
+          54.0,
+          228.00000847,
+          0.0
+        ],
+        "max": [
+          75.800003,
+          247.80001153,
+          3.0
+        ]
+      },
+      {
+        "name": "BIS",
+        "min": [
+          83.0,
+          228.00000847,
+          0.0
+        ],
+        "max": [
+          104.800003,
+          247.80001153,
+          3.0
+        ]
+      },
+      {
+        "name": "BIS",
+        "min": [
+          112.0000005,
+          228.00000847,
+          0.0
+        ],
+        "max": [
+          133.8000035,
+          247.80001153,
+          3.0
+        ]
+      },
+      {
+        "name": "BIS-X",
+        "min": [
+          141.0000085,
+          228.0000085,
+          0.0
+        ],
+        "max": [
+          162.8000115,
+          249.8000115,
+          3.0
+        ]
+      }
+    ],
+    "settings": "PETG HF noir, X1C 0.4, PEI lisse, couche 0.16",
+    "slice": {
+      "index": "1",
+      "extruder_type": "0",
+      "nozzle_volume_type": "0",
+      "printer_model_id": "",
+      "nozzle_diameters": "0.4",
+      "timelapse_type": "0",
+      "prediction": "8962",
+      "weight": "88.52",
+      "pause_count": "0",
+      "first_layer_time": "0.000000",
+      "outside": "false",
+      "support_used": "false",
+      "label_object_enabled": "true",
+      "support_material_on_wipe_tower": "false",
+      "enable_filament_dynamic_map": "false",
+      "has_filament_switcher": "false",
+      "filament_maps": "1",
+      "limit_filament_maps": "0"
+    }
+  },
+  {
+    "first_layer_with_supports_and_brim": [
+      24.49999,
+      18.0,
+      233.8,
+      249.8
+    ],
+    "file": "10_Facade_G_poignee_biscuits.3mf",
+    "objects": [
+      {
+        "name": "BF-G",
+        "min": [
+          24.5,
+          18.0,
+          0.0
+        ],
+        "max": [
+          231.5,
+          183.0,
+          7.0
+        ]
+      },
+      {
+        "name": "HANDLE-G",
+        "min": [
+          25.0,
+          195.0,
+          0.0
+        ],
+        "max": [
+          115.0,
+          220.0,
+          12.0
+        ]
+      },
+      {
+        "name": "BIS",
+        "min": [
+          125.0000085,
+          195.00000847,
+          0.0
+        ],
+        "max": [
+          146.8000115,
+          214.80001153,
+          3.0
+        ]
+      },
+      {
+        "name": "BIS",
+        "min": [
+          154.0000085,
+          195.00000847,
+          0.0
+        ],
+        "max": [
+          175.8000115,
+          214.80001153,
+          3.0
+        ]
+      },
+      {
+        "name": "BIS",
+        "min": [
+          183.0000085,
+          195.00000847,
+          0.0
+        ],
+        "max": [
+          204.8000115,
+          214.80001153,
+          3.0
+        ]
+      },
+      {
+        "name": "BIS",
+        "min": [
+          212.0000085,
+          195.00000847,
+          0.0
+        ],
+        "max": [
+          233.8000115,
+          214.80001153,
+          3.0
+        ]
+      },
+      {
+        "name": "BIS",
+        "min": [
+          24.9999981,
+          228.00000847,
+          0.0
+        ],
+        "max": [
+          46.7999973,
+          247.80001153,
+          3.0
+        ]
+      },
+      {
+        "name": "BIS",
+        "min": [
+          54.0,
+          228.00000847,
+          0.0
+        ],
+        "max": [
+          75.800003,
+          247.80001153,
+          3.0
+        ]
+      },
+      {
+        "name": "BIS",
+        "min": [
+          83.0,
+          228.00000847,
+          0.0
+        ],
+        "max": [
+          104.800003,
+          247.80001153,
+          3.0
+        ]
+      },
+      {
+        "name": "BIS",
+        "min": [
+          112.0000005,
+          228.00000847,
+          0.0
+        ],
+        "max": [
+          133.8000035,
+          247.80001153,
+          3.0
+        ]
+      },
+      {
+        "name": "BIS-X",
+        "min": [
+          141.0000085,
+          228.0000085,
+          0.0
+        ],
+        "max": [
+          162.8000115,
+          249.8000115,
+          3.0
+        ]
+      }
+    ],
+    "settings": "PETG HF noir, X1C 0.4, PEI lisse, couche 0.16",
+    "slice": {
+      "index": "1",
+      "extruder_type": "0",
+      "nozzle_volume_type": "0",
+      "printer_model_id": "",
+      "nozzle_diameters": "0.4",
+      "timelapse_type": "0",
+      "prediction": "9008",
+      "weight": "88.46",
+      "pause_count": "0",
+      "first_layer_time": "0.000000",
+      "outside": "false",
+      "support_used": "false",
+      "label_object_enabled": "true",
+      "support_material_on_wipe_tower": "false",
+      "enable_filament_dynamic_map": "false",
+      "has_filament_switcher": "false",
+      "filament_maps": "1",
+      "limit_filament_maps": "0"
+    }
+  },
+  {
+    "first_layer_with_supports_and_brim": [
+      34.999990000000004,
+      103.02145,
+      196.97855,
+      131.19999
+    ],
+    "file": "11_OPTION_Test_filament_et_jonction.3mf",
+    "objects": [
+      {
+        "name": "TEST-FILAMENT",
+        "min": [
+          35.0,
+          105.0,
+          0.0
+        ],
+        "max": [
+          115.0,
+          125.0,
+          63.0
+        ]
+      },
+      {
+        "name": "TEST-JONCTION-1",
+        "min": [
+          145.0,
+          104.9999995,
+          0.0
+        ],
+        "max": [
+          165.0,
+          131.1999965,
+          63.0
+        ]
+      },
+      {
+        "name": "TEST-JONCTION-2",
+        "min": [
+          175.0,
+          104.9999999,
+          0.0
+        ],
+        "max": [
+          195.0,
+          130.6000061,
+          63.0
+        ]
+      }
+    ],
+    "settings": "PETG HF noir, X1C 0.4, PEI lisse, couche 0.16",
+    "slice": {
+      "index": "1",
+      "extruder_type": "0",
+      "nozzle_volume_type": "0",
+      "printer_model_id": "",
+      "nozzle_diameters": "0.4",
+      "timelapse_type": "0",
+      "prediction": "7675",
+      "weight": "30.60",
+      "pause_count": "0",
+      "first_layer_time": "0.000000",
+      "outside": "false",
+      "support_used": "true",
+      "label_object_enabled": "true",
+      "support_material_on_wipe_tower": "false",
+      "enable_filament_dynamic_map": "false",
+      "has_filament_switcher": "false",
+      "filament_maps": "1",
+      "limit_filament_maps": "0"
+    }
+  }
+]

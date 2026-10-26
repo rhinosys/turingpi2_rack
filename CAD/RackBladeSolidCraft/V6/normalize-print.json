@@ -1,0 +1,61 @@
+{
+  "name": "batch",
+  "arguments": {
+    "commands": [
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "Q-AV-D"
+          ],
+          "translate": [
+            0.00043349337659719816,
+            176.50064177241637,
+            0.00032728524869451905
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "Q-AR-D"
+          ],
+          "translate": [
+            0.0004368140814462344,
+            176.50064215290277,
+            -210.19973580790514
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "Q-AV-G-EAR"
+          ],
+          "translate": [
+            241.2998531099135,
+            176.5007563300444,
+            0.000370011372439194
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "Q-AR-G"
+          ],
+          "translate": [
+            223.10000000000014,
+            176.5006383406245,
+            -210.19973580763764
+          ]
+        }
+      }
+    ],
+    "verbose": false,
+    "rollback": true
+  }
+}

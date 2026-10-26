@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"name\": \"Supports_Rails_L_PETG_R2\"\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 17,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"bytes\": 46050,\n  \"format\": \"Step\",\n  \"path\": \"./CAD/RackBladeSolidCraft/Supports_Rails_L/exports/BERCEAU-B.step\"\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

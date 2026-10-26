@@ -1,0 +1,12 @@
+{
+  "id": 33,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"completed\": 4,\n  \"ok\": true,\n  \"results\": [\n    {\n      \"changed_bodies\": [\n        \"BT-D\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 1007,\n      \"ms\": 2.239709,\n      \"name\": \"Move151\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [\n        \"FOND-AR-D\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 1008,\n      \"ms\": 1.42075,\n      \"name\": \"Move152\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [\n        \"BT-G\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 1009,\n      \"ms\": 2.5917499999999998,\n      \"name\": \"Move153\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [\n        \"FOND-AR-G\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 1010,\n      \"ms\": 1.421417,\n      \"name\": \"Move154\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    }\n  ]\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

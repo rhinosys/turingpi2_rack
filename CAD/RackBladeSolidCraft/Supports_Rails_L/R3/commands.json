@@ -1,0 +1,1821 @@
+[
+  {
+    "command": "parameters.change",
+    "params": {
+      "name": "m6_d",
+      "expression": 6.8
+    }
+  },
+  {
+    "command": "parameters.change",
+    "params": {
+      "name": "m4_d",
+      "expression": 4.3
+    }
+  },
+  {
+    "command": "parameters.change",
+    "params": {
+      "name": "m4_nut_af",
+      "expression": 7.2
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AV-A-Platine",
+      "body_name": "AV-A",
+      "corner": [
+        -15,
+        0,
+        0
+      ],
+      "length": 30,
+      "width": 8,
+      "height": 56,
+      "operation": "new"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AV-A-Tablette",
+      "body_name": null,
+      "corner": [
+        -15,
+        7.8,
+        24
+      ],
+      "length": 44,
+      "width": 48.2,
+      "height": 8,
+      "operation": "join",
+      "targets": [
+        "AV-A"
+      ]
+    }
+  },
+  {
+    "command": "sketch.create",
+    "params": {
+      "plane": {
+        "origin": [
+          -15,
+          0,
+          0
+        ],
+        "x_dir": [
+          0,
+          1,
+          0
+        ],
+        "y_dir": [
+          0,
+          0,
+          1
+        ]
+      },
+      "name": "AV-A-Nervure"
+    }
+  },
+  {
+    "command": "sketch.line",
+    "params": {
+      "points": [
+        [
+          7.8,
+          4
+        ],
+        [
+          56,
+          24
+        ],
+        [
+          56,
+          24.1
+        ],
+        [
+          7.8,
+          24.1
+        ]
+      ],
+      "closed": true
+    }
+  },
+  {
+    "command": "sketch.finish",
+    "params": {}
+  },
+  {
+    "command": "solid.extrude",
+    "params": {
+      "distance": 4,
+      "direction": "positive",
+      "operation": "join",
+      "targets": [
+        "AV-A"
+      ],
+      "name": "AV-A-Renfort"
+    }
+  },
+  {
+    "command": "sketch.create",
+    "params": {
+      "plane": {
+        "origin": [
+          11,
+          0,
+          0
+        ],
+        "x_dir": [
+          0,
+          1,
+          0
+        ],
+        "y_dir": [
+          0,
+          0,
+          1
+        ]
+      },
+      "name": "AV-A-Nervure"
+    }
+  },
+  {
+    "command": "sketch.line",
+    "params": {
+      "points": [
+        [
+          7.8,
+          4
+        ],
+        [
+          56,
+          24
+        ],
+        [
+          56,
+          24.1
+        ],
+        [
+          7.8,
+          24.1
+        ]
+      ],
+      "closed": true
+    }
+  },
+  {
+    "command": "sketch.finish",
+    "params": {}
+  },
+  {
+    "command": "solid.extrude",
+    "params": {
+      "distance": 4,
+      "direction": "positive",
+      "operation": "join",
+      "targets": [
+        "AV-A"
+      ],
+      "name": "AV-A-Renfort"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AV-A-Bord-exterieur",
+      "body_name": null,
+      "corner": [
+        -15,
+        8,
+        31.9
+      ],
+      "length": 18.7,
+      "width": 48,
+      "height": 1.1,
+      "operation": "join",
+      "targets": [
+        "AV-A"
+      ]
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AV-A-Bord-interieur",
+      "body_name": null,
+      "corner": [
+        19.8,
+        8,
+        31.9
+      ],
+      "length": 9.2,
+      "width": 48,
+      "height": 1.1,
+      "operation": "join",
+      "targets": [
+        "AV-A"
+      ]
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AV-A-Butee",
+      "body_name": null,
+      "corner": [
+        3.7,
+        16,
+        31.9
+      ],
+      "length": 16.1,
+      "width": 2,
+      "height": 2.1,
+      "operation": "join",
+      "targets": [
+        "AV-A"
+      ]
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AV-A-Lumiere",
+      "body_name": null,
+      "corner": [
+        -3.4,
+        -1,
+        10
+      ],
+      "length": 6.8,
+      "width": 10,
+      "height": 4,
+      "operation": "cut",
+      "targets": [
+        "AV-A"
+      ]
+    }
+  },
+  {
+    "command": "solid.cylinder",
+    "params": {
+      "radius": "m6_d/2",
+      "height": 10,
+      "base": [
+        0,
+        -1,
+        10
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "operation": "cut",
+      "targets": [
+        "AV-A"
+      ],
+      "name": "AV-A-M6"
+    }
+  },
+  {
+    "command": "solid.cylinder",
+    "params": {
+      "radius": "m6_d/2",
+      "height": 10,
+      "base": [
+        0,
+        -1,
+        14
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "operation": "cut",
+      "targets": [
+        "AV-A"
+      ],
+      "name": "AV-A-M6"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AV-A-Lumiere",
+      "body_name": null,
+      "corner": [
+        -3.4,
+        -1,
+        41.75
+      ],
+      "length": 6.8,
+      "width": 10,
+      "height": 4,
+      "operation": "cut",
+      "targets": [
+        "AV-A"
+      ]
+    }
+  },
+  {
+    "command": "solid.cylinder",
+    "params": {
+      "radius": "m6_d/2",
+      "height": 10,
+      "base": [
+        0,
+        -1,
+        41.75
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "operation": "cut",
+      "targets": [
+        "AV-A"
+      ],
+      "name": "AV-A-M6"
+    }
+  },
+  {
+    "command": "solid.cylinder",
+    "params": {
+      "radius": "m6_d/2",
+      "height": 10,
+      "base": [
+        0,
+        -1,
+        45.75
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "operation": "cut",
+      "targets": [
+        "AV-A"
+      ],
+      "name": "AV-A-M6"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AV-B-Platine",
+      "body_name": "AV-B",
+      "corner": [
+        85,
+        0,
+        0
+      ],
+      "length": 30,
+      "width": 8,
+      "height": 56,
+      "operation": "new"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AV-B-Tablette",
+      "body_name": null,
+      "corner": [
+        71,
+        7.8,
+        24
+      ],
+      "length": 44,
+      "width": 48.2,
+      "height": 8,
+      "operation": "join",
+      "targets": [
+        "AV-B"
+      ]
+    }
+  },
+  {
+    "command": "sketch.create",
+    "params": {
+      "plane": {
+        "origin": [
+          115,
+          0,
+          0
+        ],
+        "x_dir": [
+          0,
+          1,
+          0
+        ],
+        "y_dir": [
+          0,
+          0,
+          1
+        ]
+      },
+      "name": "AV-B-Nervure"
+    }
+  },
+  {
+    "command": "sketch.line",
+    "params": {
+      "points": [
+        [
+          7.8,
+          4
+        ],
+        [
+          56,
+          24
+        ],
+        [
+          56,
+          24.1
+        ],
+        [
+          7.8,
+          24.1
+        ]
+      ],
+      "closed": true
+    }
+  },
+  {
+    "command": "sketch.finish",
+    "params": {}
+  },
+  {
+    "command": "solid.extrude",
+    "params": {
+      "distance": 4,
+      "direction": "negative",
+      "operation": "join",
+      "targets": [
+        "AV-B"
+      ],
+      "name": "AV-B-Renfort"
+    }
+  },
+  {
+    "command": "sketch.create",
+    "params": {
+      "plane": {
+        "origin": [
+          89,
+          0,
+          0
+        ],
+        "x_dir": [
+          0,
+          1,
+          0
+        ],
+        "y_dir": [
+          0,
+          0,
+          1
+        ]
+      },
+      "name": "AV-B-Nervure"
+    }
+  },
+  {
+    "command": "sketch.line",
+    "params": {
+      "points": [
+        [
+          7.8,
+          4
+        ],
+        [
+          56,
+          24
+        ],
+        [
+          56,
+          24.1
+        ],
+        [
+          7.8,
+          24.1
+        ]
+      ],
+      "closed": true
+    }
+  },
+  {
+    "command": "sketch.finish",
+    "params": {}
+  },
+  {
+    "command": "solid.extrude",
+    "params": {
+      "distance": 4,
+      "direction": "negative",
+      "operation": "join",
+      "targets": [
+        "AV-B"
+      ],
+      "name": "AV-B-Renfort"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AV-B-Bord-exterieur",
+      "body_name": null,
+      "corner": [
+        96.3,
+        8,
+        31.9
+      ],
+      "length": 18.7,
+      "width": 48,
+      "height": 1.1,
+      "operation": "join",
+      "targets": [
+        "AV-B"
+      ]
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AV-B-Bord-interieur",
+      "body_name": null,
+      "corner": [
+        71.0,
+        8,
+        31.9
+      ],
+      "length": 9.2,
+      "width": 48,
+      "height": 1.1,
+      "operation": "join",
+      "targets": [
+        "AV-B"
+      ]
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AV-B-Butee",
+      "body_name": null,
+      "corner": [
+        80.19999999999999,
+        16,
+        31.9
+      ],
+      "length": 16.1,
+      "width": 2,
+      "height": 2.1,
+      "operation": "join",
+      "targets": [
+        "AV-B"
+      ]
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AV-B-Lumiere",
+      "body_name": null,
+      "corner": [
+        96.60000000000001,
+        -1,
+        10
+      ],
+      "length": 6.8,
+      "width": 10,
+      "height": 4,
+      "operation": "cut",
+      "targets": [
+        "AV-B"
+      ]
+    }
+  },
+  {
+    "command": "solid.cylinder",
+    "params": {
+      "radius": "m6_d/2",
+      "height": 10,
+      "base": [
+        100,
+        -1,
+        10
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "operation": "cut",
+      "targets": [
+        "AV-B"
+      ],
+      "name": "AV-B-M6"
+    }
+  },
+  {
+    "command": "solid.cylinder",
+    "params": {
+      "radius": "m6_d/2",
+      "height": 10,
+      "base": [
+        100,
+        -1,
+        14
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "operation": "cut",
+      "targets": [
+        "AV-B"
+      ],
+      "name": "AV-B-M6"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AV-B-Lumiere",
+      "body_name": null,
+      "corner": [
+        96.60000000000001,
+        -1,
+        41.75
+      ],
+      "length": 6.8,
+      "width": 10,
+      "height": 4,
+      "operation": "cut",
+      "targets": [
+        "AV-B"
+      ]
+    }
+  },
+  {
+    "command": "solid.cylinder",
+    "params": {
+      "radius": "m6_d/2",
+      "height": 10,
+      "base": [
+        100,
+        -1,
+        41.75
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "operation": "cut",
+      "targets": [
+        "AV-B"
+      ],
+      "name": "AV-B-M6"
+    }
+  },
+  {
+    "command": "solid.cylinder",
+    "params": {
+      "radius": "m6_d/2",
+      "height": 10,
+      "base": [
+        100,
+        -1,
+        45.75
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "operation": "cut",
+      "targets": [
+        "AV-B"
+      ],
+      "name": "AV-B-M6"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AR-A-Platine",
+      "body_name": "AR-A",
+      "corner": [
+        185,
+        0,
+        0
+      ],
+      "length": 30,
+      "width": 8,
+      "height": 56,
+      "operation": "new"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AR-A-Tablette",
+      "body_name": null,
+      "corner": [
+        185,
+        0,
+        24
+      ],
+      "length": 44,
+      "width": 61,
+      "height": 8,
+      "operation": "join",
+      "targets": [
+        "AR-A"
+      ]
+    }
+  },
+  {
+    "command": "sketch.create",
+    "params": {
+      "plane": {
+        "origin": [
+          185,
+          0,
+          0
+        ],
+        "x_dir": [
+          0,
+          1,
+          0
+        ],
+        "y_dir": [
+          0,
+          0,
+          1
+        ]
+      },
+      "name": "AR-A-Nervure"
+    }
+  },
+  {
+    "command": "sketch.line",
+    "params": {
+      "points": [
+        [
+          7.8,
+          4
+        ],
+        [
+          61,
+          24
+        ],
+        [
+          61,
+          24.1
+        ],
+        [
+          7.8,
+          24.1
+        ]
+      ],
+      "closed": true
+    }
+  },
+  {
+    "command": "sketch.finish",
+    "params": {}
+  },
+  {
+    "command": "solid.extrude",
+    "params": {
+      "distance": 4,
+      "direction": "positive",
+      "operation": "join",
+      "targets": [
+        "AR-A"
+      ],
+      "name": "AR-A-Renfort"
+    }
+  },
+  {
+    "command": "sketch.create",
+    "params": {
+      "plane": {
+        "origin": [
+          211,
+          0,
+          0
+        ],
+        "x_dir": [
+          0,
+          1,
+          0
+        ],
+        "y_dir": [
+          0,
+          0,
+          1
+        ]
+      },
+      "name": "AR-A-Nervure"
+    }
+  },
+  {
+    "command": "sketch.line",
+    "params": {
+      "points": [
+        [
+          7.8,
+          4
+        ],
+        [
+          61,
+          24
+        ],
+        [
+          61,
+          24.1
+        ],
+        [
+          7.8,
+          24.1
+        ]
+      ],
+      "closed": true
+    }
+  },
+  {
+    "command": "sketch.finish",
+    "params": {}
+  },
+  {
+    "command": "solid.extrude",
+    "params": {
+      "distance": 4,
+      "direction": "positive",
+      "operation": "join",
+      "targets": [
+        "AR-A"
+      ],
+      "name": "AR-A-Renfort"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AR-A-Bord-exterieur",
+      "body_name": null,
+      "corner": [
+        185,
+        8,
+        31.9
+      ],
+      "length": 18.7,
+      "width": 53,
+      "height": 1.1,
+      "operation": "join",
+      "targets": [
+        "AR-A"
+      ]
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AR-A-Bord-interieur",
+      "body_name": null,
+      "corner": [
+        219.8,
+        8,
+        31.9
+      ],
+      "length": 9.2,
+      "width": 53,
+      "height": 1.1,
+      "operation": "join",
+      "targets": [
+        "AR-A"
+      ]
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AR-A-Butee",
+      "body_name": null,
+      "corner": [
+        203.7,
+        16,
+        31.9
+      ],
+      "length": 16.1,
+      "width": 2,
+      "height": 2.1,
+      "operation": "join",
+      "targets": [
+        "AR-A"
+      ]
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AR-A-Paroi-gorge",
+      "body_name": null,
+      "corner": [
+        219.8,
+        18,
+        32
+      ],
+      "length": 4.2,
+      "width": 41,
+      "height": 8.1,
+      "operation": "join",
+      "targets": [
+        "AR-A"
+      ]
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AR-A-Toit-gorge",
+      "body_name": null,
+      "corner": [
+        205.9,
+        18,
+        34.1
+      ],
+      "length": 18.1,
+      "width": 41,
+      "height": 6,
+      "operation": "join",
+      "targets": [
+        "AR-A"
+      ]
+    }
+  },
+  {
+    "command": "sketch.create",
+    "params": {
+      "plane": {
+        "origin": [
+          205.9,
+          0,
+          0
+        ],
+        "x_dir": [
+          0,
+          1,
+          0
+        ],
+        "y_dir": [
+          0,
+          0,
+          1
+        ]
+      },
+      "name": "AR-A-Rampe-gorge"
+    }
+  },
+  {
+    "command": "sketch.line",
+    "params": {
+      "points": [
+        [
+          8,
+          31.9
+        ],
+        [
+          18,
+          31.9
+        ],
+        [
+          18,
+          40.1
+        ]
+      ],
+      "closed": true
+    }
+  },
+  {
+    "command": "sketch.finish",
+    "params": {}
+  },
+  {
+    "command": "solid.extrude",
+    "params": {
+      "distance": 18.1,
+      "direction": "positive",
+      "operation": "join",
+      "targets": [
+        "AR-A"
+      ],
+      "name": "AR-A-Fond-gorge-renforce"
+    }
+  },
+  {
+    "command": "solid.cylinder",
+    "params": {
+      "radius": 5,
+      "height": 24.1,
+      "base": [
+        211.75,
+        53,
+        -0.1
+      ],
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "operation": "cut",
+      "targets": [
+        "AR-A"
+      ],
+      "name": "AR-A-Acces-tete-M4"
+    }
+  },
+  {
+    "command": "solid.cylinder",
+    "params": {
+      "radius": "m4_d/2",
+      "height": 18,
+      "base": [
+        211.75,
+        53,
+        23
+      ],
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "operation": "cut",
+      "targets": [
+        "AR-A"
+      ],
+      "name": "AR-A-Passage-M4"
+    }
+  },
+  {
+    "command": "sketch.create",
+    "params": {
+      "plane": {
+        "origin": [
+          0,
+          0,
+          36.7
+        ],
+        "x_dir": [
+          1,
+          0,
+          0
+        ],
+        "y_dir": [
+          0,
+          1,
+          0
+        ]
+      },
+      "name": "AR-A-Ecrou-M4"
+    }
+  },
+  {
+    "command": "sketch.line",
+    "params": {
+      "points": [
+        [
+          215.35,
+          55.078460969082656
+        ],
+        [
+          211.75,
+          57.156921938165304
+        ],
+        [
+          208.15,
+          55.078460969082656
+        ],
+        [
+          208.15,
+          50.921539030917344
+        ],
+        [
+          211.75,
+          48.843078061834696
+        ],
+        [
+          215.35,
+          50.921539030917344
+        ]
+      ],
+      "closed": true
+    }
+  },
+  {
+    "command": "sketch.finish",
+    "params": {}
+  },
+  {
+    "command": "solid.extrude",
+    "params": {
+      "distance": 3.5,
+      "operation": "cut",
+      "targets": [
+        "AR-A"
+      ],
+      "name": "AR-A-Logement-ecrou-M4"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AR-A-Lumiere",
+      "body_name": null,
+      "corner": [
+        196.6,
+        -1,
+        10
+      ],
+      "length": 6.8,
+      "width": 10,
+      "height": 4,
+      "operation": "cut",
+      "targets": [
+        "AR-A"
+      ]
+    }
+  },
+  {
+    "command": "solid.cylinder",
+    "params": {
+      "radius": "m6_d/2",
+      "height": 10,
+      "base": [
+        200,
+        -1,
+        10
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "operation": "cut",
+      "targets": [
+        "AR-A"
+      ],
+      "name": "AR-A-M6"
+    }
+  },
+  {
+    "command": "solid.cylinder",
+    "params": {
+      "radius": "m6_d/2",
+      "height": 10,
+      "base": [
+        200,
+        -1,
+        14
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "operation": "cut",
+      "targets": [
+        "AR-A"
+      ],
+      "name": "AR-A-M6"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AR-A-Lumiere",
+      "body_name": null,
+      "corner": [
+        196.6,
+        -1,
+        41.75
+      ],
+      "length": 6.8,
+      "width": 10,
+      "height": 4,
+      "operation": "cut",
+      "targets": [
+        "AR-A"
+      ]
+    }
+  },
+  {
+    "command": "solid.cylinder",
+    "params": {
+      "radius": "m6_d/2",
+      "height": 10,
+      "base": [
+        200,
+        -1,
+        41.75
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "operation": "cut",
+      "targets": [
+        "AR-A"
+      ],
+      "name": "AR-A-M6"
+    }
+  },
+  {
+    "command": "solid.cylinder",
+    "params": {
+      "radius": "m6_d/2",
+      "height": 10,
+      "base": [
+        200,
+        -1,
+        45.75
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "operation": "cut",
+      "targets": [
+        "AR-A"
+      ],
+      "name": "AR-A-M6"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AR-B-Platine",
+      "body_name": "AR-B",
+      "corner": [
+        285,
+        0,
+        0
+      ],
+      "length": 30,
+      "width": 8,
+      "height": 56,
+      "operation": "new"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AR-B-Tablette",
+      "body_name": null,
+      "corner": [
+        271,
+        0,
+        24
+      ],
+      "length": 44,
+      "width": 61,
+      "height": 8,
+      "operation": "join",
+      "targets": [
+        "AR-B"
+      ]
+    }
+  },
+  {
+    "command": "sketch.create",
+    "params": {
+      "plane": {
+        "origin": [
+          315,
+          0,
+          0
+        ],
+        "x_dir": [
+          0,
+          1,
+          0
+        ],
+        "y_dir": [
+          0,
+          0,
+          1
+        ]
+      },
+      "name": "AR-B-Nervure"
+    }
+  },
+  {
+    "command": "sketch.line",
+    "params": {
+      "points": [
+        [
+          7.8,
+          4
+        ],
+        [
+          61,
+          24
+        ],
+        [
+          61,
+          24.1
+        ],
+        [
+          7.8,
+          24.1
+        ]
+      ],
+      "closed": true
+    }
+  },
+  {
+    "command": "sketch.finish",
+    "params": {}
+  },
+  {
+    "command": "solid.extrude",
+    "params": {
+      "distance": 4,
+      "direction": "negative",
+      "operation": "join",
+      "targets": [
+        "AR-B"
+      ],
+      "name": "AR-B-Renfort"
+    }
+  },
+  {
+    "command": "sketch.create",
+    "params": {
+      "plane": {
+        "origin": [
+          289,
+          0,
+          0
+        ],
+        "x_dir": [
+          0,
+          1,
+          0
+        ],
+        "y_dir": [
+          0,
+          0,
+          1
+        ]
+      },
+      "name": "AR-B-Nervure"
+    }
+  },
+  {
+    "command": "sketch.line",
+    "params": {
+      "points": [
+        [
+          7.8,
+          4
+        ],
+        [
+          61,
+          24
+        ],
+        [
+          61,
+          24.1
+        ],
+        [
+          7.8,
+          24.1
+        ]
+      ],
+      "closed": true
+    }
+  },
+  {
+    "command": "sketch.finish",
+    "params": {}
+  },
+  {
+    "command": "solid.extrude",
+    "params": {
+      "distance": 4,
+      "direction": "negative",
+      "operation": "join",
+      "targets": [
+        "AR-B"
+      ],
+      "name": "AR-B-Renfort"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AR-B-Bord-exterieur",
+      "body_name": null,
+      "corner": [
+        296.3,
+        8,
+        31.9
+      ],
+      "length": 18.7,
+      "width": 53,
+      "height": 1.1,
+      "operation": "join",
+      "targets": [
+        "AR-B"
+      ]
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AR-B-Bord-interieur",
+      "body_name": null,
+      "corner": [
+        271.0,
+        8,
+        31.9
+      ],
+      "length": 9.2,
+      "width": 53,
+      "height": 1.1,
+      "operation": "join",
+      "targets": [
+        "AR-B"
+      ]
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AR-B-Butee",
+      "body_name": null,
+      "corner": [
+        280.2,
+        16,
+        31.9
+      ],
+      "length": 16.1,
+      "width": 2,
+      "height": 2.1,
+      "operation": "join",
+      "targets": [
+        "AR-B"
+      ]
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AR-B-Paroi-gorge",
+      "body_name": null,
+      "corner": [
+        276.0,
+        18,
+        32
+      ],
+      "length": 4.2,
+      "width": 41,
+      "height": 8.1,
+      "operation": "join",
+      "targets": [
+        "AR-B"
+      ]
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AR-B-Toit-gorge",
+      "body_name": null,
+      "corner": [
+        276.0,
+        18,
+        34.1
+      ],
+      "length": 18.1,
+      "width": 41,
+      "height": 6,
+      "operation": "join",
+      "targets": [
+        "AR-B"
+      ]
+    }
+  },
+  {
+    "command": "sketch.create",
+    "params": {
+      "plane": {
+        "origin": [
+          294.1,
+          0,
+          0
+        ],
+        "x_dir": [
+          0,
+          1,
+          0
+        ],
+        "y_dir": [
+          0,
+          0,
+          1
+        ]
+      },
+      "name": "AR-B-Rampe-gorge"
+    }
+  },
+  {
+    "command": "sketch.line",
+    "params": {
+      "points": [
+        [
+          8,
+          31.9
+        ],
+        [
+          18,
+          31.9
+        ],
+        [
+          18,
+          40.1
+        ]
+      ],
+      "closed": true
+    }
+  },
+  {
+    "command": "sketch.finish",
+    "params": {}
+  },
+  {
+    "command": "solid.extrude",
+    "params": {
+      "distance": 18.1,
+      "direction": "negative",
+      "operation": "join",
+      "targets": [
+        "AR-B"
+      ],
+      "name": "AR-B-Fond-gorge-renforce"
+    }
+  },
+  {
+    "command": "solid.cylinder",
+    "params": {
+      "radius": 5,
+      "height": 24.1,
+      "base": [
+        288.25,
+        53,
+        -0.1
+      ],
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "operation": "cut",
+      "targets": [
+        "AR-B"
+      ],
+      "name": "AR-B-Acces-tete-M4"
+    }
+  },
+  {
+    "command": "solid.cylinder",
+    "params": {
+      "radius": "m4_d/2",
+      "height": 18,
+      "base": [
+        288.25,
+        53,
+        23
+      ],
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "operation": "cut",
+      "targets": [
+        "AR-B"
+      ],
+      "name": "AR-B-Passage-M4"
+    }
+  },
+  {
+    "command": "sketch.create",
+    "params": {
+      "plane": {
+        "origin": [
+          0,
+          0,
+          36.7
+        ],
+        "x_dir": [
+          1,
+          0,
+          0
+        ],
+        "y_dir": [
+          0,
+          1,
+          0
+        ]
+      },
+      "name": "AR-B-Ecrou-M4"
+    }
+  },
+  {
+    "command": "sketch.line",
+    "params": {
+      "points": [
+        [
+          291.85,
+          55.078460969082656
+        ],
+        [
+          288.25,
+          57.156921938165304
+        ],
+        [
+          284.65,
+          55.078460969082656
+        ],
+        [
+          284.65,
+          50.921539030917344
+        ],
+        [
+          288.25,
+          48.843078061834696
+        ],
+        [
+          291.85,
+          50.921539030917344
+        ]
+      ],
+      "closed": true
+    }
+  },
+  {
+    "command": "sketch.finish",
+    "params": {}
+  },
+  {
+    "command": "solid.extrude",
+    "params": {
+      "distance": 3.5,
+      "operation": "cut",
+      "targets": [
+        "AR-B"
+      ],
+      "name": "AR-B-Logement-ecrou-M4"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AR-B-Lumiere",
+      "body_name": null,
+      "corner": [
+        296.59999999999997,
+        -1,
+        10
+      ],
+      "length": 6.8,
+      "width": 10,
+      "height": 4,
+      "operation": "cut",
+      "targets": [
+        "AR-B"
+      ]
+    }
+  },
+  {
+    "command": "solid.cylinder",
+    "params": {
+      "radius": "m6_d/2",
+      "height": 10,
+      "base": [
+        300,
+        -1,
+        10
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "operation": "cut",
+      "targets": [
+        "AR-B"
+      ],
+      "name": "AR-B-M6"
+    }
+  },
+  {
+    "command": "solid.cylinder",
+    "params": {
+      "radius": "m6_d/2",
+      "height": 10,
+      "base": [
+        300,
+        -1,
+        14
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "operation": "cut",
+      "targets": [
+        "AR-B"
+      ],
+      "name": "AR-B-M6"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "AR-B-Lumiere",
+      "body_name": null,
+      "corner": [
+        296.59999999999997,
+        -1,
+        41.75
+      ],
+      "length": 6.8,
+      "width": 10,
+      "height": 4,
+      "operation": "cut",
+      "targets": [
+        "AR-B"
+      ]
+    }
+  },
+  {
+    "command": "solid.cylinder",
+    "params": {
+      "radius": "m6_d/2",
+      "height": 10,
+      "base": [
+        300,
+        -1,
+        41.75
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "operation": "cut",
+      "targets": [
+        "AR-B"
+      ],
+      "name": "AR-B-M6"
+    }
+  },
+  {
+    "command": "solid.cylinder",
+    "params": {
+      "radius": "m6_d/2",
+      "height": 10,
+      "base": [
+        300,
+        -1,
+        45.75
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "operation": "cut",
+      "targets": [
+        "AR-B"
+      ],
+      "name": "AR-B-M6"
+    }
+  }
+]

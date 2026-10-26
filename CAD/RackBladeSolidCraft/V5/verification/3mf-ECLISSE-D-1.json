@@ -1,0 +1,12 @@
+{
+  "id": 57,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"bytes\": 10832,\n  \"format\": \"ThreeMf\",\n  \"path\": \"./CAD/RackBladeSolidCraft/V5/exports/ECLISSE-D-1.3mf\"\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

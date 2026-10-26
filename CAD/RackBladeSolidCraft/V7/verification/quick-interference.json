@@ -1,0 +1,12 @@
+{
+  "id": 4,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"boolean_ms\": 4384.245,\n  \"budget_exceeded\": false,\n  \"budget_s\": 45.0,\n  \"checked\": 11,\n  \"count\": 0,\n  \"interferences\": [],\n  \"ms\": 6554.119,\n  \"pairs_candidate\": 14,\n  \"pairs_cleared\": 0,\n  \"pairs_intersected\": 14,\n  \"pairs_not_checked\": 0,\n  \"skipped_pairs\": 0,\n  \"slowest\": [\n    {\n      \"a\": \"BF-D\",\n      \"b\": \"HANDLE-D\",\n      \"boolean_ms\": 12.86,\n      \"ms\": 6421.02,\n      \"tessellate_ms\": 407.846\n    },\n    {\n      \"a\": \"BT-D\",\n      \"b\": \"BF-D\",\n      \"boolean_ms\": 289.557,\n      \"ms\": 6073.473,\n      \"tessellate_ms\": 262.772\n    },\n    {\n      \"a\": \"BT-D\",\n      \"b\": \"REF_FILAMENT-D-2\",\n      \"boolean_ms\": 959.706,\n      \"ms\": 1347.546,\n      \"tessellate_ms\": 0.0\n    },\n    {\n      \"a\": \"BT-D\",\n      \"b\": \"REF_FILAMENT-D-1\",\n      \"boolean_ms\": 940.155,\n      \"ms\": 1312.375,\n      \"tessellate_ms\": 0.0\n    },\n    {\n      \"a\": \"BT-D\",\n      \"b\": \"FOND-AR-D\",\n      \"boolean_ms\": 365.582,\n      \"ms\": 1151.154,\n      \"tessellate_ms\": 67.445\n    },\n    {\n      \"a\": \"BT-D\",\n      \"b\": \"REF_TP2_R\",\n      \"boolean_ms\": 831.982,\n      \"ms\": 1129.309,\n      \"tessellate_ms\": 0.0\n    },\n    {\n      \"a\": \"BT-D\",\n      \"b\": \"REF_NVME_R\",\n      \"boolean_ms\": 213.566,\n      \"ms\": 669.482,\n      \"tessellate_ms\": 0.0\n    },\n    {\n      \"a\": \"BT-D\",\n      \"b\": \"REF_MODULES_R\",\n      \"boolean_ms\": 199.783,\n      \"ms\": 549.589,\n      \"tessellate_ms\": 0.0\n    }\n  ],\n  \"tessellate_ms\": 738.063,\n  \"threads\": 8,\n  \"truncated\": false,\n  \"unchecked\": []\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

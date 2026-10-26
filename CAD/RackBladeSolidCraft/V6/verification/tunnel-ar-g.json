@@ -1,0 +1,13 @@
+{
+  "id": 8,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"applied\": [],\n  \"completed\": 4,\n  \"failed\": {\n    \"command\": \"solid.box\",\n    \"error\": \"boolean Cut: the operation failed: no result\",\n    \"index\": 4\n  },\n  \"not_run\": [\n    5,\n    6,\n    7,\n    8,\n    9,\n    10,\n    11,\n    12,\n    13,\n    14\n  ],\n  \"ok\": false,\n  \"results\": [\n    {\n      \"changed_bodies\": [\n        \"TOP-AR-G\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 795,\n      \"ms\": 78.96575,\n      \"name\": \"Rive-plane-Q-AR-G\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [\n        \"Q-AR-G\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 796,\n      \"ms\": 3382.9150409999997,\n      \"name\": \"Pont-toit-Q-AR-G\",\n      \"removed_bodies\": [],\n      \"warning\": \"Boolean retry: tool displacement 7.130750e-4 mm, rotation 2.000000e-6 rad\"\n    },\n    {\n      \"changed_bodies\": [\n        \"Q-AR-G\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 797,\n      \"ms\": 22873.578584,\n      \"name\": \"Combine10\",\n      \"removed_bodies\": [\n        \"TOP-AR-G\"\n      ],\n      \"warning\": \"Boolean retry: tool displacement 7.082213e-4 mm, rotation 2.000000e-6 rad\"\n    },\n    {\n      \"changed_bodies\": [\n        \"Q-AR-G\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 798,\n      \"ms\": 1365.555375,\n      \"name\": \"Demi-cloison-Q-AR-G\",\n      \"removed_bodies\": [],\n      \"warning\": \"Boolean retry: tool displacement 7.162425e-4 mm, rotation 2.000000e-6 rad\"\n    }\n  ],\n  \"rolled_back\": true,\n  \"undone\": 4\n}",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "batch",
+  "arguments": {
+    "commands": [
+      {
+        "command": "document.metadata.set",
+        "params": {
+          "values": {
+            "revision": "V6",
+            "description": "Quatre tunnels verticaux int\u00e9gr\u00e9s; cassettes V5 compl\u00e8tes; oreilles sur plan Y0."
+          }
+        }
+      }
+    ],
+    "rollback": true,
+    "verbose": false
+  }
+}

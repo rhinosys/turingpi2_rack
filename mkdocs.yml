@@ -1,0 +1,50 @@
+site_name: Turing Pi 2 · Rack Blade
+site_url: https://rhinosys.github.io/turingpi2_rack/
+site_description: Bilingual CAD, printing and assembly documentation for a 19-inch 4U Turing Pi enclosure.
+repo_url: https://github.com/rhinosys/turingpi2_rack
+repo_name: rhinosys/turingpi2_rack
+edit_uri: edit/main/docs/
+theme:
+  name: material
+  palette:
+    primary: blue grey
+    accent: amber
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+plugins:
+  - search:
+      lang: [en, fr]
+markdown_extensions:
+  - tables
+  - admonition
+  - attr_list
+  - pymdownx.superfences
+extra_css:
+  - assets/style.css
+nav:
+  - Home / Accueil: index.md
+  - English:
+      - Overview: en/index.md
+      - Architecture & parts: en/architecture.md
+      - CAD & downloads: en/files.md
+      - Printing: en/printing.md
+      - Assembly: en/assembly.md
+      - L rails — R3: en/rails.md
+      - Validation: en/validation.md
+      - Timeline: en/timeline.md
+      - Initial prompt: en/prompt.md
+      - Maintenance: en/maintenance.md
+  - Français:
+      - Présentation: fr/index.md
+      - Architecture et pièces: fr/architecture.md
+      - CAD et téléchargements: fr/files.md
+      - Impression: fr/printing.md
+      - Montage: fr/assembly.md
+      - Rails en L — R3: fr/rails.md
+      - Validation: fr/validation.md
+      - Chronologie: fr/timeline.md
+      - Prompt initial: fr/prompt.md
+      - Maintenance: fr/maintenance.md

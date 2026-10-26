@@ -1,0 +1,10 @@
+Imprimante :
+Buse :
+Filament / marque / lot :
+Sechage :
+Hauteur de couche :
+Temperature buse / plateau :
+Parois / remplissage :
+Compensation XY trous / contours :
+Compensation pied elephant :
+Date :

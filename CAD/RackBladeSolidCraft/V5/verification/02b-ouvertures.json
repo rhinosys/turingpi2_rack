@@ -1,0 +1,12 @@
+{
+  "id": 10,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"completed\": 8,\n  \"ok\": true,\n  \"results\": [\n    {\n      \"changed_bodies\": [\n        \"FOND-AR-D\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 665,\n      \"ms\": 453.795417,\n      \"name\": \"Ouverture-traversante-PSU-D\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [\n        \"FOND-AR-D\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 666,\n      \"ms\": 417.37225,\n      \"name\": \"Ventilation-traversante-D121\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [\n        \"FOND-AR-D\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 667,\n      \"ms\": 438.628875,\n      \"name\": \"Ventilation-traversante-D132\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [\n        \"FOND-AR-D\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 668,\n      \"ms\": 437.587375,\n      \"name\": \"Ventilation-traversante-D143\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [\n        \"FOND-AR-G\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 669,\n      \"ms\": 431.698917,\n      \"name\": \"Ouverture-traversante-PSU-G\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [\n        \"FOND-AR-G\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 670,\n      \"ms\": 419.498334,\n      \"name\": \"Ventilation-traversante-G121\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [\n        \"FOND-AR-G\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 671,\n      \"ms\": 424.645375,\n      \"name\": \"Ventilation-traversante-G132\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [\n        \"FOND-AR-G\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 672,\n      \"ms\": 424.73508300000003,\n      \"name\": \"Ventilation-traversante-G143\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    }\n  ]\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

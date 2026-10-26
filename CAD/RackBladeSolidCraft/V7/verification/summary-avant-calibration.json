@@ -1,0 +1,82 @@
+{
+  "bodies": 46,
+  "single_shell_bodies": 46,
+  "native_features": 952,
+  "native_feature_errors": 0,
+  "native_full_reopen_test": false,
+  "historical_transient_fragment_warnings": [
+    914,
+    951,
+    955
+  ],
+  "fragment_removal_features": [
+    987,
+    988,
+    989,
+    990
+  ],
+  "print_meshes": 16,
+  "unchanged_enclosure": true,
+  "motion_tests": [
+    {
+      "report": "motion-final-0-corrected.json",
+      "count": 0,
+      "unchecked": 0,
+      "checked": 46
+    },
+    {
+      "report": "motion-final-5.json",
+      "count": 0,
+      "unchecked": 0,
+      "checked": 46
+    },
+    {
+      "report": "motion-final-25.json",
+      "count": 0,
+      "unchecked": 0,
+      "checked": 46
+    },
+    {
+      "report": "motion-final-50.json",
+      "count": 0,
+      "unchecked": 0,
+      "checked": 46
+    },
+    {
+      "report": "motion-final-100.json",
+      "count": 0,
+      "unchecked": 0,
+      "checked": 46
+    },
+    {
+      "report": "motion-final-200.json",
+      "count": 0,
+      "unchecked": 0,
+      "checked": 46
+    },
+    {
+      "report": "motion-final-300.json",
+      "count": 0,
+      "unchecked": 0,
+      "checked": 46
+    },
+    {
+      "report": "motion-final-430.json",
+      "count": 0,
+      "unchecked": 0,
+      "checked": 46
+    },
+    {
+      "report": "motion-independent-D.json",
+      "count": 0,
+      "unchecked": 0,
+      "checked": 46
+    },
+    {
+      "report": "motion-independent-G.json",
+      "count": 0,
+      "unchecked": 0,
+      "checked": 46
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "part": "AV-A",
+    "watertight": true,
+    "winding_consistent": true,
+    "volume_mm3": 34572.275724926156,
+    "bounds": [
+      [
+        0.0,
+        0.0,
+        5.3290705e-15
+      ],
+      [
+        56.0,
+        56.0,
+        44.0
+      ]
+    ]
+  },
+  {
+    "part": "AV-B",
+    "watertight": true,
+    "winding_consistent": true,
+    "volume_mm3": 34572.27610892617,
+    "bounds": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        56.0,
+        56.0,
+        44.0
+      ]
+    ]
+  },
+  {
+    "part": "AR-A",
+    "watertight": true,
+    "winding_consistent": true,
+    "volume_mm3": 42598.70538402479,
+    "bounds": [
+      [
+        -4.3378515e-25,
+        1.4210855e-14,
+        1.4210855e-14
+      ],
+      [
+        44.0,
+        56.0,
+        61.0
+      ]
+    ]
+  },
+  {
+    "part": "AR-B",
+    "watertight": true,
+    "winding_consistent": true,
+    "volume_mm3": 42596.01274341193,
+    "bounds": [
+      [
+        0.0,
+        7.1054273576e-15,
+        0.0
+      ],
+      [
+        44.0,
+        56.0,
+        61.0
+      ]
+    ]
+  }
+]

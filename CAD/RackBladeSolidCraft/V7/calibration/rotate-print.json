@@ -1,0 +1,93 @@
+{
+  "name": "batch",
+  "arguments": {
+    "commands": [
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "Q-AV-D"
+          ],
+          "axis": [
+            1,
+            0,
+            0
+          ],
+          "angle": 90
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "Q-AR-D"
+          ],
+          "axis": [
+            1,
+            0,
+            0
+          ],
+          "angle": 90
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "Q-AV-G-EAR"
+          ],
+          "axis": [
+            1,
+            0,
+            0
+          ],
+          "angle": 90
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "Q-AR-G"
+          ],
+          "axis": [
+            1,
+            0,
+            0
+          ],
+          "angle": 90
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "BF-D"
+          ],
+          "axis": [
+            1,
+            0,
+            0
+          ],
+          "angle": 90
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "BF-G"
+          ],
+          "axis": [
+            1,
+            0,
+            0
+          ],
+          "angle": 90
+        }
+      }
+    ],
+    "verbose": false,
+    "rollback": true
+  }
+}

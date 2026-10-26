@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"errors\": 1,\n  \"features\": 952,\n  \"name\": \"RackTuringPi2_Complet_V7_calibre\",\n  \"path\": \"./CAD/RackBladeSolidCraft/V7/calibration/V7_candidat.solidcraft\"\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

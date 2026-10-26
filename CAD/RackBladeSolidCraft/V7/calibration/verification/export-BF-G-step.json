@@ -1,0 +1,12 @@
+{
+  "id": 50,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"bytes\": 326371,\n  \"format\": \"Step\",\n  \"path\": \"./CAD/RackBladeSolidCraft/V7/exports/BF-G_print.step\"\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 37,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"completed\": 9,\n  \"ok\": true,\n  \"results\": [\n    {\n      \"changed_bodies\": [\n        \"CL-AV\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 704,\n      \"ms\": 4.249542,\n      \"name\": \"Move37\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [\n        \"CL-AR\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 705,\n      \"ms\": 3.155625,\n      \"name\": \"Move38\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [\n        \"EAR-D\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 706,\n      \"ms\": 0.6195,\n      \"name\": \"Move39\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [\n        \"TOP-AV-D\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 707,\n      \"ms\": 11.035292,\n      \"name\": \"Move40\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [\n        \"TOP-AR-D\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 708,\n      \"ms\": 3.9505419999999996,\n      \"name\": \"Move41\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [\n        \"TOP-AV-G\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 709,\n      \"ms\": 3.8195,\n      \"name\": \"Move42\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [\n        \"TOP-AR-G\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 710,\n      \"ms\": 3.8358749999999997,\n      \"name\": \"Move43\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [\n        \"BF-D\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 711,\n      \"ms\": 5.719708000000001,\n      \"name\": \"Move44\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [\n        \"BF-G\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 712,\n      \"ms\": 2.0185,\n      \"name\": \"Move45\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    }\n  ]\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

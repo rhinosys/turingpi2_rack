@@ -1,0 +1,12 @@
+{
+  "id": 71,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"completed\": 2,\n  \"ok\": true,\n  \"results\": [\n    {\n      \"feature\": 561,\n      \"recomputed\": 213,\n      \"restored\": 0\n    },\n    {\n      \"feature\": 576,\n      \"recomputed\": 198,\n      \"restored\": 0\n    }\n  ]\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

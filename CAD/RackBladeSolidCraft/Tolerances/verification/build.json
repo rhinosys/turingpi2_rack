@@ -1,0 +1,1988 @@
+[
+  {
+    "command": "parameters.add",
+    "params": {
+      "name": "plate_t",
+      "expression": "6",
+      "unit": "mm"
+    }
+  },
+  {
+    "command": "parameters.add",
+    "params": {
+      "name": "nut3_h",
+      "expression": "2.6",
+      "unit": "mm"
+    }
+  },
+  {
+    "command": "parameters.add",
+    "params": {
+      "name": "nut4_h",
+      "expression": "3.4",
+      "unit": "mm"
+    }
+  },
+  {
+    "command": "parameters.add",
+    "params": {
+      "name": "bisc_t",
+      "expression": "3",
+      "unit": "mm"
+    }
+  },
+  {
+    "command": "parameters.add",
+    "params": {
+      "name": "bisc_l",
+      "expression": "21.8",
+      "unit": "mm"
+    }
+  },
+  {
+    "command": "parameters.add",
+    "params": {
+      "name": "bisc_w",
+      "expression": "19.8",
+      "unit": "mm"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "length": 210,
+      "width": 150,
+      "height": "plate_t",
+      "corner": [
+        0,
+        0,
+        0
+      ],
+      "operation": "new",
+      "body_name": "PLANCHE",
+      "name": "Base"
+    }
+  },
+  {
+    "command": "sketch.create",
+    "params": {
+      "plane": "XY",
+      "offset": 6,
+      "name": "M3Hex"
+    }
+  },
+  {
+    "command": "sketch.polygon.inscribed",
+    "params": {
+      "center": [
+        45,
+        18
+      ],
+      "radius": 3.2331615074619044,
+      "sides": 6,
+      "angle": 0
+    }
+  },
+  {
+    "command": "sketch.polygon.inscribed",
+    "params": {
+      "center": [
+        80,
+        18
+      ],
+      "radius": 3.290896534380867,
+      "sides": 6,
+      "angle": 0
+    }
+  },
+  {
+    "command": "sketch.polygon.inscribed",
+    "params": {
+      "center": [
+        115,
+        18
+      ],
+      "radius": 3.3486315612998294,
+      "sides": 6,
+      "angle": 0
+    }
+  },
+  {
+    "command": "sketch.polygon.inscribed",
+    "params": {
+      "center": [
+        150,
+        18
+      ],
+      "radius": 3.4063665882187926,
+      "sides": 6,
+      "angle": 0
+    }
+  },
+  {
+    "command": "sketch.polygon.inscribed",
+    "params": {
+      "center": [
+        185,
+        18
+      ],
+      "radius": 3.464101615137755,
+      "sides": 6,
+      "angle": 0
+    }
+  },
+  {
+    "command": "sketch.finish",
+    "params": {}
+  },
+  {
+    "command": "solid.extrude",
+    "params": {
+      "distance": 2.6,
+      "direction": "negative",
+      "operation": "cut",
+      "targets": [
+        "PLANCHE"
+      ],
+      "name": "M3Poches"
+    }
+  },
+  {
+    "command": "sketch.create",
+    "params": {
+      "plane": "XY",
+      "offset": 6,
+      "name": "M4Hex"
+    }
+  },
+  {
+    "command": "sketch.polygon.inscribed",
+    "params": {
+      "center": [
+        45,
+        40
+      ],
+      "radius": 4.099186911246343,
+      "sides": 6,
+      "angle": 0
+    }
+  },
+  {
+    "command": "sketch.polygon.inscribed",
+    "params": {
+      "center": [
+        80,
+        40
+      ],
+      "radius": 4.156921938165306,
+      "sides": 6,
+      "angle": 0
+    }
+  },
+  {
+    "command": "sketch.polygon.inscribed",
+    "params": {
+      "center": [
+        115,
+        40
+      ],
+      "radius": 4.214656965084268,
+      "sides": 6,
+      "angle": 0
+    }
+  },
+  {
+    "command": "sketch.polygon.inscribed",
+    "params": {
+      "center": [
+        150,
+        40
+      ],
+      "radius": 4.272391992003231,
+      "sides": 6,
+      "angle": 0
+    }
+  },
+  {
+    "command": "sketch.polygon.inscribed",
+    "params": {
+      "center": [
+        185,
+        40
+      ],
+      "radius": 4.330127018922194,
+      "sides": 6,
+      "angle": 0
+    }
+  },
+  {
+    "command": "sketch.finish",
+    "params": {}
+  },
+  {
+    "command": "solid.extrude",
+    "params": {
+      "distance": 3.4,
+      "direction": "negative",
+      "operation": "cut",
+      "targets": [
+        "PLANCHE"
+      ],
+      "name": "M4Poches"
+    }
+  },
+  {
+    "command": "sketch.create",
+    "params": {
+      "plane": "XY",
+      "offset": 6,
+      "name": "Passages"
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        45,
+        62
+      ],
+      "diameter": 3.2
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        80,
+        62
+      ],
+      "diameter": 3.3
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        115,
+        62
+      ],
+      "diameter": 3.4
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        150,
+        62
+      ],
+      "diameter": 3.5
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        185,
+        62
+      ],
+      "diameter": 3.6
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        45,
+        80
+      ],
+      "diameter": 4.3
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        80,
+        80
+      ],
+      "diameter": 4.4
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        115,
+        80
+      ],
+      "diameter": 4.5
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        150,
+        80
+      ],
+      "diameter": 4.6
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        185,
+        80
+      ],
+      "diameter": 4.7
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        45,
+        18
+      ],
+      "diameter": 3.4
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        80,
+        18
+      ],
+      "diameter": 3.4
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        115,
+        18
+      ],
+      "diameter": 3.4
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        150,
+        18
+      ],
+      "diameter": 3.4
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        185,
+        18
+      ],
+      "diameter": 3.4
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        45,
+        40
+      ],
+      "diameter": 4.5
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        80,
+        40
+      ],
+      "diameter": 4.5
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        115,
+        40
+      ],
+      "diameter": 4.5
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        150,
+        40
+      ],
+      "diameter": 4.5
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        185,
+        40
+      ],
+      "diameter": 4.5
+    }
+  },
+  {
+    "command": "sketch.finish",
+    "params": {}
+  },
+  {
+    "command": "solid.extrude",
+    "params": {
+      "distance": 6,
+      "direction": "negative",
+      "operation": "cut",
+      "targets": [
+        "PLANCHE"
+      ],
+      "name": "Trous"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "length": 21.900000000000002,
+      "width": 19.900000000000002,
+      "height": 3.2,
+      "corner": [
+        21.049999999999997,
+        94.05,
+        2.8
+      ],
+      "operation": "cut",
+      "targets": [
+        "PLANCHE"
+      ],
+      "name": "BiscuitJeu1"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "length": 22,
+      "width": 20,
+      "height": 3.2,
+      "corner": [
+        56,
+        94,
+        2.8
+      ],
+      "operation": "cut",
+      "targets": [
+        "PLANCHE"
+      ],
+      "name": "BiscuitJeu2"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "length": 22.1,
+      "width": 20.1,
+      "height": 3.2,
+      "corner": [
+        90.95,
+        93.95,
+        2.8
+      ],
+      "operation": "cut",
+      "targets": [
+        "PLANCHE"
+      ],
+      "name": "BiscuitJeu3"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "length": 22.2,
+      "width": 20.2,
+      "height": 3.2,
+      "corner": [
+        125.9,
+        93.9,
+        2.8
+      ],
+      "operation": "cut",
+      "targets": [
+        "PLANCHE"
+      ],
+      "name": "BiscuitJeu4"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "length": 22.3,
+      "width": 20.3,
+      "height": 3.2,
+      "corner": [
+        160.85,
+        93.85,
+        2.8
+      ],
+      "operation": "cut",
+      "targets": [
+        "PLANCHE"
+      ],
+      "name": "BiscuitJeu5"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "length": 22,
+      "width": 20,
+      "height": 3,
+      "corner": [
+        56,
+        122,
+        3
+      ],
+      "operation": "cut",
+      "targets": [
+        "PLANCHE"
+      ],
+      "name": "BiscuitProfondeur0"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "length": 22,
+      "width": 20,
+      "height": 3.2,
+      "corner": [
+        91,
+        122,
+        2.8
+      ],
+      "operation": "cut",
+      "targets": [
+        "PLANCHE"
+      ],
+      "name": "BiscuitProfondeur1"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "length": 22,
+      "width": 20,
+      "height": 3.4,
+      "corner": [
+        126,
+        122,
+        2.6
+      ],
+      "operation": "cut",
+      "targets": [
+        "PLANCHE"
+      ],
+      "name": "BiscuitProfondeur2"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "length": 22,
+      "width": 22,
+      "height": 3.2,
+      "corner": [
+        21,
+        121,
+        2.8
+      ],
+      "operation": "cut",
+      "targets": [
+        "PLANCHE"
+      ],
+      "name": "BiscuitCentral"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "length": 20,
+      "width": 25,
+      "height": 10,
+      "corner": [
+        0,
+        158,
+        0
+      ],
+      "operation": "new",
+      "body_name": "RAIL_3.1",
+      "name": "BlocRail0"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "length": 3.1,
+      "width": 27,
+      "height": 3.1,
+      "corner": [
+        -0.1,
+        157,
+        3
+      ],
+      "operation": "cut",
+      "targets": [
+        "RAIL_3.1"
+      ],
+      "name": "Rainure0"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "length": 20,
+      "width": 25,
+      "height": 10,
+      "corner": [
+        40,
+        158,
+        0
+      ],
+      "operation": "new",
+      "body_name": "RAIL_3.2",
+      "name": "BlocRail1"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "length": 3.1,
+      "width": 27,
+      "height": 3.2,
+      "corner": [
+        39.9,
+        157,
+        3
+      ],
+      "operation": "cut",
+      "targets": [
+        "RAIL_3.2"
+      ],
+      "name": "Rainure1"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "length": 20,
+      "width": 25,
+      "height": 10,
+      "corner": [
+        80,
+        158,
+        0
+      ],
+      "operation": "new",
+      "body_name": "RAIL_3.3",
+      "name": "BlocRail2"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "length": 3.1,
+      "width": 27,
+      "height": 3.3000000000000003,
+      "corner": [
+        79.9,
+        157,
+        3
+      ],
+      "operation": "cut",
+      "targets": [
+        "RAIL_3.3"
+      ],
+      "name": "Rainure2"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "length": 20,
+      "width": 25,
+      "height": 10,
+      "corner": [
+        120,
+        158,
+        0
+      ],
+      "operation": "new",
+      "body_name": "RAIL_3.4",
+      "name": "BlocRail3"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "length": 3.1,
+      "width": 27,
+      "height": 3.4000000000000004,
+      "corner": [
+        119.9,
+        157,
+        3
+      ],
+      "operation": "cut",
+      "targets": [
+        "RAIL_3.4"
+      ],
+      "name": "Rainure3"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "length": 20,
+      "width": 25,
+      "height": 10,
+      "corner": [
+        160,
+        158,
+        0
+      ],
+      "operation": "new",
+      "body_name": "RAIL_3.5",
+      "name": "BlocRail4"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "length": 3.1,
+      "width": 27,
+      "height": 3.5,
+      "corner": [
+        159.9,
+        157,
+        3
+      ],
+      "operation": "cut",
+      "targets": [
+        "RAIL_3.5"
+      ],
+      "name": "Rainure4"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "length": "bisc_l",
+      "width": "bisc_w",
+      "height": "bisc_t",
+      "corner": [
+        0,
+        195,
+        0
+      ],
+      "operation": "new",
+      "body_name": "BIS_TEST",
+      "name": "BiscuitStandard"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "length": "bisc_l",
+      "width": "bisc_l",
+      "height": "bisc_t",
+      "corner": [
+        28,
+        195,
+        0
+      ],
+      "operation": "new",
+      "body_name": "BIS_X_TEST",
+      "name": "BiscuitCarre"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "length": 8,
+      "width": 25,
+      "height": 6,
+      "corner": [
+        60,
+        195,
+        0
+      ],
+      "operation": "new",
+      "body_name": "LANGUE_TEST",
+      "name": "PoigneeLangue"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "length": 3,
+      "width": 25,
+      "height": 3,
+      "corner": [
+        67.9,
+        195,
+        3
+      ],
+      "operation": "join",
+      "targets": [
+        "LANGUE_TEST"
+      ],
+      "name": "Langue_2p9_3"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "length": 110,
+      "width": 12,
+      "height": 14,
+      "corner": [
+        90,
+        195,
+        0
+      ],
+      "operation": "new",
+      "body_name": "M3_VERTICAL",
+      "name": "M3_VERTICALBloc"
+    }
+  },
+  {
+    "command": "sketch.create",
+    "params": {
+      "plane": "XZ",
+      "offset": 195,
+      "name": "M3_VERTICALHex"
+    }
+  },
+  {
+    "command": "sketch.polygon.inscribed",
+    "params": {
+      "center": [
+        101,
+        -7
+      ],
+      "radius": 3.2331615074619044,
+      "sides": 6,
+      "angle": 30
+    }
+  },
+  {
+    "command": "sketch.polygon.inscribed",
+    "params": {
+      "center": [
+        123,
+        -7
+      ],
+      "radius": 3.290896534380867,
+      "sides": 6,
+      "angle": 30
+    }
+  },
+  {
+    "command": "sketch.polygon.inscribed",
+    "params": {
+      "center": [
+        145,
+        -7
+      ],
+      "radius": 3.3486315612998294,
+      "sides": 6,
+      "angle": 30
+    }
+  },
+  {
+    "command": "sketch.polygon.inscribed",
+    "params": {
+      "center": [
+        167,
+        -7
+      ],
+      "radius": 3.4063665882187926,
+      "sides": 6,
+      "angle": 30
+    }
+  },
+  {
+    "command": "sketch.polygon.inscribed",
+    "params": {
+      "center": [
+        189,
+        -7
+      ],
+      "radius": 3.464101615137755,
+      "sides": 6,
+      "angle": 30
+    }
+  },
+  {
+    "command": "sketch.finish",
+    "params": {}
+  },
+  {
+    "command": "solid.extrude",
+    "params": {
+      "distance": 2.6,
+      "operation": "cut",
+      "targets": [
+        "M3_VERTICAL"
+      ],
+      "name": "M3_VERTICALPoches"
+    }
+  },
+  {
+    "command": "sketch.create",
+    "params": {
+      "plane": "XZ",
+      "offset": 195,
+      "name": "M3_VERTICALVis"
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        101,
+        -7
+      ],
+      "diameter": 3.4
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        123,
+        -7
+      ],
+      "diameter": 3.4
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        145,
+        -7
+      ],
+      "diameter": 3.4
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        167,
+        -7
+      ],
+      "diameter": 3.4
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        189,
+        -7
+      ],
+      "diameter": 3.4
+    }
+  },
+  {
+    "command": "sketch.finish",
+    "params": {}
+  },
+  {
+    "command": "solid.extrude",
+    "params": {
+      "distance": 12,
+      "operation": "cut",
+      "targets": [
+        "M3_VERTICAL"
+      ],
+      "name": "M3_VERTICALTrous"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "length": 110,
+      "width": 12,
+      "height": 14,
+      "corner": [
+        90,
+        214,
+        0
+      ],
+      "operation": "new",
+      "body_name": "M4_VERTICAL",
+      "name": "M4_VERTICALBloc"
+    }
+  },
+  {
+    "command": "sketch.create",
+    "params": {
+      "plane": "XZ",
+      "offset": 214,
+      "name": "M4_VERTICALHex"
+    }
+  },
+  {
+    "command": "sketch.polygon.inscribed",
+    "params": {
+      "center": [
+        101,
+        -7
+      ],
+      "radius": 4.099186911246343,
+      "sides": 6,
+      "angle": 30
+    }
+  },
+  {
+    "command": "sketch.polygon.inscribed",
+    "params": {
+      "center": [
+        123,
+        -7
+      ],
+      "radius": 4.156921938165306,
+      "sides": 6,
+      "angle": 30
+    }
+  },
+  {
+    "command": "sketch.polygon.inscribed",
+    "params": {
+      "center": [
+        145,
+        -7
+      ],
+      "radius": 4.214656965084268,
+      "sides": 6,
+      "angle": 30
+    }
+  },
+  {
+    "command": "sketch.polygon.inscribed",
+    "params": {
+      "center": [
+        167,
+        -7
+      ],
+      "radius": 4.272391992003231,
+      "sides": 6,
+      "angle": 30
+    }
+  },
+  {
+    "command": "sketch.polygon.inscribed",
+    "params": {
+      "center": [
+        189,
+        -7
+      ],
+      "radius": 4.330127018922194,
+      "sides": 6,
+      "angle": 30
+    }
+  },
+  {
+    "command": "sketch.finish",
+    "params": {}
+  },
+  {
+    "command": "solid.extrude",
+    "params": {
+      "distance": 3.4,
+      "operation": "cut",
+      "targets": [
+        "M4_VERTICAL"
+      ],
+      "name": "M4_VERTICALPoches"
+    }
+  },
+  {
+    "command": "sketch.create",
+    "params": {
+      "plane": "XZ",
+      "offset": 214,
+      "name": "M4_VERTICALVis"
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        101,
+        -7
+      ],
+      "diameter": 4.5
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        123,
+        -7
+      ],
+      "diameter": 4.5
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        145,
+        -7
+      ],
+      "diameter": 4.5
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        167,
+        -7
+      ],
+      "diameter": 4.5
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        189,
+        -7
+      ],
+      "diameter": 4.5
+    }
+  },
+  {
+    "command": "sketch.finish",
+    "params": {}
+  },
+  {
+    "command": "solid.extrude",
+    "params": {
+      "distance": 12,
+      "operation": "cut",
+      "targets": [
+        "M4_VERTICAL"
+      ],
+      "name": "M4_VERTICALTrous"
+    }
+  },
+  {
+    "command": "sketch.create",
+    "params": {
+      "plane": "XY",
+      "offset": 6,
+      "name": "PeauHex"
+    }
+  },
+  {
+    "command": "sketch.polygon.inscribed",
+    "params": {
+      "center": [
+        185,
+        133
+      ],
+      "radius": 8.082903768654761,
+      "sides": 6,
+      "angle": 0
+    }
+  },
+  {
+    "command": "sketch.finish",
+    "params": {}
+  },
+  {
+    "command": "solid.extrude",
+    "params": {
+      "distance": 5,
+      "direction": "negative",
+      "operation": "cut",
+      "targets": [
+        "PLANCHE"
+      ],
+      "name": "Fond_1mm"
+    }
+  },
+  {
+    "command": "sketch.create",
+    "params": {
+      "plane": "XY",
+      "offset": 6,
+      "name": "ReperesPlanche"
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "M3",
+      "at": [
+        3,
+        17
+      ],
+      "height": 3.5
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "5.6",
+      "at": [
+        40,
+        8
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "5.7",
+      "at": [
+        75,
+        8
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "5.8",
+      "at": [
+        110,
+        8
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "5.9",
+      "at": [
+        145,
+        8
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "6.0",
+      "at": [
+        180,
+        8
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "M4",
+      "at": [
+        3,
+        39
+      ],
+      "height": 3.5
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "7.1",
+      "at": [
+        40,
+        30
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "7.2",
+      "at": [
+        75,
+        30
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "7.3",
+      "at": [
+        110,
+        30
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "7.4",
+      "at": [
+        145,
+        30
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "7.5",
+      "at": [
+        180,
+        30
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "D3",
+      "at": [
+        3,
+        61
+      ],
+      "height": 3.5
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "3.2",
+      "at": [
+        40,
+        52
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "3.3",
+      "at": [
+        75,
+        52
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "3.4",
+      "at": [
+        110,
+        52
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "3.5",
+      "at": [
+        145,
+        52
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "3.6",
+      "at": [
+        180,
+        52
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "D4",
+      "at": [
+        3,
+        79
+      ],
+      "height": 3.5
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "4.3",
+      "at": [
+        40,
+        70
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "4.4",
+      "at": [
+        75,
+        70
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "4.5",
+      "at": [
+        110,
+        70
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "4.6",
+      "at": [
+        145,
+        70
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "4.7",
+      "at": [
+        180,
+        70
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "J0.1",
+      "at": [
+        24,
+        90
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "J0.2",
+      "at": [
+        59,
+        90
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "J0.3",
+      "at": [
+        94,
+        90
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "J0.4",
+      "at": [
+        129,
+        90
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "J0.5",
+      "at": [
+        164,
+        90
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "X 0.2",
+      "at": [
+        24,
+        145
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "P3.0",
+      "at": [
+        59,
+        145
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "P3.2",
+      "at": [
+        94,
+        145
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "P3.4",
+      "at": [
+        129,
+        145
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "FOND 1",
+      "at": [
+        175,
+        145
+      ],
+      "height": 2.3
+    }
+  },
+  {
+    "command": "sketch.finish",
+    "params": {}
+  },
+  {
+    "command": "solid.extrude",
+    "params": {
+      "distance": 0.4,
+      "direction": "negative",
+      "operation": "cut",
+      "targets": [
+        "PLANCHE"
+      ],
+      "name": "GravurePlanche"
+    }
+  },
+  {
+    "command": "sketch.create",
+    "params": {
+      "plane": "XY",
+      "offset": 10,
+      "name": "ReperesRails"
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "3.1",
+      "at": [
+        5,
+        171
+      ],
+      "height": 3
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "3.2",
+      "at": [
+        45,
+        171
+      ],
+      "height": 3
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "3.3",
+      "at": [
+        85,
+        171
+      ],
+      "height": 3
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "3.4",
+      "at": [
+        125,
+        171
+      ],
+      "height": 3
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "3.5",
+      "at": [
+        165,
+        171
+      ],
+      "height": 3
+    }
+  },
+  {
+    "command": "sketch.finish",
+    "params": {}
+  },
+  {
+    "command": "solid.extrude",
+    "params": {
+      "distance": 0.4,
+      "direction": "negative",
+      "operation": "cut",
+      "targets": [
+        "RAIL_3.1",
+        "RAIL_3.2",
+        "RAIL_3.3",
+        "RAIL_3.4",
+        "RAIL_3.5"
+      ],
+      "name": "GravureRails"
+    }
+  },
+  {
+    "command": "sketch.create",
+    "params": {
+      "plane": "XY",
+      "offset": 14,
+      "name": "ReperesVerticaux"
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "5.6",
+      "at": [
+        96,
+        199
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "5.7",
+      "at": [
+        118,
+        199
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "5.8",
+      "at": [
+        140,
+        199
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "5.9",
+      "at": [
+        162,
+        199
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "6.0",
+      "at": [
+        184,
+        199
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "7.1",
+      "at": [
+        96,
+        218
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "7.2",
+      "at": [
+        118,
+        218
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "7.3",
+      "at": [
+        140,
+        218
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "7.4",
+      "at": [
+        162,
+        218
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.text",
+    "params": {
+      "text": "7.5",
+      "at": [
+        184,
+        218
+      ],
+      "height": 2.8
+    }
+  },
+  {
+    "command": "sketch.finish",
+    "params": {}
+  },
+  {
+    "command": "solid.extrude",
+    "params": {
+      "distance": 0.4,
+      "direction": "negative",
+      "operation": "cut",
+      "targets": [
+        "M3_VERTICAL",
+        "M4_VERTICAL"
+      ],
+      "name": "GravureVerticaux"
+    }
+  },
+  {
+    "command": "appearance.assign",
+    "params": {
+      "bodies": [
+        "PLANCHE",
+        "M3_VERTICAL",
+        "M4_VERTICAL"
+      ],
+      "color": "#48697e"
+    }
+  },
+  {
+    "command": "appearance.assign",
+    "params": {
+      "bodies": [
+        "BIS_TEST",
+        "BIS_X_TEST",
+        "LANGUE_TEST"
+      ],
+      "color": "#ef9b37"
+    }
+  },
+  {
+    "command": "sketch.create",
+    "params": {
+      "plane": "XY",
+      "offset": 6,
+      "name": "EjectionBiscuits"
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        32,
+        104
+      ],
+      "diameter": 3.4
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        67,
+        104
+      ],
+      "diameter": 3.4
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        102,
+        104
+      ],
+      "diameter": 3.4
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        137,
+        104
+      ],
+      "diameter": 3.4
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        172,
+        104
+      ],
+      "diameter": 3.4
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        32,
+        132
+      ],
+      "diameter": 3.4
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        67,
+        132
+      ],
+      "diameter": 3.4
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        102,
+        132
+      ],
+      "diameter": 3.4
+    }
+  },
+  {
+    "command": "sketch.circle.center",
+    "params": {
+      "center": [
+        137,
+        132
+      ],
+      "diameter": 3.4
+    }
+  },
+  {
+    "command": "sketch.finish",
+    "params": {}
+  },
+  {
+    "command": "solid.extrude",
+    "params": {
+      "distance": 6,
+      "direction": "negative",
+      "operation": "cut",
+      "targets": [
+        "PLANCHE"
+      ],
+      "name": "TrousEjection"
+    }
+  }
+]

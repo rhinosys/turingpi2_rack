@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-25",
+  "suppressed": [
+    {
+      "id": 10,
+      "name": "AV-floor-hex"
+    },
+    {
+      "id": 11,
+      "name": "RectangularPattern1"
+    },
+    {
+      "id": 13,
+      "name": "AV-wall-hex"
+    },
+    {
+      "id": 14,
+      "name": "RectangularPattern2"
+    },
+    {
+      "id": 40,
+      "name": "AR-wall-hex"
+    },
+    {
+      "id": 41,
+      "name": "RectangularPattern3"
+    },
+    {
+      "id": 46,
+      "name": "AR-floor-hex"
+    },
+    {
+      "id": 47,
+      "name": "RectangularPattern5"
+    },
+    {
+      "id": 314,
+      "name": "TOP-AV-D-vents"
+    },
+    {
+      "id": 315,
+      "name": "RectangularPattern12"
+    },
+    {
+      "id": 331,
+      "name": "TOP-AR-D-vents"
+    },
+    {
+      "id": 332,
+      "name": "RectangularPattern13"
+    }
+  ],
+  "errors": [],
+  "psu_top_clearance_mm": 77.5,
+  "seals": "Seal panel joints and unused hardware openings; thermal airflow not measured."
+}

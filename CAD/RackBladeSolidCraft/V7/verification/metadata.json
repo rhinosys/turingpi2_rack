@@ -1,0 +1,12 @@
+{
+  "id": 6,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"completed\": 1,\n  \"ok\": true,\n  \"results\": [\n    {\n      \"changed\": [\n        \"description\",\n        \"revision\"\n      ],\n      \"metadata\": {\n        \"description\": \"Cassettes \u00e0 murets 60 mm, doigts entrelac\u00e9s et verrouillage filament 1.75 mm; ch\u00e2ssis V6 conserv\u00e9.\",\n        \"revision\": \"V7\"\n      }\n    }\n  ]\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "name": "batch",
+  "arguments": {
+    "commands": [
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "CL-AV"
+          ],
+          "axis": [
+            0,
+            1,
+            0
+          ],
+          "angle": 90
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "CL-AR"
+          ],
+          "axis": [
+            0,
+            1,
+            0
+          ],
+          "angle": 90
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "EAR-D"
+          ],
+          "axis": [
+            1,
+            0,
+            0
+          ],
+          "angle": 90
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "TOP-AV-D"
+          ],
+          "axis": [
+            1,
+            0,
+            0
+          ],
+          "angle": 180
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "TOP-AR-D"
+          ],
+          "axis": [
+            1,
+            0,
+            0
+          ],
+          "angle": 180
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "TOP-AV-G"
+          ],
+          "axis": [
+            1,
+            0,
+            0
+          ],
+          "angle": 180
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "TOP-AR-G"
+          ],
+          "axis": [
+            1,
+            0,
+            0
+          ],
+          "angle": 180
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "BF-D"
+          ],
+          "axis": [
+            1,
+            0,
+            0
+          ],
+          "angle": 90
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "BF-G"
+          ],
+          "axis": [
+            1,
+            0,
+            0
+          ],
+          "angle": 90
+        }
+      }
+    ],
+    "verbose": false
+  }
+}

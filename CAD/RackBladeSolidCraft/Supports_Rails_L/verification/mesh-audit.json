@@ -1,0 +1,38 @@
+[
+  {
+    "part": "BERCEAU-A",
+    "watertight": true,
+    "winding_consistent": true,
+    "volume_mm3": 34572.275724926156,
+    "bounds": [
+      [
+        0.0,
+        0.0,
+        5.3290705e-15
+      ],
+      [
+        56.0,
+        56.0,
+        44.0
+      ]
+    ]
+  },
+  {
+    "part": "BERCEAU-B",
+    "watertight": true,
+    "winding_consistent": true,
+    "volume_mm3": 34572.27610892617,
+    "bounds": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        56.0,
+        56.0,
+        44.0
+      ]
+    ]
+  }
+]

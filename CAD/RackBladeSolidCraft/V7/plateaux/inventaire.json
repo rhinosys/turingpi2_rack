@@ -1,0 +1,228 @@
+[
+  {
+    "name": "01_Q-AV-D",
+    "items": [
+      [
+        "Q-AV-D",
+        null,
+        null
+      ]
+    ],
+    "support": true
+  },
+  {
+    "name": "02_Q-AV-G-EAR",
+    "items": [
+      [
+        "Q-AV-G-EAR",
+        null,
+        null
+      ]
+    ],
+    "support": true
+  },
+  {
+    "name": "03_Q-AR-D",
+    "items": [
+      [
+        "Q-AR-D",
+        null,
+        null
+      ]
+    ],
+    "support": true
+  },
+  {
+    "name": "04_Q-AR-G",
+    "items": [
+      [
+        "Q-AR-G",
+        null,
+        null
+      ]
+    ],
+    "support": true
+  },
+  {
+    "name": "05_BT-D",
+    "items": [
+      [
+        "BT-D",
+        null,
+        null
+      ]
+    ],
+    "support": true
+  },
+  {
+    "name": "06_FOND-AR-D",
+    "items": [
+      [
+        "FOND-AR-D",
+        null,
+        20
+      ]
+    ],
+    "support": true
+  },
+  {
+    "name": "07_BT-G",
+    "items": [
+      [
+        "BT-G",
+        null,
+        null
+      ]
+    ],
+    "support": true
+  },
+  {
+    "name": "08_FOND-AR-G",
+    "items": [
+      [
+        "FOND-AR-G",
+        null,
+        20
+      ]
+    ],
+    "support": true
+  },
+  {
+    "name": "09_Facade_D_poignee_biscuits",
+    "items": [
+      [
+        "BF-D",
+        24.5,
+        18
+      ],
+      [
+        "HANDLE-D",
+        25,
+        195
+      ],
+      [
+        "BIS",
+        125,
+        195
+      ],
+      [
+        "BIS",
+        154,
+        195
+      ],
+      [
+        "BIS",
+        183,
+        195
+      ],
+      [
+        "BIS",
+        212,
+        195
+      ],
+      [
+        "BIS",
+        25,
+        228
+      ],
+      [
+        "BIS",
+        54,
+        228
+      ],
+      [
+        "BIS",
+        83,
+        228
+      ],
+      [
+        "BIS",
+        112,
+        228
+      ],
+      [
+        "BIS-X",
+        141,
+        228
+      ]
+    ],
+    "support": false
+  },
+  {
+    "name": "10_Facade_G_poignee_biscuits",
+    "items": [
+      [
+        "BF-G",
+        24.5,
+        18
+      ],
+      [
+        "HANDLE-G",
+        25,
+        195
+      ],
+      [
+        "BIS",
+        125,
+        195
+      ],
+      [
+        "BIS",
+        154,
+        195
+      ],
+      [
+        "BIS",
+        183,
+        195
+      ],
+      [
+        "BIS",
+        212,
+        195
+      ],
+      [
+        "BIS",
+        25,
+        228
+      ],
+      [
+        "BIS",
+        54,
+        228
+      ],
+      [
+        "BIS",
+        83,
+        228
+      ],
+      [
+        "BIS",
+        112,
+        228
+      ],
+      [
+        "BIS-X",
+        141,
+        228
+      ]
+    ],
+    "support": false
+  },
+  {
+    "name": "11_OPTION_Test_filament_et_jonction",
+    "items": [
+      [
+        "TEST-FILAMENT",
+        35,
+        105
+      ],
+      [
+        "TEST-JONCTION",
+        145,
+        105
+      ]
+    ],
+    "support": true
+  }
+]

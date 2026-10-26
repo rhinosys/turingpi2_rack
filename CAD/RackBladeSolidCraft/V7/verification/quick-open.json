@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"bodies\": [\n    \"BT-D\",\n    \"BF-D\",\n    \"REF_TP2_R\",\n    \"REF_MODULES_R\",\n    \"REF_NVME_R\",\n    \"REF_PSU_R\",\n    \"REF_FAN_R\",\n    \"HANDLE-D\",\n    \"FOND-AR-D\",\n    \"ECLISSE-D-1\",\n    \"ECLISSE-D-2\"\n  ],\n  \"component\": 1,\n  \"component_name\": \"CASSETTE-D\",\n  \"errors\": 0,\n  \"exporter\": \"SolidCraft\",\n  \"exporter_up\": \"z\",\n  \"features\": 1,\n  \"occurrence\": 2,\n  \"path\": \"./CAD/RackBladeSolidCraft/V6/exports/CASSETTE-D.step\",\n  \"system\": \"SolidCraft\",\n  \"warnings\": []\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

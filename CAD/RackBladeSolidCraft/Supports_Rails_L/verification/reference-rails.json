@@ -1,0 +1,12 @@
+{
+  "id": 8,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"completed\": 4,\n  \"ok\": true,\n  \"results\": [\n    {\n      \"changed_bodies\": [],\n      \"created_bodies\": [\n        \"REF-L-A\"\n      ],\n      \"feature\": 31,\n      \"ms\": 0.266208,\n      \"name\": \"REF-L-A\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [\n        \"REF-L-A\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 32,\n      \"ms\": 4.780708,\n      \"name\": \"REF-L-A-aile\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [],\n      \"created_bodies\": [\n        \"REF-L-B\"\n      ],\n      \"feature\": 33,\n      \"ms\": 0.236916,\n      \"name\": \"REF-L-B\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [\n        \"REF-L-B\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 34,\n      \"ms\": 4.599958,\n      \"name\": \"REF-L-B-aile\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    }\n  ]\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

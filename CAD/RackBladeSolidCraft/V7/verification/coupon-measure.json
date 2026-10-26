@@ -1,0 +1,12 @@
+{
+  "id": 3,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"bodies\": [\n    {\n      \"area_mm2\": 12131.498961121259,\n      \"bbox\": {\n        \"max\": [\n          80.0,\n          20.0,\n          62.99999999999954\n        ],\n        \"min\": [\n          0.0,\n          0.0,\n          0.0\n        ]\n      },\n      \"center_of_mass\": [\n        39.85507124546346,\n        10.01810515259948,\n        23.30571767870958\n      ],\n      \"density_g_cm3\": 1.29,\n      \"edges\": 188,\n      \"face_types\": {\n        \"cylinder\": 4,\n        \"plane\": 70\n      },\n      \"faces\": 74,\n      \"kernel\": {\n        \"edges\": 204,\n        \"faces\": 78,\n        \"shells\": 1,\n        \"vertices\": 136\n      },\n      \"mass_g\": 19.985748309031624,\n      \"material\": \"Default\",\n      \"name\": \"TEST-FILAMENT\",\n      \"vertices\": 128,\n      \"volume_mm3\": 15492.828146536142\n    }\n  ],\n  \"body_count\": 1,\n  \"total\": {\n    \"area_mm2\": 12131.498961121259,\n    \"edges\": 188,\n    \"faces\": 74,\n    \"mass_g\": 19.985748309031624,\n    \"vertices\": 128,\n    \"volume_mm3\": 15492.828146536142\n  }\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

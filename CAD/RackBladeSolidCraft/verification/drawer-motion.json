@@ -1,0 +1,79 @@
+[
+  {
+    "travel": 195,
+    "boolean_ms": 6896.889,
+    "budget_exceeded": false,
+    "budget_s": 30,
+    "checked": 50,
+    "count": 0,
+    "interferences": [],
+    "ms": 2600.426,
+    "pairs_candidate": 147,
+    "pairs_cleared": 34,
+    "pairs_intersected": 113,
+    "pairs_not_checked": 0,
+    "skipped_pairs": 0,
+    "slowest": [
+      {
+        "a": "Q-AV-D",
+        "b": "Q-AV-G",
+        "boolean_ms": 82.162,
+        "ms": 460.009,
+        "tessellate_ms": 163.864
+      },
+      {
+        "a": "Q-AV-G",
+        "b": "Q-AR-G",
+        "boolean_ms": 111.222,
+        "ms": 438.309,
+        "tessellate_ms": 153.049
+      },
+      {
+        "a": "Q-AV-D",
+        "b": "Q-AR-G",
+        "boolean_ms": 86.262,
+        "ms": 414.11,
+        "tessellate_ms": 116.573
+      },
+      {
+        "a": "Q-AV-D",
+        "b": "CL-AV",
+        "boolean_ms": 72.843,
+        "ms": 392.892,
+        "tessellate_ms": 125.72
+      },
+      {
+        "a": "Q-AV-D",
+        "b": "Q-AR-D",
+        "boolean_ms": 88.007,
+        "ms": 375.317,
+        "tessellate_ms": 120.819
+      },
+      {
+        "a": "Q-AV-G",
+        "b": "EAR-G",
+        "boolean_ms": 62.952,
+        "ms": 363.383,
+        "tessellate_ms": 97.992
+      },
+      {
+        "a": "BT-D",
+        "b": "BF-D",
+        "boolean_ms": 142.504,
+        "ms": 362.997,
+        "tessellate_ms": 83.667
+      },
+      {
+        "a": "BT-G",
+        "b": "BF-G",
+        "boolean_ms": 149.812,
+        "ms": 361.622,
+        "tessellate_ms": 72.129
+      }
+    ],
+    "tessellate_ms": 2808.286,
+    "threads": 8,
+    "truncated": false,
+    "unchecked": []
+  }
+]

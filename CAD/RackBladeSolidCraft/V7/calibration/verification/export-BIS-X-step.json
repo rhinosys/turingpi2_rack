@@ -1,0 +1,12 @@
+{
+  "id": 38,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"bytes\": 5933,\n  \"format\": \"Step\",\n  \"path\": \"./CAD/RackBladeSolidCraft/V7/exports/BIS-X_print.step\"\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

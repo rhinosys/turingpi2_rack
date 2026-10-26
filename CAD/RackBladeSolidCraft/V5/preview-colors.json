@@ -1,0 +1,147 @@
+{
+  "name": "batch",
+  "arguments": {
+    "commands": [
+      {
+        "command": "appearance.assign",
+        "params": {
+          "bodies": [
+            "Q-AV-D",
+            "Q-AR-D",
+            "Q-AV-G-EAR",
+            "Q-AR-G",
+            "CL-AV",
+            "CL-AR",
+            "EAR-D",
+            "TOP-AV-D",
+            "TOP-AR-D",
+            "TOP-AV-G",
+            "TOP-AR-G",
+            "BIS",
+            "BIS-BOT-X50",
+            "BIS-BOT-X130",
+            "BIS-BOT-X290",
+            "BIS-BOT-X370",
+            "BIS-BOT-Y-160",
+            "BIS-BOT-Y-60",
+            "BIS-BOT-Y60",
+            "BIS-BOT-Y160",
+            "BIS-TOP-X50",
+            "BIS-TOP-X130",
+            "BIS-TOP-X290",
+            "BIS-TOP-X370",
+            "BIS-TOP-Y-160",
+            "BIS-TOP-Y-60",
+            "BIS-TOP-Y60",
+            "BIS-TOP-Y160",
+            "BIS-X",
+            "BIS-X-BOT",
+            "BIS-X-TOP",
+            "BT-D",
+            "BF-D",
+            "REF_TP2_R",
+            "REF_MODULES_R",
+            "REF_NVME_R",
+            "REF_PSU_R",
+            "REF_FAN_R",
+            "HANDLE-D",
+            "FOND-AR-D",
+            "ECLISSE-D-1",
+            "ECLISSE-D-2",
+            "BT-G",
+            "BF-G",
+            "REF_TP2_L",
+            "REF_MODULES_L",
+            "REF_NVME_L",
+            "REF_PSU_L",
+            "REF_FAN_L",
+            "HANDLE-G",
+            "FOND-AR-G",
+            "ECLISSE-G-1",
+            "ECLISSE-G-2"
+          ],
+          "color": "#8b9cae"
+        }
+      },
+      {
+        "command": "appearance.assign",
+        "params": {
+          "bodies": [
+            "BT-D",
+            "BF-D",
+            "HANDLE-D",
+            "FOND-AR-D",
+            "ECLISSE-D-1",
+            "ECLISSE-D-2",
+            "REF_TP2_R",
+            "REF_MODULES_R",
+            "REF_NVME_R",
+            "REF_PSU_R",
+            "REF_FAN_R"
+          ],
+          "color": "#229f9e"
+        }
+      },
+      {
+        "command": "appearance.assign",
+        "params": {
+          "bodies": [
+            "BT-G",
+            "BF-G",
+            "HANDLE-G",
+            "FOND-AR-G",
+            "ECLISSE-G-1",
+            "ECLISSE-G-2",
+            "REF_TP2_L",
+            "REF_MODULES_L",
+            "REF_NVME_L",
+            "REF_PSU_L",
+            "REF_FAN_L"
+          ],
+          "color": "#557a9c"
+        }
+      },
+      {
+        "command": "appearance.assign",
+        "params": {
+          "bodies": [
+            "REF_PSU_R",
+            "REF_PSU_L"
+          ],
+          "color": "#4a5058"
+        }
+      },
+      {
+        "command": "appearance.assign",
+        "params": {
+          "bodies": [
+            "REF_FAN_R",
+            "REF_FAN_L"
+          ],
+          "color": "#dd963c"
+        }
+      },
+      {
+        "command": "appearance.assign",
+        "params": {
+          "bodies": [
+            "REF_TP2_R",
+            "REF_TP2_L"
+          ],
+          "color": "#397d52"
+        }
+      },
+      {
+        "command": "appearance.assign",
+        "params": {
+          "bodies": [
+            "REF_MODULES_R",
+            "REF_MODULES_L"
+          ],
+          "color": "#5c6975"
+        }
+      }
+    ],
+    "verbose": false
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "bodies": 46,
+  "single_shell_bodies": 46,
+  "unchanged_cassette_bodies": 22,
+  "print_meshes": 18,
+  "tests": [
+    {
+      "report": "motion-closed-final.json",
+      "checked": 46,
+      "count": 0,
+      "unchecked": 0
+    },
+    {
+      "report": "motion-final-5.json",
+      "checked": 46,
+      "count": 0,
+      "unchecked": 0
+    },
+    {
+      "report": "motion-final-25.json",
+      "checked": 46,
+      "count": 0,
+      "unchecked": 0
+    },
+    {
+      "report": "motion-final-50.json",
+      "checked": 46,
+      "count": 0,
+      "unchecked": 0
+    },
+    {
+      "report": "motion-final-100.json",
+      "checked": 46,
+      "count": 0,
+      "unchecked": 0
+    },
+    {
+      "report": "motion-final-200.json",
+      "checked": 46,
+      "count": 0,
+      "unchecked": 0
+    },
+    {
+      "report": "motion-final-300.json",
+      "checked": 46,
+      "count": 0,
+      "unchecked": 0
+    },
+    {
+      "report": "motion-final-430.json",
+      "checked": 46,
+      "count": 0,
+      "unchecked": 0
+    },
+    {
+      "report": "motion-independent-D.json",
+      "checked": 46,
+      "count": 0,
+      "unchecked": 0
+    },
+    {
+      "report": "motion-independent-G-final.json",
+      "checked": 46,
+      "count": 0,
+      "unchecked": 0
+    }
+  ],
+  "print_envelope": "All four tunnels exceed the conservative 240 x 240 x 210 box; check the actual printer.",
+  "native_reload": {
+    "features": 861,
+    "bodies": 46,
+    "errors": 0,
+    "unexpected_warnings": 0,
+    "volumes_match_saved_session": true
+  }
+}

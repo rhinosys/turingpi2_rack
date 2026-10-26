@@ -1,0 +1,12 @@
+{
+  "id": 32,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"bytes\": 766087,\n  \"format\": \"Step\",\n  \"path\": \"./CAD/RackBladeSolidCraft/V5/exports/Cassette_D_vue.step\"\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

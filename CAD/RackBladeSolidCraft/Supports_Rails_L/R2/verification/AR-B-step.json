@@ -1,0 +1,12 @@
+{
+  "id": 22,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"bytes\": 105914,\n  \"format\": \"Step\",\n  \"path\": \"./CAD/RackBladeSolidCraft/Supports_Rails_L/R2/exports/AR-B.step\"\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

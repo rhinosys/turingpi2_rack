@@ -1,0 +1,13 @@
+{
+  "name": "Q-AR-D",
+  "method": "Gmsh/OCC triangulation of SolidCraft STEP",
+  "watertight": true,
+  "winding_consistent": true,
+  "solidcraft_volume_mm3": 397992.2156524765,
+  "occ_import_volume_mm3": 397987.00792096206,
+  "mesh_volume_mm3": 397992.417920023,
+  "relative_volume_delta": 5.082198560701927e-07,
+  "bbox_max_delta_mm": 8.417699689289293e-06,
+  "vertices": 38631,
+  "triangles": 77306
+}

@@ -1,0 +1,8 @@
+{"_label": "print-BT-D-3mf", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V7/exports/BT-D.3mf", "format": "3mf", "bodies": ["BT-D"]}}
+{"_label": "print-BT-D-step", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V7/exports/BT-D_print.step", "format": "step", "bodies": ["BT-D"]}}
+{"_label": "print-FOND-AR-D-3mf", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V7/exports/FOND-AR-D.3mf", "format": "3mf", "bodies": ["FOND-AR-D"]}}
+{"_label": "print-FOND-AR-D-step", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V7/exports/FOND-AR-D_print.step", "format": "step", "bodies": ["FOND-AR-D"]}}
+{"_label": "print-BT-G-3mf", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V7/exports/BT-G.3mf", "format": "3mf", "bodies": ["BT-G"]}}
+{"_label": "print-BT-G-step", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V7/exports/BT-G_print.step", "format": "step", "bodies": ["BT-G"]}}
+{"_label": "print-FOND-AR-G-3mf", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V7/exports/FOND-AR-G.3mf", "format": "3mf", "bodies": ["FOND-AR-G"]}}
+{"_label": "print-FOND-AR-G-step", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V7/exports/FOND-AR-G_print.step", "format": "step", "bodies": ["FOND-AR-G"]}}

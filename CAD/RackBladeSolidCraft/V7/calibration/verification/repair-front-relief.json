@@ -1,0 +1,13 @@
+{
+  "id": 6,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "boolean Cut: the operation failed: no result",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

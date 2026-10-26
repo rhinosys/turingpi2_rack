@@ -1,0 +1,488 @@
+[
+  {
+    "file": "BF-D.3mf",
+    "unit": "millimeter",
+    "objects": [
+      {
+        "id": "2",
+        "vertices": 1503,
+        "triangles": 3090,
+        "nonmanifold_edges": 0,
+        "inconsistent_winding_edges": 0,
+        "signed_volume_mm3": 95946.84959892735
+      }
+    ],
+    "build_items": 1,
+    "bbox_min": [
+      0.0,
+      0.0,
+      2.2256705e-14
+    ],
+    "dimensions": [
+      207.0,
+      165.0,
+      6.999999999999978
+    ],
+    "fits": true,
+    "on_bed": true
+  },
+  {
+    "file": "BF-G.3mf",
+    "unit": "millimeter",
+    "objects": [
+      {
+        "id": "2",
+        "vertices": 1615,
+        "triangles": 3314,
+        "nonmanifold_edges": 0,
+        "inconsistent_winding_edges": 0,
+        "signed_volume_mm3": 95843.3967936295
+      }
+    ],
+    "build_items": 1,
+    "bbox_min": [
+      0.0,
+      0.0,
+      3.016254e-13
+    ],
+    "dimensions": [
+      207.0,
+      165.0,
+      6.999999999999698
+    ],
+    "fits": true,
+    "on_bed": true
+  },
+  {
+    "file": "BIS-X.3mf",
+    "unit": "millimeter",
+    "objects": [
+      {
+        "id": "2",
+        "vertices": 8,
+        "triangles": 12,
+        "nonmanifold_edges": 0,
+        "inconsistent_winding_edges": 0,
+        "signed_volume_mm3": 1425.72
+      }
+    ],
+    "build_items": 1,
+    "bbox_min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "dimensions": [
+      21.8,
+      21.8,
+      3.0
+    ],
+    "fits": true,
+    "on_bed": true
+  },
+  {
+    "file": "BIS.3mf",
+    "unit": "millimeter",
+    "objects": [
+      {
+        "id": "2",
+        "vertices": 8,
+        "triangles": 12,
+        "nonmanifold_edges": 0,
+        "inconsistent_winding_edges": 0,
+        "signed_volume_mm3": 1294.92
+      }
+    ],
+    "build_items": 1,
+    "bbox_min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "dimensions": [
+      21.8,
+      19.8,
+      3.0
+    ],
+    "fits": true,
+    "on_bed": true
+  },
+  {
+    "file": "BT-D.3mf",
+    "unit": "millimeter",
+    "objects": [
+      {
+        "id": "2",
+        "vertices": 1945,
+        "triangles": 3990,
+        "nonmanifold_edges": 0,
+        "inconsistent_winding_edges": 0,
+        "signed_volume_mm3": 74484.87197471032
+      }
+    ],
+    "build_items": 1,
+    "bbox_min": [
+      0.0,
+      9.592327e-14,
+      0.0
+    ],
+    "dimensions": [
+      202.8,
+      200.99999999999991,
+      19.6
+    ],
+    "fits": true,
+    "on_bed": true
+  },
+  {
+    "file": "BT-G.3mf",
+    "unit": "millimeter",
+    "objects": [
+      {
+        "id": "2",
+        "vertices": 1917,
+        "triangles": 3930,
+        "nonmanifold_edges": 0,
+        "inconsistent_winding_edges": 0,
+        "signed_volume_mm3": 73891.66060675067
+      }
+    ],
+    "build_items": 1,
+    "bbox_min": [
+      0.0,
+      9.592327e-14,
+      0.0
+    ],
+    "dimensions": [
+      202.8,
+      200.99999999999991,
+      19.6
+    ],
+    "fits": true,
+    "on_bed": true
+  },
+  {
+    "file": "ECLISSE-D-1.3mf",
+    "unit": "millimeter",
+    "objects": [
+      {
+        "id": "2",
+        "vertices": 504,
+        "triangles": 1020,
+        "nonmanifold_edges": 0,
+        "inconsistent_winding_edges": 0,
+        "signed_volume_mm3": 5455.777801670181
+      }
+    ],
+    "build_items": 1,
+    "bbox_min": [
+      0.0,
+      0.0,
+      5.3290705e-15
+    ],
+    "dimensions": [
+      14.0,
+      100.0,
+      3.9999999999999947
+    ],
+    "fits": true,
+    "on_bed": true
+  },
+  {
+    "file": "ECLISSE-D-2.3mf",
+    "unit": "millimeter",
+    "objects": [
+      {
+        "id": "2",
+        "vertices": 504,
+        "triangles": 1020,
+        "nonmanifold_edges": 0,
+        "inconsistent_winding_edges": 0,
+        "signed_volume_mm3": 5455.777801670177
+      }
+    ],
+    "build_items": 1,
+    "bbox_min": [
+      0.0,
+      0.0,
+      8.881784e-15
+    ],
+    "dimensions": [
+      14.0,
+      100.0,
+      3.999999999999991
+    ],
+    "fits": true,
+    "on_bed": true
+  },
+  {
+    "file": "ECLISSE-G-1.3mf",
+    "unit": "millimeter",
+    "objects": [
+      {
+        "id": "2",
+        "vertices": 504,
+        "triangles": 1020,
+        "nonmanifold_edges": 0,
+        "inconsistent_winding_edges": 0,
+        "signed_volume_mm3": 5455.777801670097
+      }
+    ],
+    "build_items": 1,
+    "bbox_min": [
+      0.0,
+      0.0,
+      2.47e-43
+    ],
+    "dimensions": [
+      14.0,
+      100.0,
+      4.0
+    ],
+    "fits": true,
+    "on_bed": true
+  },
+  {
+    "file": "ECLISSE-G-2.3mf",
+    "unit": "millimeter",
+    "objects": [
+      {
+        "id": "2",
+        "vertices": 504,
+        "triangles": 1020,
+        "nonmanifold_edges": 0,
+        "inconsistent_winding_edges": 0,
+        "signed_volume_mm3": 5455.777801670179
+      }
+    ],
+    "build_items": 1,
+    "bbox_min": [
+      0.0,
+      0.0,
+      7.1054274e-15
+    ],
+    "dimensions": [
+      14.0,
+      100.0,
+      3.999999999999993
+    ],
+    "fits": true,
+    "on_bed": true
+  },
+  {
+    "file": "FOND-AR-D.3mf",
+    "unit": "millimeter",
+    "objects": [
+      {
+        "id": "2",
+        "vertices": 942,
+        "triangles": 1952,
+        "nonmanifold_edges": 0,
+        "inconsistent_winding_edges": 0,
+        "signed_volume_mm3": 355405.143987223
+      }
+    ],
+    "build_items": 1,
+    "bbox_min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "dimensions": [
+      202.8,
+      222.6,
+      139.0
+    ],
+    "fits": true,
+    "on_bed": true
+  },
+  {
+    "file": "FOND-AR-G.3mf",
+    "unit": "millimeter",
+    "objects": [
+      {
+        "id": "2",
+        "vertices": 942,
+        "triangles": 1952,
+        "nonmanifold_edges": 0,
+        "inconsistent_winding_edges": 0,
+        "signed_volume_mm3": 355405.1439872226
+      }
+    ],
+    "build_items": 1,
+    "bbox_min": [
+      2.842171e-14,
+      -1.7763568e-15,
+      0.0
+    ],
+    "dimensions": [
+      202.79999999999998,
+      222.6,
+      139.0
+    ],
+    "fits": true,
+    "on_bed": true
+  },
+  {
+    "file": "HANDLE-D.3mf",
+    "unit": "millimeter",
+    "objects": [
+      {
+        "id": "2",
+        "vertices": 924,
+        "triangles": 1852,
+        "nonmanifold_edges": 0,
+        "inconsistent_winding_edges": 0,
+        "signed_volume_mm3": 9410.505298575239
+      }
+    ],
+    "build_items": 1,
+    "bbox_min": [
+      0.0,
+      1.0152562e-14,
+      0.0
+    ],
+    "dimensions": [
+      90.0,
+      24.99999999999999,
+      12.0
+    ],
+    "fits": true,
+    "on_bed": true
+  },
+  {
+    "file": "HANDLE-G.3mf",
+    "unit": "millimeter",
+    "objects": [
+      {
+        "id": "2",
+        "vertices": 924,
+        "triangles": 1852,
+        "nonmanifold_edges": 0,
+        "inconsistent_winding_edges": 0,
+        "signed_volume_mm3": 9410.505298575232
+      }
+    ],
+    "build_items": 1,
+    "bbox_min": [
+      0.0,
+      1.4098125e-14,
+      0.0
+    ],
+    "dimensions": [
+      90.0,
+      24.999999999999986,
+      12.0
+    ],
+    "fits": true,
+    "on_bed": true
+  },
+  {
+    "file": "Q-AR-D.3mf",
+    "unit": "millimeter",
+    "objects": [
+      {
+        "id": "2",
+        "vertices": 50418,
+        "triangles": 100868,
+        "nonmanifold_edges": 0,
+        "inconsistent_winding_edges": 0,
+        "signed_volume_mm3": 706839.8378041025
+      }
+    ],
+    "build_items": 1,
+    "bbox_min": [
+      3.2526065175e-19,
+      0.0,
+      0.0
+    ],
+    "dimensions": [
+      223.100436814,
+      176.501151831,
+      213.800924054
+    ],
+    "fits": false,
+    "on_bed": true
+  },
+  {
+    "file": "Q-AR-G.3mf",
+    "unit": "millimeter",
+    "objects": [
+      {
+        "id": "2",
+        "vertices": 50128,
+        "triangles": 100288,
+        "nonmanifold_edges": 0,
+        "inconsistent_winding_edges": 0,
+        "signed_volume_mm3": 706786.8552513438
+      }
+    ],
+    "build_items": 1,
+    "bbox_min": [
+      1.1368683772e-13,
+      7.38959522612e-09,
+      2.1579540999e-07
+    ],
+    "dimensions": [
+      223.09982614899988,
+      176.50063833361042,
+      213.7960805512046
+    ],
+    "fits": false,
+    "on_bed": true
+  },
+  {
+    "file": "Q-AV-D.3mf",
+    "unit": "millimeter",
+    "objects": [
+      {
+        "id": "2",
+        "vertices": 55662,
+        "triangles": 111372,
+        "nonmanifold_edges": 0,
+        "inconsistent_winding_edges": 0,
+        "signed_volume_mm3": 671372.2888153029
+      }
+    ],
+    "build_items": 1,
+    "bbox_min": [
+      2.7448746401e-15,
+      0.0,
+      0.0
+    ],
+    "dimensions": [
+      241.301019171,
+      176.500641772,
+      220.000327285
+    ],
+    "fits": false,
+    "on_bed": true
+  },
+  {
+    "file": "Q-AV-G-EAR.3mf",
+    "unit": "millimeter",
+    "objects": [
+      {
+        "id": "2",
+        "vertices": 55393,
+        "triangles": 110834,
+        "nonmanifold_edges": 0,
+        "inconsistent_winding_edges": 0,
+        "signed_volume_mm3": 671553.7857464721
+      }
+    ],
+    "build_items": 1,
+    "bbox_min": [
+      0.0,
+      0.0,
+      5.2055798908e-15
+    ],
+    "dimensions": [
+      241.300385777,
+      176.50133566,
+      220.000643529
+    ],
+    "fits": false,
+    "on_bed": true
+  }
+]

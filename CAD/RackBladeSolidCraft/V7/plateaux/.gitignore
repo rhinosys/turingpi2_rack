@@ -1,0 +1,6 @@
+# Intermediate geometry and duplicate slicing outputs; final 3MF files are tracked.
+sources/
+verification/*/*.gcode
+verification/*/*.3mf
+verification/*/plate_*.png
+verification/*/result.json

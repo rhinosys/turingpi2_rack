@@ -1,0 +1,12 @@
+{
+  "id": 93,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"bytes\": 797274,\n  \"format\": \"Step\",\n  \"path\": \"./CAD/RackBladeSolidCraft/V5/exports/CASSETTE-G.step\"\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

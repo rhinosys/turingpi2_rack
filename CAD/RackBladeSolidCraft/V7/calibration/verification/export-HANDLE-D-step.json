@@ -1,0 +1,12 @@
+{
+  "id": 44,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"bytes\": 17961,\n  \"format\": \"Step\",\n  \"path\": \"./CAD/RackBladeSolidCraft/V7/exports/HANDLE-D_print.step\"\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "name": "batch",
+  "arguments": {
+    "commands": [
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Rive-plane-Q-AR-D",
+          "body_name": "Rive-plane-Q-AR-D",
+          "corner": [
+            -250,
+            204.2,
+            -0.1
+          ],
+          "length": 500,
+          "width": 6,
+          "height": 177,
+          "operation": "cut",
+          "targets": [
+            "Q-AR-D",
+            "TOP-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Pont-toit-Q-AR-D",
+          "body_name": "Pont-toit-Q-AR-D",
+          "corner": [
+            219,
+            210.2,
+            173.3
+          ],
+          "length": 4,
+          "width": 213.8,
+          "height": 0.4,
+          "operation": "join",
+          "targets": [
+            "Q-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.combine",
+        "params": {
+          "target": "Q-AR-D",
+          "tools": [
+            "TOP-AR-D"
+          ],
+          "operation": "join"
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Demi-cloison-Q-AR-D",
+          "body_name": "Demi-cloison-Q-AR-D",
+          "corner": [
+            0.15,
+            210.2,
+            3.8
+          ],
+          "length": 4.85,
+          "width": 213.8,
+          "height": 169.9,
+          "operation": "new",
+          "targets": []
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Guide-central-Q-AR-D",
+          "body_name": "Guide-central-Q-AR-D",
+          "corner": [
+            2,
+            210.19,
+            16
+          ],
+          "length": 3.02,
+          "width": 213.82000000000002,
+          "height": 3.4,
+          "operation": "cut",
+          "targets": [
+            "Demi-cloison-Q-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Biscuit-central-Q-AR-D290",
+          "body_name": "Biscuit-central-Q-AR-D290",
+          "corner": [
+            -11.05,
+            279.95,
+            173.25
+          ],
+          "length": 22.1,
+          "width": 20.1,
+          "height": 3.4,
+          "operation": "cut",
+          "targets": [
+            "Demi-cloison-Q-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Biscuit-central-Q-AR-D370",
+          "body_name": "Biscuit-central-Q-AR-D370",
+          "corner": [
+            -11.05,
+            359.95,
+            173.25
+          ],
+          "length": 22.1,
+          "width": 20.1,
+          "height": 3.4,
+          "operation": "cut",
+          "targets": [
+            "Demi-cloison-Q-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Biscuit-croix-Q-AR-D",
+          "body_name": "Biscuit-croix-Q-AR-D",
+          "corner": [
+            -11.05,
+            198.95,
+            173.25
+          ],
+          "length": 22.1,
+          "width": 22.1,
+          "height": 3.4,
+          "operation": "cut",
+          "targets": [
+            "Demi-cloison-Q-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.combine",
+        "params": {
+          "target": "Q-AR-D",
+          "tools": [
+            "Demi-cloison-Q-AR-D"
+          ],
+          "operation": "join"
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Obturation-toit-Q-AR-D240",
+          "body_name": "Obturation-toit-Q-AR-D240",
+          "base": [
+            214.8,
+            240,
+            166
+          ],
+          "diameter": 8.6,
+          "height": 8.3,
+          "axis": "X",
+          "operation": "join",
+          "targets": [
+            "Q-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Obturation-toit-Q-AR-D315",
+          "body_name": "Obturation-toit-Q-AR-D315",
+          "base": [
+            214.8,
+            315,
+            166
+          ],
+          "diameter": 8.6,
+          "height": 8.3,
+          "axis": "X",
+          "operation": "join",
+          "targets": [
+            "Q-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Obturation-toit-Q-AR-D390",
+          "body_name": "Obturation-toit-Q-AR-D390",
+          "base": [
+            214.8,
+            390,
+            166
+          ],
+          "diameter": 8.6,
+          "height": 8.3,
+          "axis": "X",
+          "operation": "join",
+          "targets": [
+            "Q-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Obturation-cloison-Q-AR-D240",
+          "body_name": "Obturation-cloison-Q-AR-D240",
+          "base": [
+            12.5,
+            240,
+            0
+          ],
+          "diameter": 5,
+          "height": 4,
+          "axis": "Z",
+          "operation": "join",
+          "targets": [
+            "Q-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Obturation-cloison-Q-AR-D310",
+          "body_name": "Obturation-cloison-Q-AR-D310",
+          "base": [
+            12.5,
+            310,
+            0
+          ],
+          "diameter": 5,
+          "height": 4,
+          "axis": "Z",
+          "operation": "join",
+          "targets": [
+            "Q-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Obturation-cloison-Q-AR-D390",
+          "body_name": "Obturation-cloison-Q-AR-D390",
+          "base": [
+            12.5,
+            390,
+            0
+          ],
+          "diameter": 5,
+          "height": 4,
+          "axis": "Z",
+          "operation": "join",
+          "targets": [
+            "Q-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Obturation-cloison-Q-AR-D410",
+          "body_name": "Obturation-cloison-Q-AR-D410",
+          "base": [
+            12.5,
+            410,
+            0
+          ],
+          "diameter": 5,
+          "height": 4,
+          "axis": "Z",
+          "operation": "join",
+          "targets": [
+            "Q-AR-D"
+          ]
+        }
+      }
+    ],
+    "rollback": true,
+    "verbose": false
+  }
+}

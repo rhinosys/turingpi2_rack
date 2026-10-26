@@ -1,0 +1,12 @@
+{
+  "id": 33,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"changed_bodies\": [\n    \"BT-D\",\n    \"BF-D\",\n    \"REF_TP2_R\",\n    \"REF_MODULES_R\",\n    \"REF_NVME_R\",\n    \"REF_PSU_R\",\n    \"REF_FAN_R\",\n    \"HANDLE-D\",\n    \"FOND-AR-D\",\n    \"ECLISSE-D-1\",\n    \"ECLISSE-D-2\"\n  ],\n  \"created_bodies\": [],\n  \"feature\": 702,\n  \"ms\": 4.1830419999999995,\n  \"name\": \"Move35\",\n  \"removed_bodies\": [],\n  \"warning\": null\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

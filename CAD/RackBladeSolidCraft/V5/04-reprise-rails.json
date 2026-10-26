@@ -1,0 +1,107 @@
+{
+  "name": "batch",
+  "arguments": {
+    "commands": [
+      {
+        "command": "component.activate",
+        "params": {
+          "component": "root"
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "RENFORT-RAIL-D",
+          "body_name": "RENFORT-RAIL-D",
+          "corner": [
+            203,
+            210.2,
+            3.8
+          ],
+          "length": 16.2,
+          "width": 209.8,
+          "height": 18.2
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Gorge-renfort-D",
+          "corner": [
+            202.8,
+            210.1,
+            15.99
+          ],
+          "length": 3.2,
+          "width": 210,
+          "height": 3.42,
+          "operation": "cut",
+          "targets": [
+            "RENFORT-RAIL-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.combine",
+        "params": {
+          "target": "Q-AR-D",
+          "tools": [
+            "RENFORT-RAIL-D"
+          ],
+          "operation": "join"
+        }
+      },
+      {
+        "command": "component.activate",
+        "params": {
+          "component": "root"
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "RENFORT-RAIL-G",
+          "body_name": "RENFORT-RAIL-G",
+          "corner": [
+            -219.2,
+            210.2,
+            3.8
+          ],
+          "length": 16.2,
+          "width": 209.8,
+          "height": 18.2
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Gorge-renfort-G",
+          "corner": [
+            -206,
+            210.1,
+            15.99
+          ],
+          "length": 3.2,
+          "width": 210,
+          "height": 3.42,
+          "operation": "cut",
+          "targets": [
+            "RENFORT-RAIL-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.combine",
+        "params": {
+          "target": "Q-AR-G",
+          "tools": [
+            "RENFORT-RAIL-G"
+          ],
+          "operation": "join"
+        }
+      }
+    ],
+    "verbose": false,
+    "rollback": true
+  }
+}

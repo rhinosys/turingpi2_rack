@@ -1,0 +1,660 @@
+[
+  {
+    "kind": "parameter",
+    "name": "bisc_clear",
+    "before": "0.2",
+    "after": "0.2"
+  },
+  {
+    "kind": "parameter",
+    "name": "m3_clear",
+    "before": "3.4",
+    "after": "3.2"
+  },
+  {
+    "kind": "parameter",
+    "name": "m4_clear",
+    "before": "4.5",
+    "after": "4.3"
+  },
+  {
+    "kind": "parameter",
+    "name": "m3_nut_af",
+    "before": "5.8",
+    "after": "5.7"
+  },
+  {
+    "kind": "parameter",
+    "name": "m4_nut_af",
+    "before": "7.3",
+    "after": "7.2"
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 16,
+    "name": "EAR-nut-30Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 19,
+    "name": "EAR-nut-88Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 22,
+    "name": "EAR-nut-146Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 25,
+    "name": "BF-nut-20Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 28,
+    "name": "BF-nut-155Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 98,
+    "name": "CL-AV-nut-1-25Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 102,
+    "name": "CL-AV-nut1-25Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 106,
+    "name": "CL-AV-nut-1-90Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 110,
+    "name": "CL-AV-nut1-90Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 114,
+    "name": "CL-AV-nut-1-170Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 118,
+    "name": "CL-AV-nut1-170Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 122,
+    "name": "CL-AV-nut-1-195Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 126,
+    "name": "CL-AV-nut1-195Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 139,
+    "name": "CL-AR-nut-1-240Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 143,
+    "name": "CL-AR-nut1-240Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 147,
+    "name": "CL-AR-nut-1-310Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 151,
+    "name": "CL-AR-nut1-310Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 155,
+    "name": "CL-AR-nut-1-390Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 159,
+    "name": "CL-AR-nut1-390Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 163,
+    "name": "CL-AR-nut-1-410Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 167,
+    "name": "CL-AR-nut1-410Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 179,
+    "name": "FW-nut51.5-21.5Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 182,
+    "name": "FW-nut51.5-126.5Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 185,
+    "name": "FW-nut156.5-21.5Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 188,
+    "name": "FW-nut156.5-126.5Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 192,
+    "name": "FW-foot-nut65Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 197,
+    "name": "FW-foot-nut195Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 215,
+    "name": "BT-nut25.35-26.16Sketch",
+    "before_af": 5.8,
+    "after_af": 5.7
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 219,
+    "name": "BT-nut25.35-181.1Sketch",
+    "before_af": 5.8,
+    "after_af": 5.7
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 223,
+    "name": "BT-nut182.83-49.02Sketch",
+    "before_af": 5.8,
+    "after_af": 5.7
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 227,
+    "name": "BT-nut182.83-181.1Sketch",
+    "before_af": 5.8,
+    "after_af": 5.7
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 231,
+    "name": "BT-face-nut30Sketch",
+    "before_af": 5.8,
+    "after_af": 5.7
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 234,
+    "name": "BT-face-nut75Sketch",
+    "before_af": 5.8,
+    "after_af": 5.7
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 237,
+    "name": "BT-face-nut135Sketch",
+    "before_af": 5.8,
+    "after_af": 5.7
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 240,
+    "name": "BT-face-nut180Sketch",
+    "before_af": 5.8,
+    "after_af": 5.7
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 334,
+    "name": "TOP-AV-D-lip-nut30Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 337,
+    "name": "TOP-AV-D-lip-nut105Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 340,
+    "name": "TOP-AV-D-lip-nut180Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 353,
+    "name": "TOP-AR-D-lip-nut240Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 356,
+    "name": "TOP-AR-D-lip-nut315Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 359,
+    "name": "TOP-AR-D-lip-nut390Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 397,
+    "name": "FW-G-new-foot-nut65Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 400,
+    "name": "FW-G-new-foot-nut195Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 418,
+    "name": "FW-D-new-foot-nut65Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 421,
+    "name": "FW-D-new-foot-nut195Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 441,
+    "name": "seam-nutG40Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 446,
+    "name": "seam-nutG140Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 451,
+    "name": "seam-nutD40Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 456,
+    "name": "seam-nutD140Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 459,
+    "name": "CL-AV-lid-nut90Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 464,
+    "name": "CL-AV-lid-nut170Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 469,
+    "name": "CL-AR-lid-nut250Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 474,
+    "name": "CL-AR-lid-nut400Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 493,
+    "name": "BF-G-handle-nut-64Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 497,
+    "name": "BF-G-handle-nut-144Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 510,
+    "name": "BF-D-handle-nut64Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "nut_sketch",
+    "id": 514,
+    "name": "BF-D-handle-nut144Sketch",
+    "before_af": 7.3,
+    "after_af": 7.2
+  },
+  {
+    "kind": "literal_hole",
+    "id": 566,
+    "name": "Vis-facade-V5-D-30",
+    "before": "(3.4 mm) / 2",
+    "after": "(m3_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 567,
+    "name": "Vis-facade-V5-D-75",
+    "before": "(3.4 mm) / 2",
+    "after": "(m3_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 568,
+    "name": "Vis-facade-V5-D-135",
+    "before": "(3.4 mm) / 2",
+    "after": "(m3_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 569,
+    "name": "Vis-facade-V5-D-180",
+    "before": "(3.4 mm) / 2",
+    "after": "(m3_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 581,
+    "name": "Vis-facade-V5-G--178",
+    "before": "(3.4 mm) / 2",
+    "after": "(m3_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 582,
+    "name": "Vis-facade-V5-G--133",
+    "before": "(3.4 mm) / 2",
+    "after": "(m3_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 583,
+    "name": "Vis-facade-V5-G--73",
+    "before": "(3.4 mm) / 2",
+    "after": "(m3_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 584,
+    "name": "Vis-facade-V5-G--28",
+    "before": "(3.4 mm) / 2",
+    "after": "(m3_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 596,
+    "name": "Vis-ventilo-D-51.5-29.5",
+    "before": "(4.5 mm) / 2",
+    "after": "(m4_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 597,
+    "name": "Vis-ventilo-D-51.5-134.5",
+    "before": "(4.5 mm) / 2",
+    "after": "(m4_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 598,
+    "name": "Vis-ventilo-D-156.5-29.5",
+    "before": "(4.5 mm) / 2",
+    "after": "(m4_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 599,
+    "name": "Vis-ventilo-D-156.5-134.5",
+    "before": "(4.5 mm) / 2",
+    "after": "(m4_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 617,
+    "name": "Vis-ECLISSE-D-1-184",
+    "before": "(3.4 mm) / 2",
+    "after": "(m3_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 618,
+    "name": "Vis-ECLISSE-D-1-195",
+    "before": "(3.4 mm) / 2",
+    "after": "(m3_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 619,
+    "name": "Vis-ECLISSE-D-1-251",
+    "before": "(3.4 mm) / 2",
+    "after": "(m3_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 620,
+    "name": "Vis-ECLISSE-D-1-269",
+    "before": "(3.4 mm) / 2",
+    "after": "(m3_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 623,
+    "name": "Vis-ECLISSE-D-2-184",
+    "before": "(3.4 mm) / 2",
+    "after": "(m3_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 624,
+    "name": "Vis-ECLISSE-D-2-195",
+    "before": "(3.4 mm) / 2",
+    "after": "(m3_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 625,
+    "name": "Vis-ECLISSE-D-2-251",
+    "before": "(3.4 mm) / 2",
+    "after": "(m3_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 626,
+    "name": "Vis-ECLISSE-D-2-269",
+    "before": "(3.4 mm) / 2",
+    "after": "(m3_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 634,
+    "name": "Vis-ventilo-G-51.5-29.5",
+    "before": "(4.5 mm) / 2",
+    "after": "(m4_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 635,
+    "name": "Vis-ventilo-G-51.5-134.5",
+    "before": "(4.5 mm) / 2",
+    "after": "(m4_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 636,
+    "name": "Vis-ventilo-G-156.5-29.5",
+    "before": "(4.5 mm) / 2",
+    "after": "(m4_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 637,
+    "name": "Vis-ventilo-G-156.5-134.5",
+    "before": "(4.5 mm) / 2",
+    "after": "(m4_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 655,
+    "name": "Vis-ECLISSE-G-1-184",
+    "before": "(3.4 mm) / 2",
+    "after": "(m3_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 656,
+    "name": "Vis-ECLISSE-G-1-195",
+    "before": "(3.4 mm) / 2",
+    "after": "(m3_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 657,
+    "name": "Vis-ECLISSE-G-1-251",
+    "before": "(3.4 mm) / 2",
+    "after": "(m3_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 658,
+    "name": "Vis-ECLISSE-G-1-269",
+    "before": "(3.4 mm) / 2",
+    "after": "(m3_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 661,
+    "name": "Vis-ECLISSE-G-2-184",
+    "before": "(3.4 mm) / 2",
+    "after": "(m3_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 662,
+    "name": "Vis-ECLISSE-G-2-195",
+    "before": "(3.4 mm) / 2",
+    "after": "(m3_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 663,
+    "name": "Vis-ECLISSE-G-2-251",
+    "before": "(3.4 mm) / 2",
+    "after": "(m3_clear) / 2"
+  },
+  {
+    "kind": "literal_hole",
+    "id": 664,
+    "name": "Vis-ECLISSE-G-2-269",
+    "before": "(3.4 mm) / 2",
+    "after": "(m3_clear) / 2"
+  },
+  {
+    "kind": "suppressed_legacy_relief",
+    "id": 909,
+    "reason": "calibrated body collision-free without legacy numerical cut"
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "name": "batch",
+  "arguments": {
+    "commands": [
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Retrait-obturation-exterieure-D",
+          "corner": [
+            190.95,
+            192.95,
+            15.95
+          ],
+          "length": 4.1,
+          "width": 4.1,
+          "height": 3.1,
+          "operation": "cut",
+          "targets": [
+            "BT-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Retrait-obturation-exterieure-G",
+          "corner": [
+            -195.05,
+            192.95,
+            15.95
+          ],
+          "length": 4.1,
+          "width": 4.1,
+          "height": 3.1,
+          "operation": "cut",
+          "targets": [
+            "BT-G"
+          ]
+        }
+      }
+    ],
+    "rollback": true,
+    "verbose": false
+  }
+}

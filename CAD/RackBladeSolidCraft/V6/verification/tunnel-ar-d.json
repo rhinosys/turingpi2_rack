@@ -1,0 +1,13 @@
+{
+  "id": 6,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"applied\": [],\n  \"completed\": 3,\n  \"failed\": {\n    \"command\": \"solid.combine\",\n    \"error\": \"boolean Union: the operation failed: no result\",\n    \"index\": 3\n  },\n  \"not_run\": [\n    4,\n    5,\n    6,\n    7,\n    8,\n    9,\n    10,\n    11,\n    12,\n    13,\n    14\n  ],\n  \"ok\": false,\n  \"results\": [\n    {\n      \"changed_bodies\": [\n        \"TOP-AR-D\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 795,\n      \"ms\": 109.47525,\n      \"name\": \"Rive-plane-Q-AR-D\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [\n        \"Q-AR-D\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 796,\n      \"ms\": 1766.818791,\n      \"name\": \"Pont-toit-Q-AR-D\",\n      \"removed_bodies\": [],\n      \"warning\": \"Boolean retry: tool displacement 7.130742e-4 mm, rotation 2.000000e-6 rad\"\n    },\n    {\n      \"changed_bodies\": [\n        \"Q-AR-D\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 797,\n      \"ms\": 1396.01,\n      \"name\": \"Demi-cloison-Q-AR-D\",\n      \"removed_bodies\": [],\n      \"warning\": \"Boolean retry: tool displacement 7.132731e-4 mm, rotation 2.000000e-6 rad\"\n    }\n  ],\n  \"rolled_back\": true,\n  \"undone\": 3\n}",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 6,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"bytes\": 70502,\n  \"format\": \"Step\",\n  \"path\": \"./CAD/RackBladeSolidCraft/V7/exports/TEST-FILAMENT.step\"\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

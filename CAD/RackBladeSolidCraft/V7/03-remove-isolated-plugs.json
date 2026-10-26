@@ -1,0 +1,45 @@
+{
+  "name": "batch",
+  "arguments": {
+    "commands": [
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Retrait-obturation-isolee-D",
+          "corner": [
+            12.95,
+            192.95,
+            15.95
+          ],
+          "length": 4.1,
+          "width": 4.1,
+          "height": 3.1,
+          "operation": "cut",
+          "targets": [
+            "BT-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Retrait-obturation-isolee-G",
+          "corner": [
+            -17.05,
+            192.95,
+            15.95
+          ],
+          "length": 4.1,
+          "width": 4.1,
+          "height": 3.1,
+          "operation": "cut",
+          "targets": [
+            "BT-G"
+          ]
+        }
+      }
+    ],
+    "rollback": true,
+    "verbose": false
+  }
+}

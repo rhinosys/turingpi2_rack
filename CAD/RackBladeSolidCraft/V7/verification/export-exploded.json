@@ -1,0 +1,12 @@
+{
+  "id": 31,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"bytes\": 611678,\n  \"format\": \"Step\",\n  \"path\": \"./CAD/RackBladeSolidCraft/V7/exports/Joint_V7_eclate.step\"\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

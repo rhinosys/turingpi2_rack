@@ -1,0 +1,12 @@
+{
+  "id": 70,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"completed\": 8,\n  \"ok\": true,\n  \"results\": [\n    {\n      \"active\": 0\n    },\n    {\n      \"changed_bodies\": [],\n      \"created_bodies\": [\n        \"RENFORT-RAIL-D\"\n      ],\n      \"feature\": 772,\n      \"ms\": 0.710833,\n      \"name\": \"RENFORT-RAIL-D\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [\n        \"RENFORT-RAIL-D\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 773,\n      \"ms\": 3.389041,\n      \"name\": \"Gorge-renfort-D\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [\n        \"Q-AR-D\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 774,\n      \"ms\": 1325.0294170000002,\n      \"name\": \"Combine8\",\n      \"removed_bodies\": [\n        \"RENFORT-RAIL-D\"\n      ],\n      \"warning\": \"Boolean retry: not verified: the bodies' facets pass through each other by more than 9.720141e-2 mm, but they could not be intersected there; that part is ignored; tool displacement 7.130742e-4 mm, rotation 2.000000e-6 rad\"\n    },\n    {\n      \"active\": 0\n    },\n    {\n      \"changed_bodies\": [],\n      \"created_bodies\": [\n        \"RENFORT-RAIL-G\"\n      ],\n      \"feature\": 775,\n      \"ms\": 0.323333,\n      \"name\": \"RENFORT-RAIL-G\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [\n        \"RENFORT-RAIL-G\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 776,\n      \"ms\": 2.5325830000000003,\n      \"name\": \"Gorge-renfort-G\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [],\n      \"created_bodies\": [],\n      \"feature\": 777,\n      \"ms\": 53.396333,\n      \"name\": \"Combine9\",\n      \"removed_bodies\": [\n        \"RENFORT-RAIL-G\"\n      ],\n      \"warning\": null\n    }\n  ]\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

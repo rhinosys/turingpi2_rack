@@ -1,0 +1,12 @@
+{
+  "id": 14,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"bytes\": 9496,\n  \"format\": \"ThreeMf\",\n  \"path\": \"./CAD/RackBladeSolidCraft/Supports_Rails_L/exports/BERCEAU-A.3mf\"\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 36,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"bytes\": 59615,\n  \"name\": \"Rack_variante_oreille_G\",\n  \"path\": \"./CAD/RackBladeSolidCraft/RackTuringPi2_Complet_V6.solidcraft\"\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

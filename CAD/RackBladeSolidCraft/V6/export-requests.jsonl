@@ -1,0 +1,8 @@
+{"_label": "export-Q-AV-D-3mf", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V6/exports/Q-AV-D.3mf", "bodies": ["Q-AV-D"], "format": "3mf"}}
+{"_label": "export-Q-AV-D-step", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V6/exports/Q-AV-D_print.step", "bodies": ["Q-AV-D"], "format": "step"}}
+{"_label": "export-Q-AR-D-3mf", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V6/exports/Q-AR-D.3mf", "bodies": ["Q-AR-D"], "format": "3mf"}}
+{"_label": "export-Q-AR-D-step", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V6/exports/Q-AR-D_print.step", "bodies": ["Q-AR-D"], "format": "step"}}
+{"_label": "export-Q-AV-G-EAR-3mf", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V6/exports/Q-AV-G-EAR.3mf", "bodies": ["Q-AV-G-EAR"], "format": "3mf"}}
+{"_label": "export-Q-AV-G-EAR-step", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V6/exports/Q-AV-G-EAR_print.step", "bodies": ["Q-AV-G-EAR"], "format": "step"}}
+{"_label": "export-Q-AR-G-3mf", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V6/exports/Q-AR-G.3mf", "bodies": ["Q-AR-G"], "format": "3mf"}}
+{"_label": "export-Q-AR-G-step", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V6/exports/Q-AR-G_print.step", "bodies": ["Q-AR-G"], "format": "step"}}

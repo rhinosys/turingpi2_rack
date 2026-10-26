@@ -1,0 +1,12 @@
+{
+  "id": 23,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"completed\": 2,\n  \"ok\": true,\n  \"results\": [\n    {\n      \"changed\": [\n        \"description\",\n        \"revision\"\n      ],\n      \"metadata\": {\n        \"description\": \"Deux cassettes completes extractibles par l'avant. Debrancher les cables externes. Prototype a valider.\",\n        \"revision\": \"V5\"\n      }\n    },\n    {\n      \"changed\": 10,\n      \"visibility\": {\n        \"hidden_bodies\": [\n          \"BIS\",\n          \"BIS-X\"\n        ],\n        \"hidden_occurrences\": [],\n        \"hidden_origin\": [],\n        \"hidden_sketches\": [],\n        \"shown_sketches\": []\n      },\n      \"visible\": true\n    }\n  ]\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

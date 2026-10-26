@@ -1,0 +1,12 @@
+{
+  "id": 43,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"completed\": 1,\n  \"ok\": true,\n  \"results\": [\n    {\n      \"boolean_ms\": 14811.727,\n      \"budget_exceeded\": false,\n      \"budget_s\": 45.0,\n      \"checked\": 46,\n      \"count\": 0,\n      \"interferences\": [],\n      \"ms\": 4950.707,\n      \"pairs_candidate\": 102,\n      \"pairs_cleared\": 10,\n      \"pairs_intersected\": 92,\n      \"pairs_not_checked\": 0,\n      \"skipped_pairs\": 0,\n      \"slowest\": [\n        {\n          \"a\": \"Q-AV-D\",\n          \"b\": \"Q-AV-G-EAR\",\n          \"boolean_ms\": 526.931,\n          \"ms\": 1253.962,\n          \"tessellate_ms\": 343.592\n        },\n        {\n          \"a\": \"Q-AR-D\",\n          \"b\": \"Q-AR-G\",\n          \"boolean_ms\": 489.512,\n          \"ms\": 1233.7,\n          \"tessellate_ms\": 441.676\n        },\n        {\n          \"a\": \"Q-AR-D\",\n          \"b\": \"Q-AV-G-EAR\",\n          \"boolean_ms\": 503.066,\n          \"ms\": 1184.76,\n          \"tessellate_ms\": 349.234\n        },\n        {\n          \"a\": \"Q-AV-D\",\n          \"b\": \"Q-AR-G\",\n          \"boolean_ms\": 417.465,\n          \"ms\": 1159.854,\n          \"tessellate_ms\": 358.907\n        },\n        {\n          \"a\": \"Q-AV-D\",\n          \"b\": \"Q-AR-D\",\n          \"boolean_ms\": 303.58,\n          \"ms\": 1053.453,\n          \"tessellate_ms\": 386.414\n        },\n        {\n          \"a\": \"Q-AV-D\",\n          \"b\": \"BF-D\",\n          \"boolean_ms\": 222.991,\n          \"ms\": 992.758,\n          \"tessellate_ms\": 327.475\n        },\n        {\n          \"a\": \"Q-AV-G-EAR\",\n          \"b\": \"Q-AR-G\",\n          \"boolean_ms\": 189.634,\n          \"ms\": 916.693,\n          \"tessellate_ms\": 353.615\n        },\n        {\n          \"a\": \"Q-AV-G-EAR\",\n          \"b\": \"BF-G\",\n          \"boolean_ms\": 180.197,\n          \"ms\": 760.845,\n          \"tessellate_ms\": 265.483\n        }\n      ],\n      \"tessellate_ms\": 4150.636,\n      \"threads\": 8,\n      \"truncated\": false,\n      \"unchecked\": []\n    }\n  ]\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

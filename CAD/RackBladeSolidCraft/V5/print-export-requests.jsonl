@@ -1,0 +1,26 @@
+{"_label": "print-place", "_file": "print-place.json"}
+{"_label": "3mf-Q-AV-D", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V5/exports/Q-AV-D.3mf", "bodies": ["Q-AV-D"], "format": "3mf"}}
+{"_label": "3mf-Q-AR-D", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V5/exports/Q-AR-D.3mf", "bodies": ["Q-AR-D"], "format": "3mf"}}
+{"_label": "3mf-Q-AV-G-EAR", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V5/exports/Q-AV-G-EAR.3mf", "bodies": ["Q-AV-G-EAR"], "format": "3mf"}}
+{"_label": "3mf-Q-AR-G", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V5/exports/Q-AR-G.3mf", "bodies": ["Q-AR-G"], "format": "3mf"}}
+{"_label": "3mf-CL-AV", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V5/exports/CL-AV.3mf", "bodies": ["CL-AV"], "format": "3mf"}}
+{"_label": "3mf-CL-AR", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V5/exports/CL-AR.3mf", "bodies": ["CL-AR"], "format": "3mf"}}
+{"_label": "3mf-EAR-D", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V5/exports/EAR-D.3mf", "bodies": ["EAR-D"], "format": "3mf"}}
+{"_label": "3mf-TOP-AV-D", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V5/exports/TOP-AV-D.3mf", "bodies": ["TOP-AV-D"], "format": "3mf"}}
+{"_label": "3mf-TOP-AR-D", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V5/exports/TOP-AR-D.3mf", "bodies": ["TOP-AR-D"], "format": "3mf"}}
+{"_label": "3mf-TOP-AV-G", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V5/exports/TOP-AV-G.3mf", "bodies": ["TOP-AV-G"], "format": "3mf"}}
+{"_label": "3mf-TOP-AR-G", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V5/exports/TOP-AR-G.3mf", "bodies": ["TOP-AR-G"], "format": "3mf"}}
+{"_label": "3mf-BIS", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V5/exports/BIS.3mf", "bodies": ["BIS"], "format": "3mf"}}
+{"_label": "3mf-BIS-X", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V5/exports/BIS-X.3mf", "bodies": ["BIS-X"], "format": "3mf"}}
+{"_label": "3mf-BT-D", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V5/exports/BT-D.3mf", "bodies": ["BT-D"], "format": "3mf"}}
+{"_label": "3mf-BF-D", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V5/exports/BF-D.3mf", "bodies": ["BF-D"], "format": "3mf"}}
+{"_label": "3mf-HANDLE-D", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V5/exports/HANDLE-D.3mf", "bodies": ["HANDLE-D"], "format": "3mf"}}
+{"_label": "3mf-FOND-AR-D", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V5/exports/FOND-AR-D.3mf", "bodies": ["FOND-AR-D"], "format": "3mf"}}
+{"_label": "3mf-ECLISSE-D-1", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V5/exports/ECLISSE-D-1.3mf", "bodies": ["ECLISSE-D-1"], "format": "3mf"}}
+{"_label": "3mf-ECLISSE-D-2", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V5/exports/ECLISSE-D-2.3mf", "bodies": ["ECLISSE-D-2"], "format": "3mf"}}
+{"_label": "3mf-BT-G", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V5/exports/BT-G.3mf", "bodies": ["BT-G"], "format": "3mf"}}
+{"_label": "3mf-BF-G", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V5/exports/BF-G.3mf", "bodies": ["BF-G"], "format": "3mf"}}
+{"_label": "3mf-HANDLE-G", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V5/exports/HANDLE-G.3mf", "bodies": ["HANDLE-G"], "format": "3mf"}}
+{"_label": "3mf-FOND-AR-G", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V5/exports/FOND-AR-G.3mf", "bodies": ["FOND-AR-G"], "format": "3mf"}}
+{"_label": "3mf-ECLISSE-G-1", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V5/exports/ECLISSE-G-1.3mf", "bodies": ["ECLISSE-G-1"], "format": "3mf"}}
+{"_label": "3mf-ECLISSE-G-2", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V5/exports/ECLISSE-G-2.3mf", "bodies": ["ECLISSE-G-2"], "format": "3mf"}}

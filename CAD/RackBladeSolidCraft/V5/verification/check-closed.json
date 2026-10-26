@@ -1,0 +1,12 @@
+{
+  "id": 11,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"boolean_ms\": 31580.227,\n  \"budget_exceeded\": false,\n  \"budget_s\": 45.0,\n  \"checked\": 53,\n  \"count\": 0,\n  \"interferences\": [],\n  \"ms\": 14423.053,\n  \"pairs_candidate\": 190,\n  \"pairs_cleared\": 55,\n  \"pairs_intersected\": 135,\n  \"pairs_not_checked\": 0,\n  \"skipped_pairs\": 0,\n  \"slowest\": [\n    {\n      \"a\": \"Q-AR-D\",\n      \"b\": \"Q-AR-G\",\n      \"boolean_ms\": 13469.007,\n      \"ms\": 13724.708,\n      \"tessellate_ms\": 94.447\n    },\n    {\n      \"a\": \"Q-AV-D\",\n      \"b\": \"BF-D\",\n      \"boolean_ms\": 4415.838,\n      \"ms\": 4841.597,\n      \"tessellate_ms\": 199.036\n    },\n    {\n      \"a\": \"Q-AV-D\",\n      \"b\": \"EAR-D\",\n      \"boolean_ms\": 2105.144,\n      \"ms\": 2429.042,\n      \"tessellate_ms\": 161.701\n    },\n    {\n      \"a\": \"Q-AV-D\",\n      \"b\": \"Q-AV-G-EAR\",\n      \"boolean_ms\": 273.096,\n      \"ms\": 787.936,\n      \"tessellate_ms\": 261.654\n    },\n    {\n      \"a\": \"BT-D\",\n      \"b\": \"BF-D\",\n      \"boolean_ms\": 183.158,\n      \"ms\": 754.823,\n      \"tessellate_ms\": 247.873\n    },\n    {\n      \"a\": \"Q-AV-G-EAR\",\n      \"b\": \"Q-AR-G\",\n      \"boolean_ms\": 247.99,\n      \"ms\": 721.702,\n      \"tessellate_ms\": 242.288\n    },\n    {\n      \"a\": \"BT-G\",\n      \"b\": \"BF-G\",\n      \"boolean_ms\": 244.022,\n      \"ms\": 644.679,\n      \"tessellate_ms\": 108.481\n    },\n    {\n      \"a\": \"Q-AR-D\",\n      \"b\": \"Q-AV-G-EAR\",\n      \"boolean_ms\": 277.237,\n      \"ms\": 624.913,\n      \"tessellate_ms\": 134.306\n    }\n  ],\n  \"tessellate_ms\": 4607.492,\n  \"threads\": 8,\n  \"truncated\": false,\n  \"unchecked\": [\n    {\n      \"a\": \"Q-AR-D\",\n      \"b\": \"Q-AR-G\",\n      \"reason\": \"not verified: the bodies' facets pass through each other by more than 1.062958e-2 mm, but they could not be intersected there; that part is ignored\"\n    }\n  ]\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

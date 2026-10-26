@@ -1,0 +1,12 @@
+{
+  "id": 5,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"bytes\": 1019609,\n  \"format\": \"Step\",\n  \"path\": \"./CAD/RackBladeSolidCraft/V7/verification/cassette-trial.step\"\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

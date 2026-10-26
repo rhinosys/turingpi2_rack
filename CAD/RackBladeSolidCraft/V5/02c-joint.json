@@ -1,0 +1,22 @@
+{
+  "name": "execute",
+  "arguments": {
+    "command": "solid.box",
+    "params": {
+      "name": "Jeu-joint-central-arriere-V5",
+      "corner": [
+        -0.15,
+        210.1,
+        -0.1
+      ],
+      "length": 0.3,
+      "width": 214.1,
+      "height": 174,
+      "operation": "cut",
+      "targets": [
+        "Q-AR-D",
+        "Q-AR-G"
+      ]
+    }
+  }
+}

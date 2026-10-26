@@ -1,0 +1,12 @@
+{
+  "id": 4,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"bytes\": 188053,\n  \"name\": \"Test_filament_V7\",\n  \"path\": \"./CAD/RackBladeSolidCraft/V7/Test_filament_V7.solidcraft\"\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

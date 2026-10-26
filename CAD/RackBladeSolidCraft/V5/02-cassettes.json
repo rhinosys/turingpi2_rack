@@ -1,0 +1,1390 @@
+{
+  "name": "batch",
+  "arguments": {
+    "commands": [
+      {
+        "command": "component.create",
+        "params": {
+          "name": "CASSETTE-D",
+          "parent": "root"
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "FOND-AR-D",
+          "body_name": "FOND-AR-D",
+          "corner": [
+            5.5,
+            201.4,
+            16
+          ],
+          "length": 197,
+          "width": 218.6,
+          "height": 4,
+          "operation": "new"
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Langue-D2.6",
+          "body_name": "Langue-D2.6",
+          "corner": [
+            2.6,
+            201.4,
+            16.2
+          ],
+          "length": 2.9,
+          "width": 218.6,
+          "height": 3,
+          "operation": "join",
+          "targets": [
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Langue-D202.5",
+          "body_name": "Langue-D202.5",
+          "corner": [
+            202.5,
+            201.4,
+            16.2
+          ],
+          "length": 2.9,
+          "width": 218.6,
+          "height": 3,
+          "operation": "join",
+          "targets": [
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Support-ventilateur-D",
+          "body_name": "Support-ventilateur-D",
+          "corner": [
+            5.5,
+            212,
+            19.8
+          ],
+          "length": 197,
+          "width": 6,
+          "height": 135.2,
+          "operation": "join",
+          "targets": [
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Passage-air-D",
+          "body_name": "Passage-air-D",
+          "base": [
+            104,
+            211.9,
+            82
+          ],
+          "diameter": 116,
+          "height": 6.2,
+          "axis": "Y",
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-ventilo-D-51.5-29.5",
+          "body_name": "Vis-ventilo-D-51.5-29.5",
+          "base": [
+            51.5,
+            211.9,
+            29.5
+          ],
+          "diameter": 4.5,
+          "height": 6.2,
+          "axis": "Y",
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-ventilo-D-51.5-134.5",
+          "body_name": "Vis-ventilo-D-51.5-134.5",
+          "base": [
+            51.5,
+            211.9,
+            134.5
+          ],
+          "diameter": 4.5,
+          "height": 6.2,
+          "axis": "Y",
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-ventilo-D-156.5-29.5",
+          "body_name": "Vis-ventilo-D-156.5-29.5",
+          "base": [
+            156.5,
+            211.9,
+            29.5
+          ],
+          "diameter": 4.5,
+          "height": 6.2,
+          "axis": "Y",
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-ventilo-D-156.5-134.5",
+          "body_name": "Vis-ventilo-D-156.5-134.5",
+          "base": [
+            156.5,
+            211.9,
+            134.5
+          ],
+          "diameter": 4.5,
+          "height": 6.2,
+          "axis": "Y",
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Passage-cables-D",
+          "body_name": "Passage-cables-D",
+          "corner": [
+            181,
+            211.9,
+            29
+          ],
+          "length": 15,
+          "width": 6.2,
+          "height": 27,
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Paroi-arriere-D",
+          "body_name": "Paroi-arriere-D",
+          "corner": [
+            5.5,
+            419.8,
+            16
+          ],
+          "length": 197,
+          "width": 4.2,
+          "height": 139,
+          "operation": "join",
+          "targets": [
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Ouverture-PSU-D",
+          "body_name": "Ouverture-PSU-D",
+          "corner": [
+            28.5,
+            419.9,
+            25.5
+          ],
+          "length": 151,
+          "width": 4.2,
+          "height": 87,
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Extraction-air-D121",
+          "body_name": "Extraction-air-D121",
+          "corner": [
+            15,
+            419.9,
+            121
+          ],
+          "length": 178,
+          "width": 4.2,
+          "height": 6,
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Extraction-air-D132",
+          "body_name": "Extraction-air-D132",
+          "corner": [
+            15,
+            419.9,
+            132
+          ],
+          "length": 178,
+          "width": 4.2,
+          "height": 6,
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Extraction-air-D143",
+          "body_name": "Extraction-air-D143",
+          "corner": [
+            15,
+            419.9,
+            143
+          ],
+          "length": 178,
+          "width": 4.2,
+          "height": 6,
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Appui-PSU-D29",
+          "body_name": "Appui-PSU-D29",
+          "corner": [
+            29,
+            280,
+            19.8
+          ],
+          "length": 10,
+          "width": 140,
+          "height": 6.2,
+          "operation": "join",
+          "targets": [
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Appui-PSU-D169",
+          "body_name": "Appui-PSU-D169",
+          "corner": [
+            169,
+            280,
+            19.8
+          ],
+          "length": 10,
+          "width": 140,
+          "height": 6.2,
+          "operation": "join",
+          "targets": [
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Bord-PSU-D25",
+          "body_name": "Bord-PSU-D25",
+          "corner": [
+            25,
+            280,
+            19.8
+          ],
+          "length": 3.5,
+          "width": 140,
+          "height": 16.2,
+          "operation": "join",
+          "targets": [
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Bord-PSU-D179.5",
+          "body_name": "Bord-PSU-D179.5",
+          "corner": [
+            179.5,
+            280,
+            19.8
+          ],
+          "length": 3.5,
+          "width": 140,
+          "height": 16.2,
+          "operation": "join",
+          "targets": [
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Butee-PSU-D",
+          "body_name": "Butee-PSU-D",
+          "corner": [
+            29,
+            276,
+            19.8
+          ],
+          "length": 150,
+          "width": 3.5,
+          "height": 16.2,
+          "operation": "join",
+          "targets": [
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Sangle-D-20.5-300",
+          "body_name": "Sangle-D-20.5-300",
+          "corner": [
+            20.5,
+            300,
+            15.9
+          ],
+          "length": 5,
+          "width": 12,
+          "height": 4.2,
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Sangle-D-20.5-390",
+          "body_name": "Sangle-D-20.5-390",
+          "corner": [
+            20.5,
+            390,
+            15.9
+          ],
+          "length": 5,
+          "width": 12,
+          "height": 4.2,
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Sangle-D-182.5-300",
+          "body_name": "Sangle-D-182.5-300",
+          "corner": [
+            182.5,
+            300,
+            15.9
+          ],
+          "length": 5,
+          "width": 12,
+          "height": 4.2,
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Sangle-D-182.5-390",
+          "body_name": "Sangle-D-182.5-390",
+          "corner": [
+            182.5,
+            390,
+            15.9
+          ],
+          "length": 5,
+          "width": 12,
+          "height": 4.2,
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "ECLISSE-D-1",
+          "body_name": "ECLISSE-D-1",
+          "corner": [
+            8,
+            180,
+            12
+          ],
+          "length": 14,
+          "width": 100,
+          "height": 4,
+          "operation": "new"
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Logement-ECLISSE-D-1",
+          "body_name": "Logement-ECLISSE-D-1",
+          "corner": [
+            7.8,
+            179.8,
+            12
+          ],
+          "length": 14.4,
+          "width": 21.3,
+          "height": 4,
+          "operation": "cut",
+          "targets": [
+            "BT-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-ECLISSE-D-1-184",
+          "body_name": "Vis-ECLISSE-D-1-184",
+          "base": [
+            15,
+            184,
+            11.9
+          ],
+          "diameter": 3.4,
+          "height": 8.3,
+          "axis": "Z",
+          "operation": "cut",
+          "targets": [
+            "ECLISSE-D-1",
+            "BT-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-ECLISSE-D-1-195",
+          "body_name": "Vis-ECLISSE-D-1-195",
+          "base": [
+            15,
+            195,
+            11.9
+          ],
+          "diameter": 3.4,
+          "height": 8.3,
+          "axis": "Z",
+          "operation": "cut",
+          "targets": [
+            "ECLISSE-D-1",
+            "BT-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-ECLISSE-D-1-251",
+          "body_name": "Vis-ECLISSE-D-1-251",
+          "base": [
+            15,
+            251,
+            11.9
+          ],
+          "diameter": 3.4,
+          "height": 8.3,
+          "axis": "Z",
+          "operation": "cut",
+          "targets": [
+            "ECLISSE-D-1",
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-ECLISSE-D-1-269",
+          "body_name": "Vis-ECLISSE-D-1-269",
+          "base": [
+            15,
+            269,
+            11.9
+          ],
+          "diameter": 3.4,
+          "height": 8.3,
+          "axis": "Z",
+          "operation": "cut",
+          "targets": [
+            "ECLISSE-D-1",
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "ECLISSE-D-2",
+          "body_name": "ECLISSE-D-2",
+          "corner": [
+            186,
+            180,
+            12
+          ],
+          "length": 14,
+          "width": 100,
+          "height": 4,
+          "operation": "new"
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Logement-ECLISSE-D-2",
+          "body_name": "Logement-ECLISSE-D-2",
+          "corner": [
+            185.8,
+            179.8,
+            12
+          ],
+          "length": 14.4,
+          "width": 21.3,
+          "height": 4,
+          "operation": "cut",
+          "targets": [
+            "BT-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-ECLISSE-D-2-184",
+          "body_name": "Vis-ECLISSE-D-2-184",
+          "base": [
+            193,
+            184,
+            11.9
+          ],
+          "diameter": 3.4,
+          "height": 8.3,
+          "axis": "Z",
+          "operation": "cut",
+          "targets": [
+            "ECLISSE-D-2",
+            "BT-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-ECLISSE-D-2-195",
+          "body_name": "Vis-ECLISSE-D-2-195",
+          "base": [
+            193,
+            195,
+            11.9
+          ],
+          "diameter": 3.4,
+          "height": 8.3,
+          "axis": "Z",
+          "operation": "cut",
+          "targets": [
+            "ECLISSE-D-2",
+            "BT-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-ECLISSE-D-2-251",
+          "body_name": "Vis-ECLISSE-D-2-251",
+          "base": [
+            193,
+            251,
+            11.9
+          ],
+          "diameter": 3.4,
+          "height": 8.3,
+          "axis": "Z",
+          "operation": "cut",
+          "targets": [
+            "ECLISSE-D-2",
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-ECLISSE-D-2-269",
+          "body_name": "Vis-ECLISSE-D-2-269",
+          "base": [
+            193,
+            269,
+            11.9
+          ],
+          "diameter": 3.4,
+          "height": 8.3,
+          "axis": "Z",
+          "operation": "cut",
+          "targets": [
+            "ECLISSE-D-2",
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "component.create",
+        "params": {
+          "name": "CASSETTE-G",
+          "parent": "root"
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "FOND-AR-G",
+          "body_name": "FOND-AR-G",
+          "corner": [
+            -202.5,
+            201.4,
+            16
+          ],
+          "length": 197,
+          "width": 218.6,
+          "height": 4,
+          "operation": "new"
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Langue-G2.6",
+          "body_name": "Langue-G2.6",
+          "corner": [
+            -5.5,
+            201.4,
+            16.2
+          ],
+          "length": 2.9,
+          "width": 218.6,
+          "height": 3,
+          "operation": "join",
+          "targets": [
+            "FOND-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Langue-G202.5",
+          "body_name": "Langue-G202.5",
+          "corner": [
+            -205.4,
+            201.4,
+            16.2
+          ],
+          "length": 2.9,
+          "width": 218.6,
+          "height": 3,
+          "operation": "join",
+          "targets": [
+            "FOND-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Support-ventilateur-G",
+          "body_name": "Support-ventilateur-G",
+          "corner": [
+            -202.5,
+            212,
+            19.8
+          ],
+          "length": 197,
+          "width": 6,
+          "height": 135.2,
+          "operation": "join",
+          "targets": [
+            "FOND-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Passage-air-G",
+          "body_name": "Passage-air-G",
+          "base": [
+            -104,
+            211.9,
+            82
+          ],
+          "diameter": 116,
+          "height": 6.2,
+          "axis": "Y",
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-ventilo-G-51.5-29.5",
+          "body_name": "Vis-ventilo-G-51.5-29.5",
+          "base": [
+            -51.5,
+            211.9,
+            29.5
+          ],
+          "diameter": 4.5,
+          "height": 6.2,
+          "axis": "Y",
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-ventilo-G-51.5-134.5",
+          "body_name": "Vis-ventilo-G-51.5-134.5",
+          "base": [
+            -51.5,
+            211.9,
+            134.5
+          ],
+          "diameter": 4.5,
+          "height": 6.2,
+          "axis": "Y",
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-ventilo-G-156.5-29.5",
+          "body_name": "Vis-ventilo-G-156.5-29.5",
+          "base": [
+            -156.5,
+            211.9,
+            29.5
+          ],
+          "diameter": 4.5,
+          "height": 6.2,
+          "axis": "Y",
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-ventilo-G-156.5-134.5",
+          "body_name": "Vis-ventilo-G-156.5-134.5",
+          "base": [
+            -156.5,
+            211.9,
+            134.5
+          ],
+          "diameter": 4.5,
+          "height": 6.2,
+          "axis": "Y",
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Passage-cables-G",
+          "body_name": "Passage-cables-G",
+          "corner": [
+            -196,
+            211.9,
+            29
+          ],
+          "length": 15,
+          "width": 6.2,
+          "height": 27,
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Paroi-arriere-G",
+          "body_name": "Paroi-arriere-G",
+          "corner": [
+            -202.5,
+            419.8,
+            16
+          ],
+          "length": 197,
+          "width": 4.2,
+          "height": 139,
+          "operation": "join",
+          "targets": [
+            "FOND-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Ouverture-PSU-G",
+          "body_name": "Ouverture-PSU-G",
+          "corner": [
+            -179.5,
+            419.9,
+            25.5
+          ],
+          "length": 151,
+          "width": 4.2,
+          "height": 87,
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Extraction-air-G121",
+          "body_name": "Extraction-air-G121",
+          "corner": [
+            -193,
+            419.9,
+            121
+          ],
+          "length": 178,
+          "width": 4.2,
+          "height": 6,
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Extraction-air-G132",
+          "body_name": "Extraction-air-G132",
+          "corner": [
+            -193,
+            419.9,
+            132
+          ],
+          "length": 178,
+          "width": 4.2,
+          "height": 6,
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Extraction-air-G143",
+          "body_name": "Extraction-air-G143",
+          "corner": [
+            -193,
+            419.9,
+            143
+          ],
+          "length": 178,
+          "width": 4.2,
+          "height": 6,
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Appui-PSU-G29",
+          "body_name": "Appui-PSU-G29",
+          "corner": [
+            -39,
+            280,
+            19.8
+          ],
+          "length": 10,
+          "width": 140,
+          "height": 6.2,
+          "operation": "join",
+          "targets": [
+            "FOND-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Appui-PSU-G169",
+          "body_name": "Appui-PSU-G169",
+          "corner": [
+            -179,
+            280,
+            19.8
+          ],
+          "length": 10,
+          "width": 140,
+          "height": 6.2,
+          "operation": "join",
+          "targets": [
+            "FOND-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Bord-PSU-G25",
+          "body_name": "Bord-PSU-G25",
+          "corner": [
+            -28.5,
+            280,
+            19.8
+          ],
+          "length": 3.5,
+          "width": 140,
+          "height": 16.2,
+          "operation": "join",
+          "targets": [
+            "FOND-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Bord-PSU-G179.5",
+          "body_name": "Bord-PSU-G179.5",
+          "corner": [
+            -183.0,
+            280,
+            19.8
+          ],
+          "length": 3.5,
+          "width": 140,
+          "height": 16.2,
+          "operation": "join",
+          "targets": [
+            "FOND-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Butee-PSU-G",
+          "body_name": "Butee-PSU-G",
+          "corner": [
+            -179,
+            276,
+            19.8
+          ],
+          "length": 150,
+          "width": 3.5,
+          "height": 16.2,
+          "operation": "join",
+          "targets": [
+            "FOND-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Sangle-G-20.5-300",
+          "body_name": "Sangle-G-20.5-300",
+          "corner": [
+            -25.5,
+            300,
+            15.9
+          ],
+          "length": 5,
+          "width": 12,
+          "height": 4.2,
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Sangle-G-20.5-390",
+          "body_name": "Sangle-G-20.5-390",
+          "corner": [
+            -25.5,
+            390,
+            15.9
+          ],
+          "length": 5,
+          "width": 12,
+          "height": 4.2,
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Sangle-G-182.5-300",
+          "body_name": "Sangle-G-182.5-300",
+          "corner": [
+            -187.5,
+            300,
+            15.9
+          ],
+          "length": 5,
+          "width": 12,
+          "height": 4.2,
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Sangle-G-182.5-390",
+          "body_name": "Sangle-G-182.5-390",
+          "corner": [
+            -187.5,
+            390,
+            15.9
+          ],
+          "length": 5,
+          "width": 12,
+          "height": 4.2,
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "ECLISSE-G-1",
+          "body_name": "ECLISSE-G-1",
+          "corner": [
+            -22,
+            180,
+            12
+          ],
+          "length": 14,
+          "width": 100,
+          "height": 4,
+          "operation": "new"
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Logement-ECLISSE-G-1",
+          "body_name": "Logement-ECLISSE-G-1",
+          "corner": [
+            -22.2,
+            179.8,
+            12
+          ],
+          "length": 14.4,
+          "width": 21.3,
+          "height": 4,
+          "operation": "cut",
+          "targets": [
+            "BT-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-ECLISSE-G-1-184",
+          "body_name": "Vis-ECLISSE-G-1-184",
+          "base": [
+            -15,
+            184,
+            11.9
+          ],
+          "diameter": 3.4,
+          "height": 8.3,
+          "axis": "Z",
+          "operation": "cut",
+          "targets": [
+            "ECLISSE-G-1",
+            "BT-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-ECLISSE-G-1-195",
+          "body_name": "Vis-ECLISSE-G-1-195",
+          "base": [
+            -15,
+            195,
+            11.9
+          ],
+          "diameter": 3.4,
+          "height": 8.3,
+          "axis": "Z",
+          "operation": "cut",
+          "targets": [
+            "ECLISSE-G-1",
+            "BT-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-ECLISSE-G-1-251",
+          "body_name": "Vis-ECLISSE-G-1-251",
+          "base": [
+            -15,
+            251,
+            11.9
+          ],
+          "diameter": 3.4,
+          "height": 8.3,
+          "axis": "Z",
+          "operation": "cut",
+          "targets": [
+            "ECLISSE-G-1",
+            "FOND-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-ECLISSE-G-1-269",
+          "body_name": "Vis-ECLISSE-G-1-269",
+          "base": [
+            -15,
+            269,
+            11.9
+          ],
+          "diameter": 3.4,
+          "height": 8.3,
+          "axis": "Z",
+          "operation": "cut",
+          "targets": [
+            "ECLISSE-G-1",
+            "FOND-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "ECLISSE-G-2",
+          "body_name": "ECLISSE-G-2",
+          "corner": [
+            -200,
+            180,
+            12
+          ],
+          "length": 14,
+          "width": 100,
+          "height": 4,
+          "operation": "new"
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Logement-ECLISSE-G-2",
+          "body_name": "Logement-ECLISSE-G-2",
+          "corner": [
+            -200.20000000000002,
+            179.8,
+            12
+          ],
+          "length": 14.4,
+          "width": 21.3,
+          "height": 4,
+          "operation": "cut",
+          "targets": [
+            "BT-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-ECLISSE-G-2-184",
+          "body_name": "Vis-ECLISSE-G-2-184",
+          "base": [
+            -193,
+            184,
+            11.9
+          ],
+          "diameter": 3.4,
+          "height": 8.3,
+          "axis": "Z",
+          "operation": "cut",
+          "targets": [
+            "ECLISSE-G-2",
+            "BT-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-ECLISSE-G-2-195",
+          "body_name": "Vis-ECLISSE-G-2-195",
+          "base": [
+            -193,
+            195,
+            11.9
+          ],
+          "diameter": 3.4,
+          "height": 8.3,
+          "axis": "Z",
+          "operation": "cut",
+          "targets": [
+            "ECLISSE-G-2",
+            "BT-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-ECLISSE-G-2-251",
+          "body_name": "Vis-ECLISSE-G-2-251",
+          "base": [
+            -193,
+            251,
+            11.9
+          ],
+          "diameter": 3.4,
+          "height": 8.3,
+          "axis": "Z",
+          "operation": "cut",
+          "targets": [
+            "ECLISSE-G-2",
+            "FOND-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-ECLISSE-G-2-269",
+          "body_name": "Vis-ECLISSE-G-2-269",
+          "base": [
+            -193,
+            269,
+            11.9
+          ],
+          "diameter": 3.4,
+          "height": 8.3,
+          "axis": "Z",
+          "operation": "cut",
+          "targets": [
+            "ECLISSE-G-2",
+            "FOND-AR-G"
+          ]
+        }
+      }
+    ],
+    "rollback": true,
+    "verbose": false,
+    "timings": true
+  }
+}

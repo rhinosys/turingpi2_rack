@@ -1,0 +1,12 @@
+{
+  "id": 34,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"bytes\": 5563840,\n  \"format\": \"Step\",\n  \"path\": \"./CAD/RackBladeSolidCraft/V5/exports/Vue_extraction_V5.step\"\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

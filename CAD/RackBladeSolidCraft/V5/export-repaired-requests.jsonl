@@ -1,0 +1,8 @@
+{"_label": "repaired-place-Q-AR-D", "name": "execute", "arguments": {"command": "solid.move", "params": {"bodies": ["Q-AR-D"], "translate": [-0.14999999999997726, -210.19999999999996, 1.4432898484542295e-15]}, "verbose": false}}
+{"_label": "repaired-3mf-Q-AR-D", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V5/exports/Q-AR-D.3mf", "bodies": ["Q-AR-D"], "format": "3mf"}}
+{"_label": "repaired-step-Q-AR-D", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V5/exports/Q-AR-D_print.step", "bodies": ["Q-AR-D"], "format": "step"}}
+{"_label": "repaired-return-Q-AR-D", "name": "execute", "arguments": {"command": "solid.move", "params": {"bodies": ["Q-AR-D"], "translate": [0.14999999999997726, 210.19999999999996, -1.4432898484542295e-15]}, "verbose": false}}
+{"_label": "repaired-place-Q-AR-G", "name": "execute", "arguments": {"command": "solid.move", "params": {"bodies": ["Q-AR-G"], "translate": [223.00057477822065, -210.19999999999996, 9.454206985759841e-16]}, "verbose": false}}
+{"_label": "repaired-3mf-Q-AR-G", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V5/exports/Q-AR-G.3mf", "bodies": ["Q-AR-G"], "format": "3mf"}}
+{"_label": "repaired-step-Q-AR-G", "name": "export", "arguments": {"path": "./CAD/RackBladeSolidCraft/V5/exports/Q-AR-G_print.step", "bodies": ["Q-AR-G"], "format": "step"}}
+{"_label": "repaired-return-Q-AR-G", "name": "execute", "arguments": {"command": "solid.move", "params": {"bodies": ["Q-AR-G"], "translate": [-223.00057477822065, 210.19999999999996, -9.454206985759841e-16]}, "verbose": false}}

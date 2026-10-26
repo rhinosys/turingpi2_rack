@@ -1,0 +1,153 @@
+{
+  "name": "batch",
+  "arguments": {
+    "commands": [
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Ouverture-traversante-PSU-D",
+          "corner": [
+            28.5,
+            419.6,
+            25.5
+          ],
+          "length": 151,
+          "width": 4.6,
+          "height": 87,
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Ventilation-traversante-D121",
+          "corner": [
+            15,
+            419.6,
+            121
+          ],
+          "length": 178,
+          "width": 4.6,
+          "height": 6,
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Ventilation-traversante-D132",
+          "corner": [
+            15,
+            419.6,
+            132
+          ],
+          "length": 178,
+          "width": 4.6,
+          "height": 6,
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Ventilation-traversante-D143",
+          "corner": [
+            15,
+            419.6,
+            143
+          ],
+          "length": 178,
+          "width": 4.6,
+          "height": 6,
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Ouverture-traversante-PSU-G",
+          "corner": [
+            -179.5,
+            419.6,
+            25.5
+          ],
+          "length": 151,
+          "width": 4.6,
+          "height": 87,
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Ventilation-traversante-G121",
+          "corner": [
+            -193,
+            419.6,
+            121
+          ],
+          "length": 178,
+          "width": 4.6,
+          "height": 6,
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Ventilation-traversante-G132",
+          "corner": [
+            -193,
+            419.6,
+            132
+          ],
+          "length": 178,
+          "width": 4.6,
+          "height": 6,
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Ventilation-traversante-G143",
+          "corner": [
+            -193,
+            419.6,
+            143
+          ],
+          "length": 178,
+          "width": 4.6,
+          "height": 6,
+          "operation": "cut",
+          "targets": [
+            "FOND-AR-G"
+          ]
+        }
+      }
+    ],
+    "verbose": false,
+    "rollback": true
+  }
+}

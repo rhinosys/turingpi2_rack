@@ -1,0 +1,459 @@
+{
+  "name": "batch",
+  "arguments": {
+    "commands": [
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "ECLISSE-G-2"
+          ],
+          "translate": [
+            -200.0,
+            180.0,
+            11.999999999999991
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "ECLISSE-G-1"
+          ],
+          "translate": [
+            -22.0,
+            180.0,
+            11.999999999999863
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "FOND-AR-G"
+          ],
+          "translate": [
+            -205.40000000000003,
+            201.39999999999998,
+            15.999999999999993
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "HANDLE-G"
+          ],
+          "translate": [
+            -149.0,
+            -29.000000000000057,
+            100.0
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "BF-G"
+          ],
+          "translate": [
+            -208.0,
+            -171.0,
+            -4.000000000000221
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "BT-G"
+          ],
+          "translate": [
+            -205.4,
+            -9.592326932761383e-14,
+            14.4
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "ECLISSE-D-2"
+          ],
+          "translate": [
+            186.0,
+            180.0,
+            11.99999999999999
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "ECLISSE-D-1"
+          ],
+          "translate": [
+            8.0,
+            180.0,
+            11.999999999999988
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "FOND-AR-D"
+          ],
+          "translate": [
+            2.6,
+            201.39999999999995,
+            15.999999999999988
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "HANDLE-D"
+          ],
+          "translate": [
+            59.0,
+            -29.000000000000046,
+            100.0
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "BF-D"
+          ],
+          "translate": [
+            0.9999999999999432,
+            -171.0,
+            -4.000000000000036
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "BT-D"
+          ],
+          "translate": [
+            2.6,
+            -9.592326932761383e-14,
+            14.4
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "BIS-X"
+          ],
+          "translate": [
+            300.0,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "BIS"
+          ],
+          "translate": [
+            270.0,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "TOP-AR-G"
+          ],
+          "translate": [
+            -223.0,
+            -424.0,
+            -176.50000000000006
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "TOP-AV-G"
+          ],
+          "translate": [
+            -223.0,
+            -210.00000000000003,
+            -176.50000000000009
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "TOP-AR-D"
+          ],
+          "translate": [
+            -1.387722300520469e-11,
+            -424.0,
+            -176.50000000000006
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "TOP-AV-D"
+          ],
+          "translate": [
+            -8.5353970752055e-08,
+            -210.00000000000003,
+            -176.50000000000009
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "EAR-D"
+          ],
+          "translate": [
+            211.3,
+            -176.5,
+            -5.000000000000016
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "CL-AR"
+          ],
+          "translate": [
+            4.199999999999996,
+            209.99999999999997,
+            -20.000000000000323
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "CL-AV"
+          ],
+          "translate": [
+            3.9999999998572644,
+            1.1368683772161603e-13,
+            -20.00000000001416
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "Q-AR-G"
+          ],
+          "translate": [
+            -223.00057477822065,
+            210.19999999999996,
+            -2.2204460719700223e-15
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "Q-AV-G-EAR"
+          ],
+          "translate": [
+            -241.3,
+            -5.000387131066567,
+            -8.43769498715119e-15
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "Q-AR-D"
+          ],
+          "translate": [
+            0.14999999999997726,
+            210.19999999999993,
+            -1.4432898484542295e-15
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "Q-AV-D"
+          ],
+          "translate": [
+            -1.4785247799140394e-14,
+            -0.00027959156437907997,
+            0.0
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "BF-G"
+          ],
+          "axis": [
+            1,
+            0,
+            0
+          ],
+          "angle": -90
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "BF-D"
+          ],
+          "axis": [
+            1,
+            0,
+            0
+          ],
+          "angle": -90
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "TOP-AR-G"
+          ],
+          "axis": [
+            1,
+            0,
+            0
+          ],
+          "angle": -180
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "TOP-AV-G"
+          ],
+          "axis": [
+            1,
+            0,
+            0
+          ],
+          "angle": -180
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "TOP-AR-D"
+          ],
+          "axis": [
+            1,
+            0,
+            0
+          ],
+          "angle": -180
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "TOP-AV-D"
+          ],
+          "axis": [
+            1,
+            0,
+            0
+          ],
+          "angle": -180
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "EAR-D"
+          ],
+          "axis": [
+            1,
+            0,
+            0
+          ],
+          "angle": -90
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "CL-AR"
+          ],
+          "axis": [
+            0,
+            1,
+            0
+          ],
+          "angle": -90
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "CL-AV"
+          ],
+          "axis": [
+            0,
+            1,
+            0
+          ],
+          "angle": -90
+        }
+      }
+    ],
+    "verbose": false
+  }
+}

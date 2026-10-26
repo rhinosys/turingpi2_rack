@@ -1,0 +1,48 @@
+{
+  "name": "batch",
+  "arguments": {
+    "commands": [
+      {
+        "command": "component.move_bodies",
+        "params": {
+          "bodies": [
+            "BT-D",
+            "BF-D",
+            "HANDLE-D",
+            "REF_TP2_R",
+            "REF_MODULES_R",
+            "REF_NVME_R",
+            "REF_PSU_R",
+            "REF_FAN_R"
+          ],
+          "component": "CASSETTE-D"
+        }
+      },
+      {
+        "command": "component.move_bodies",
+        "params": {
+          "bodies": [
+            "BT-G",
+            "BF-G",
+            "HANDLE-G",
+            "REF_TP2_L",
+            "REF_MODULES_L",
+            "REF_NVME_L",
+            "REF_PSU_L",
+            "REF_FAN_L"
+          ],
+          "component": "CASSETTE-G"
+        }
+      },
+      {
+        "command": "component.activate",
+        "params": {
+          "component": "root"
+        }
+      }
+    ],
+    "rollback": true,
+    "verbose": false,
+    "timings": true
+  }
+}

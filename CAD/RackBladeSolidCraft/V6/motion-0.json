@@ -1,0 +1,15 @@
+{
+  "name": "batch",
+  "arguments": {
+    "commands": [
+      {
+        "command": "inspect.interference",
+        "params": {
+          "budget_s": 45
+        }
+      }
+    ],
+    "verbose": false,
+    "rollback": true
+  }
+}

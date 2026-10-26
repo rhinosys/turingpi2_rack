@@ -1,0 +1,99 @@
+{
+  "commands": [
+    {
+      "command": "component.activate",
+      "params": {
+        "component": "root"
+      }
+    },
+    {
+      "command": "solid.combine",
+      "params": {
+        "target": "Q-AV-G",
+        "tools": [
+          "EAR-G"
+        ],
+        "operation": "join"
+      }
+    },
+    {
+      "command": "solid.cylinder",
+      "params": {
+        "name": "Fermeture fixation oreille 30",
+        "base": [
+          -217,
+          -5,
+          30
+        ],
+        "diameter": 8.6,
+        "height": 11,
+        "axis": "Y",
+        "operation": "join",
+        "targets": [
+          "Q-AV-G"
+        ]
+      }
+    },
+    {
+      "command": "solid.cylinder",
+      "params": {
+        "name": "Fermeture fixation oreille 88",
+        "base": [
+          -217,
+          -5,
+          88
+        ],
+        "diameter": 8.6,
+        "height": 11,
+        "axis": "Y",
+        "operation": "join",
+        "targets": [
+          "Q-AV-G"
+        ]
+      }
+    },
+    {
+      "command": "solid.cylinder",
+      "params": {
+        "name": "Fermeture fixation oreille 146",
+        "base": [
+          -217,
+          -5,
+          146
+        ],
+        "diameter": 8.6,
+        "height": 11,
+        "axis": "Y",
+        "operation": "join",
+        "targets": [
+          "Q-AV-G"
+        ]
+      }
+    },
+    {
+      "command": "solid.box",
+      "params": {
+        "name": "Appui avant impression",
+        "corner": [
+          -223,
+          -5,
+          0
+        ],
+        "length": 223,
+        "width": 5,
+        "height": 4,
+        "operation": "join",
+        "targets": [
+          "Q-AV-G"
+        ]
+      }
+    },
+    {
+      "command": "body.rename",
+      "params": {
+        "body": "Q-AV-G",
+        "name": "Q-AV-G-EAR"
+      }
+    }
+  ]
+}

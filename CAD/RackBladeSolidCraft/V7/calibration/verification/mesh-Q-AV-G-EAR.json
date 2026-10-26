@@ -1,0 +1,14 @@
+{
+  "name": "Q-AV-G-EAR",
+  "rear_end_numerical_trim_mm": 0.0,
+  "method": "Gmsh/OCC triangulation of SolidCraft STEP",
+  "watertight": true,
+  "winding_consistent": true,
+  "solidcraft_volume_mm3": 671577.8161644571,
+  "occ_import_volume_mm3": 671582.8730505897,
+  "mesh_volume_mm3": 671582.433720951,
+  "relative_volume_delta": 6.875683476589127e-06,
+  "bbox_max_delta_mm": 5.776306409188692e-06,
+  "vertices": 55537,
+  "triangles": 111122
+}

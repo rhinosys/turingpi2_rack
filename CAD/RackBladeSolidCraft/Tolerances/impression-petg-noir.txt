@@ -1,0 +1,12 @@
+Preparation du 2026-10-25 dans Bambu Studio
+Projet : Rack_Tolerance_PETG_Noir_X1C.3mf
+Imprimante : Bambu Lab X1 Carbon 3DP-00M-918, buse 0.4 mm standard
+Filament utilise : Bambu PETG HF noir, AMS A3 (filament projet 2)
+Les 11 objets utilisent exclusivement le filament 2 ; PLA Silk present dans la liste mais inutilise.
+Plaque : Smooth PEI / High Temp, confirmee lisse et disponible par utilisateur.
+Profil : 0.16mm Optimal @BBL X1C ; premiere couche 0.2 mm
+Parois : 2 ; remplissage : 15% ; supports desactives ; impression par couche
+Compensation XY trous/contours : 0 / 0 mm ; pied elephant : 0.15 mm
+Tranchage reussi : 87 couches, 140.13 g, 3h58 estimees, aucun changement de filament
+Envoi : nivellement automatique et calibration dynamique du debit actives ; timelapse desactive
+Sechage et lot : non renseignes

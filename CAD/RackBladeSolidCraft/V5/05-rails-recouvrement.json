@@ -1,0 +1,39 @@
+{
+  "name": "batch",
+  "arguments": {
+    "commands": [
+      {
+        "command": "timeline.edit",
+        "params": {
+          "feature": "RAIL-Q-AR-D",
+          "set": {
+            "corner": [
+              203,
+              210.2,
+              3.8
+            ],
+            "length": "16.2",
+            "height": "18.2"
+          }
+        }
+      },
+      {
+        "command": "timeline.edit",
+        "params": {
+          "feature": "RAIL-Q-AR-G",
+          "set": {
+            "corner": [
+              -219.2,
+              210.2,
+              3.8
+            ],
+            "length": "16.2",
+            "height": "18.2"
+          }
+        }
+      }
+    ],
+    "rollback": true,
+    "verbose": false
+  }
+}

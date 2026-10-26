@@ -1,0 +1,12 @@
+{
+  "id": 74,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"boolean_ms\": 15860.093,\n  \"budget_exceeded\": false,\n  \"budget_s\": 45.0,\n  \"checked\": 53,\n  \"count\": 0,\n  \"interferences\": [],\n  \"ms\": 5377.955,\n  \"pairs_candidate\": 190,\n  \"pairs_cleared\": 55,\n  \"pairs_intersected\": 135,\n  \"pairs_not_checked\": 0,\n  \"skipped_pairs\": 0,\n  \"slowest\": [\n    {\n      \"a\": \"Q-AV-D\",\n      \"b\": \"BF-D\",\n      \"boolean_ms\": 3883.494,\n      \"ms\": 4325.728,\n      \"tessellate_ms\": 156.248\n    },\n    {\n      \"a\": \"Q-AV-D\",\n      \"b\": \"EAR-D\",\n      \"boolean_ms\": 1695.025,\n      \"ms\": 1988.227,\n      \"tessellate_ms\": 59.539\n    },\n    {\n      \"a\": \"Q-AV-D\",\n      \"b\": \"Q-AV-G-EAR\",\n      \"boolean_ms\": 236.18,\n      \"ms\": 660.302,\n      \"tessellate_ms\": 194.088\n    },\n    {\n      \"a\": \"Q-AV-G-EAR\",\n      \"b\": \"BF-G\",\n      \"boolean_ms\": 109.93,\n      \"ms\": 613.791,\n      \"tessellate_ms\": 168.288\n    },\n    {\n      \"a\": \"Q-AV-G-EAR\",\n      \"b\": \"TOP-AV-G\",\n      \"boolean_ms\": 159.798,\n      \"ms\": 552.449,\n      \"tessellate_ms\": 230.424\n    },\n    {\n      \"a\": \"Q-AV-D\",\n      \"b\": \"Q-AR-G\",\n      \"boolean_ms\": 138.251,\n      \"ms\": 551.419,\n      \"tessellate_ms\": 241.088\n    },\n    {\n      \"a\": \"BT-D\",\n      \"b\": \"BF-D\",\n      \"boolean_ms\": 144.562,\n      \"ms\": 540.287,\n      \"tessellate_ms\": 131.202\n    },\n    {\n      \"a\": \"Q-AV-G-EAR\",\n      \"b\": \"CL-AV\",\n      \"boolean_ms\": 89.669,\n      \"ms\": 512.837,\n      \"tessellate_ms\": 193.519\n    }\n  ],\n  \"tessellate_ms\": 4170.879,\n  \"threads\": 8,\n  \"truncated\": false,\n  \"unchecked\": []\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

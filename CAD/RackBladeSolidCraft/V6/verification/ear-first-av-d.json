@@ -1,0 +1,13 @@
+{
+  "id": 20,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"applied\": [],\n  \"completed\": 2,\n  \"failed\": {\n    \"command\": \"solid.cylinder\",\n    \"error\": \"boolean Union: the operation failed: no result\",\n    \"index\": 2\n  },\n  \"not_run\": [\n    3,\n    4,\n    5,\n    6,\n    7,\n    8,\n    9,\n    10,\n    11,\n    12,\n    13,\n    14,\n    15,\n    16,\n    17,\n    18,\n    19,\n    20,\n    21,\n    22,\n    23,\n    24,\n    25,\n    26,\n    27,\n    28,\n    29,\n    30,\n    31,\n    32,\n    33,\n    34,\n    35,\n    36,\n    37\n  ],\n  \"ok\": false,\n  \"results\": [\n    {\n      \"changed_bodies\": [\n        \"Q-AV-D\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 862,\n      \"ms\": 1312.789208,\n      \"name\": \"Rive-plane-Q-AV-D\",\n      \"removed_bodies\": [],\n      \"warning\": \"Boolean retry: tool displacement 1.067803e-3 mm, rotation 2.000000e-6 rad\"\n    },\n    {\n      \"changed_bodies\": [\n        \"Q-AV-D\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 863,\n      \"ms\": 1043.5957090000002,\n      \"name\": \"Oreille-integree-D\",\n      \"removed_bodies\": [],\n      \"warning\": \"Boolean retry: tool displacement 7.208632e-4 mm, rotation 2.000000e-6 rad\"\n    }\n  ],\n  \"rolled_back\": true,\n  \"undone\": 2\n}",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

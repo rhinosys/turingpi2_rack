@@ -1,0 +1,49 @@
+{
+  "name": "batch",
+  "arguments": {
+    "commands": [
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "BT-D",
+            "BF-D",
+            "HANDLE-D",
+            "FOND-AR-D",
+            "REF_TP2_R",
+            "REF_MODULES_R",
+            "REF_NVME_R",
+            "REF_PSU_R",
+            "REF_FAN_R",
+            "REF_FILAMENT-D-1",
+            "REF_FILAMENT-D-2",
+            "BT-G",
+            "BF-G",
+            "HANDLE-G",
+            "FOND-AR-G",
+            "REF_TP2_L",
+            "REF_MODULES_L",
+            "REF_NVME_L",
+            "REF_PSU_L",
+            "REF_FAN_L",
+            "REF_FILAMENT-G-1",
+            "REF_FILAMENT-G-2"
+          ],
+          "translate": [
+            0,
+            -50,
+            0
+          ]
+        }
+      },
+      {
+        "command": "inspect.interference",
+        "params": {
+          "budget_s": 45
+        }
+      }
+    ],
+    "rollback": true,
+    "verbose": false
+  }
+}

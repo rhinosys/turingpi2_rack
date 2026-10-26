@@ -1,0 +1,12 @@
+{
+  "id": 4,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"completed\": 2,\n  \"ok\": true,\n  \"results\": [\n    {\n      \"active\": 0\n    },\n    {\n      \"changed_bodies\": [],\n      \"created_bodies\": [],\n      \"feature\": 794,\n      \"ms\": 2.414875,\n      \"name\": \"Remove2\",\n      \"removed_bodies\": [\n        \"CL-AV\",\n        \"CL-AR\",\n        \"EAR-D\"\n      ],\n      \"warning\": null\n    }\n  ]\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

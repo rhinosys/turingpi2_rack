@@ -1,0 +1,12 @@
+{
+  "id": 8,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"completed\": 2,\n  \"ok\": true,\n  \"results\": [\n    {\n      \"changed_bodies\": [\n        \"BT-D\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 987,\n      \"ms\": 721.658625,\n      \"name\": \"Retrait-obturation-isolee-D\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [\n        \"BT-G\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 988,\n      \"ms\": 775.0392499999999,\n      \"name\": \"Retrait-obturation-isolee-G\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    }\n  ]\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

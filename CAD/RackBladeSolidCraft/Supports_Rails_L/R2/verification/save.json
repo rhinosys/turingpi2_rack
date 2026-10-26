@@ -1,0 +1,12 @@
+{
+  "id": 6,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"bytes\": 574919,\n  \"name\": \"Supports_Rails_L_PETG_R2\",\n  \"path\": \"./CAD/RackBladeSolidCraft/Supports_Rails_L/R2/Supports_Rails_L_PETG_R2.solidcraft\"\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 22,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"completed\": 3,\n  \"ok\": true,\n  \"results\": [\n    {\n      \"bodies\": [\n        \"BT-D\",\n        \"BF-D\",\n        \"HANDLE-D\",\n        \"REF_TP2_R\",\n        \"REF_MODULES_R\",\n        \"REF_NVME_R\",\n        \"REF_PSU_R\",\n        \"REF_FAN_R\"\n      ],\n      \"component\": 589,\n      \"features\": [\n        686,\n        687,\n        688,\n        689,\n        690,\n        691,\n        692,\n        693\n      ]\n    },\n    {\n      \"bodies\": [\n        \"BT-G\",\n        \"BF-G\",\n        \"HANDLE-G\",\n        \"REF_TP2_L\",\n        \"REF_MODULES_L\",\n        \"REF_NVME_L\",\n        \"REF_PSU_L\",\n        \"REF_FAN_L\"\n      ],\n      \"component\": 627,\n      \"features\": [\n        694,\n        695,\n        696,\n        697,\n        698,\n        699,\n        700,\n        701\n      ]\n    },\n    {\n      \"active\": 0\n    }\n  ],\n  \"timings\": [\n    {\n      \"command\": \"component.move_bodies\",\n      \"index\": 0,\n      \"ms\": 9.874\n    },\n    {\n      \"command\": \"component.move_bodies\",\n      \"index\": 1,\n      \"ms\": 6.837\n    },\n    {\n      \"command\": \"component.activate\",\n      \"index\": 2,\n      \"ms\": 0.007\n    }\n  ],\n  \"total_ms\": 16.734\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

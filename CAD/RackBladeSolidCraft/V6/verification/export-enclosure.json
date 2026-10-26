@@ -1,0 +1,12 @@
+{
+  "id": 38,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"bytes\": 5213754,\n  \"format\": \"Step\",\n  \"path\": \"./CAD/RackBladeSolidCraft/V6/exports/Enclosure_V6.step\"\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

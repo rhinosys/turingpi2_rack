@@ -1,0 +1,50 @@
+{
+  "placement": [
+    {
+      "name": "AV-A",
+      "x": 45,
+      "y": 45
+    },
+    {
+      "name": "AV-B",
+      "x": 145,
+      "y": 45
+    },
+    {
+      "name": "AR-A",
+      "x": 45,
+      "y": 145
+    },
+    {
+      "name": "AR-B",
+      "x": 145,
+      "y": 145
+    }
+  ],
+  "slice": {
+    "index": "1",
+    "extruder_type": "0",
+    "nozzle_volume_type": "0",
+    "printer_model_id": "",
+    "nozzle_diameters": "0.4",
+    "timelapse_type": "0",
+    "prediction": "14556",
+    "weight": "148.76",
+    "pause_count": "0",
+    "first_layer_time": "-0.000000",
+    "outside": "false",
+    "support_used": "false",
+    "label_object_enabled": "true",
+    "support_material_on_wipe_tower": "false",
+    "enable_filament_dynamic_map": "false",
+    "has_filament_switcher": "false",
+    "filament_maps": "1",
+    "limit_filament_maps": "0"
+  },
+  "first_layer_bbox_with_brim": [
+    40.32929,
+    40.32929,
+    205.6707,
+    205.6707
+  ]
+}

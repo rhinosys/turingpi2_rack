@@ -1,0 +1,25 @@
+{
+  "name": "batch",
+  "arguments": {
+    "commands": [
+      {
+        "command": "component.activate",
+        "params": {
+          "component": "root"
+        }
+      },
+      {
+        "command": "solid.remove",
+        "params": {
+          "bodies": [
+            "CL-AV",
+            "CL-AR",
+            "EAR-D"
+          ]
+        }
+      }
+    ],
+    "rollback": true,
+    "verbose": false
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "export",
+  "arguments": {
+    "path": "./CAD/RackBladeSolidCraft/V6/exports/Enclosure_V6.step",
+    "bodies": [
+      "Q-AV-D",
+      "Q-AR-D",
+      "Q-AV-G-EAR",
+      "Q-AR-G"
+    ],
+    "format": "step"
+  }
+}

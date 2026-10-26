@@ -1,0 +1,12 @@
+{
+  "id": 13,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"completed\": 2,\n  \"ok\": true,\n  \"results\": [\n    {\n      \"changed_bodies\": [\n        \"BERCEAU-A\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 37,\n      \"ms\": 0.336291,\n      \"name\": \"Move3\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [\n        \"BERCEAU-B\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 38,\n      \"ms\": 0.30475,\n      \"name\": \"Move4\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    }\n  ]\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+famille;orientation;variantes_mm;reference_rack_mm;valeur_retenue_mm;observation
+Ecrou M3;a plat;5.6 5.7 5.8 5.9 6.0;5.8;;
+Ecrou M3;vertical;5.6 5.7 5.8 5.9 6.0;5.8;;
+Ecrou M4;a plat;7.1 7.2 7.3 7.4 7.5;7.3;;
+Ecrou M4;vertical;7.1 7.2 7.3 7.4 7.5;7.3;;
+Passage M3;vertical Z;3.2 3.3 3.4 3.5 3.6;3.4;3.2;Utilisateur 2026-10-25 : sans poncage ni ebavurage
+Passage M4;vertical Z;4.3 4.4 4.5 4.6 4.7;4.5;4.3;Utilisateur 2026-10-25 : sans poncage ni ebavurage
+Biscuit jeu TOTAL XY;a plat;0.1 0.2 0.3 0.4 0.5;0.2;0.2;Utilisateur 2026-10-25 : sans poncage ni ebavurage
+Biscuit profondeur;a plat;3.0 3.2 3.4;3.2;;
+Biscuit central;a plat;22x22x3.2;22x22x3.2;jeu TOTAL XY 0.2;Utilisateur 2026-10-25 : sans poncage ni ebavurage
+Hauteur rainure;laterale;3.1 3.2 3.3 3.4 3.5;3.4;;
+Fond alveole;a plat;1;1;;
+Ecrou M3;non precisee par utilisateur;;5.8;5.7;"2026-10-25 : sans poncage ni ebavurage; ne valide pas separement les deux orientations"
+Ecrou M4;non precisee par utilisateur;;7.3;7.2;"2026-10-25 : sans poncage ni ebavurage; ne valide pas separement les deux orientations"

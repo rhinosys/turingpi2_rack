@@ -1,0 +1,12 @@
+{
+  "id": 46,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"bytes\": 237033,\n  \"format\": \"Step\",\n  \"path\": \"./CAD/RackBladeSolidCraft/V7/exports/FOND-AR-D_print.step\"\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

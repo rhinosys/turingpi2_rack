@@ -1,0 +1,20 @@
+{
+  "revision": "R3",
+  "date": "2026-10-25",
+  "air_skin_t": 1,
+  "changes": {
+    "d20": "floor_t+1-air_skin_t",
+    "d25": "half_w-wall_t+air_skin_t",
+    "d26": "wall_t+1-air_skin_t",
+    "d72": "half_w-wall_t+air_skin_t",
+    "d73": "wall_t+1-air_skin_t",
+    "d85": "floor_t+1-air_skin_t",
+    "d573": "chassis_h-top_t+air_skin_t",
+    "d574": "top_t+1-air_skin_t",
+    "d615": "chassis_h-top_t+air_skin_t",
+    "d616": "top_t+1-air_skin_t"
+  },
+  "mass_saving_g": 302.22880132917794,
+  "errors": [],
+  "description": "Exterior hexagonal blind pockets with 1 mm inner skin; front and rear vents remain through."
+}

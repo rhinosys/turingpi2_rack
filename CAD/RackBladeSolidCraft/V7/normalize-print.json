@@ -1,0 +1,61 @@
+{
+  "name": "batch",
+  "arguments": {
+    "commands": [
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "BT-D"
+          ],
+          "translate": [
+            -2.6,
+            9.592326932761383e-14,
+            -16.0
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "FOND-AR-D"
+          ],
+          "translate": [
+            -2.6,
+            -197.39999999999998,
+            -15.999999999999991
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "BT-G"
+          ],
+          "translate": [
+            205.4,
+            9.592326932761383e-14,
+            -16.0
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "FOND-AR-G"
+          ],
+          "translate": [
+            205.40000000000003,
+            -197.4,
+            -15.999999999999991
+          ]
+        }
+      }
+    ],
+    "rollback": true,
+    "verbose": false
+  }
+}

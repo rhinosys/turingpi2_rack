@@ -1,0 +1,12 @@
+{
+  "id": 37,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"bytes\": 6966553,\n  \"format\": \"Step\",\n  \"path\": \"./CAD/RackBladeSolidCraft/V6/exports/Assemblage_V6.step\"\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": 39,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"applied\": [],\n  \"completed\": 1,\n  \"failed\": {\n    \"command\": \"solid.box\",\n    \"error\": \"boolean Cut: the operation failed: no result\",\n    \"index\": 1\n  },\n  \"not_run\": [],\n  \"ok\": false,\n  \"results\": [\n    {\n      \"changed_bodies\": [\n        \"Q-AV-D\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 909,\n      \"ms\": 312.98362499999996,\n      \"name\": \"Jeu-face-cloison-Q-AV-D\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    }\n  ],\n  \"rolled_back\": true,\n  \"undone\": 1\n}",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

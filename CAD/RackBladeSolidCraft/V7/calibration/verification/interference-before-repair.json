@@ -1,0 +1,12 @@
+{
+  "id": 9,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"boolean_ms\": 16073.42,\n  \"budget_exceeded\": false,\n  \"budget_s\": 45.0,\n  \"checked\": 46,\n  \"count\": 0,\n  \"interferences\": [],\n  \"ms\": 6347.782,\n  \"pairs_candidate\": 100,\n  \"pairs_cleared\": 2,\n  \"pairs_intersected\": 98,\n  \"pairs_not_checked\": 0,\n  \"skipped_pairs\": 0,\n  \"slowest\": [\n    {\n      \"a\": \"Q-AV-G-EAR\",\n      \"b\": \"Q-AR-G\",\n      \"boolean_ms\": 317.646,\n      \"ms\": 1387.992,\n      \"tessellate_ms\": 645.947\n    },\n    {\n      \"a\": \"Q-AV-D\",\n      \"b\": \"Q-AR-G\",\n      \"boolean_ms\": 456.37,\n      \"ms\": 1341.34,\n      \"tessellate_ms\": 434.248\n    },\n    {\n      \"a\": \"Q-AV-D\",\n      \"b\": \"Q-AV-G-EAR\",\n      \"boolean_ms\": 448.631,\n      \"ms\": 1245.585,\n      \"tessellate_ms\": 342.188\n    },\n    {\n      \"a\": \"Q-AR-D\",\n      \"b\": \"Q-AV-G-EAR\",\n      \"boolean_ms\": 288.351,\n      \"ms\": 1062.962,\n      \"tessellate_ms\": 312.157\n    },\n    {\n      \"a\": \"Q-AV-D\",\n      \"b\": \"Q-AR-D\",\n      \"boolean_ms\": 270.853,\n      \"ms\": 1039.447,\n      \"tessellate_ms\": 301.895\n    },\n    {\n      \"a\": \"Q-AR-D\",\n      \"b\": \"Q-AR-G\",\n      \"boolean_ms\": 305.514,\n      \"ms\": 964.267,\n      \"tessellate_ms\": 244.292\n    },\n    {\n      \"a\": \"BT-D\",\n      \"b\": \"BF-D\",\n      \"boolean_ms\": 243.631,\n      \"ms\": 912.246,\n      \"tessellate_ms\": 122.673\n    },\n    {\n      \"a\": \"Q-AV-D\",\n      \"b\": \"BF-D\",\n      \"boolean_ms\": 210.193,\n      \"ms\": 868.67,\n      \"tessellate_ms\": 220.876\n    }\n  ],\n  \"tessellate_ms\": 3485.754,\n  \"threads\": 8,\n  \"truncated\": false,\n  \"unchecked\": []\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

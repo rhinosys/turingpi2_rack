@@ -1,0 +1,315 @@
+{
+  "bodies": 46,
+  "single_shell_bodies": 46,
+  "features": 955,
+  "feature_errors": [],
+  "parameters": {
+    "m3_clear": 3.2,
+    "m4_clear": 4.3,
+    "m3_nut_af": 5.7,
+    "m4_nut_af": 7.2,
+    "bisc_clear": 0.2
+  },
+  "nut_sketches": [
+    {
+      "feature": 16,
+      "name": "EAR-nut-30Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 19,
+      "name": "EAR-nut-88Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 22,
+      "name": "EAR-nut-146Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 25,
+      "name": "BF-nut-20Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 28,
+      "name": "BF-nut-155Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 98,
+      "name": "CL-AV-nut-1-25Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 102,
+      "name": "CL-AV-nut1-25Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 106,
+      "name": "CL-AV-nut-1-90Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 110,
+      "name": "CL-AV-nut1-90Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 114,
+      "name": "CL-AV-nut-1-170Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 118,
+      "name": "CL-AV-nut1-170Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 122,
+      "name": "CL-AV-nut-1-195Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 126,
+      "name": "CL-AV-nut1-195Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 139,
+      "name": "CL-AR-nut-1-240Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 143,
+      "name": "CL-AR-nut1-240Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 147,
+      "name": "CL-AR-nut-1-310Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 151,
+      "name": "CL-AR-nut1-310Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 155,
+      "name": "CL-AR-nut-1-390Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 159,
+      "name": "CL-AR-nut1-390Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 163,
+      "name": "CL-AR-nut-1-410Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 167,
+      "name": "CL-AR-nut1-410Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 179,
+      "name": "FW-nut51.5-21.5Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 182,
+      "name": "FW-nut51.5-126.5Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 185,
+      "name": "FW-nut156.5-21.5Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 188,
+      "name": "FW-nut156.5-126.5Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 192,
+      "name": "FW-foot-nut65Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 197,
+      "name": "FW-foot-nut195Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 215,
+      "name": "BT-nut25.35-26.16Sketch",
+      "across_flats_mm": 5.7
+    },
+    {
+      "feature": 219,
+      "name": "BT-nut25.35-181.1Sketch",
+      "across_flats_mm": 5.7
+    },
+    {
+      "feature": 223,
+      "name": "BT-nut182.83-49.02Sketch",
+      "across_flats_mm": 5.7
+    },
+    {
+      "feature": 227,
+      "name": "BT-nut182.83-181.1Sketch",
+      "across_flats_mm": 5.7
+    },
+    {
+      "feature": 231,
+      "name": "BT-face-nut30Sketch",
+      "across_flats_mm": 5.7
+    },
+    {
+      "feature": 234,
+      "name": "BT-face-nut75Sketch",
+      "across_flats_mm": 5.7
+    },
+    {
+      "feature": 237,
+      "name": "BT-face-nut135Sketch",
+      "across_flats_mm": 5.7
+    },
+    {
+      "feature": 240,
+      "name": "BT-face-nut180Sketch",
+      "across_flats_mm": 5.7
+    },
+    {
+      "feature": 334,
+      "name": "TOP-AV-D-lip-nut30Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 337,
+      "name": "TOP-AV-D-lip-nut105Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 340,
+      "name": "TOP-AV-D-lip-nut180Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 353,
+      "name": "TOP-AR-D-lip-nut240Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 356,
+      "name": "TOP-AR-D-lip-nut315Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 359,
+      "name": "TOP-AR-D-lip-nut390Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 397,
+      "name": "FW-G-new-foot-nut65Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 400,
+      "name": "FW-G-new-foot-nut195Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 418,
+      "name": "FW-D-new-foot-nut65Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 421,
+      "name": "FW-D-new-foot-nut195Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 441,
+      "name": "seam-nutG40Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 446,
+      "name": "seam-nutG140Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 451,
+      "name": "seam-nutD40Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 456,
+      "name": "seam-nutD140Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 459,
+      "name": "CL-AV-lid-nut90Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 464,
+      "name": "CL-AV-lid-nut170Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 469,
+      "name": "CL-AR-lid-nut250Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 474,
+      "name": "CL-AR-lid-nut400Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 493,
+      "name": "BF-G-handle-nut-64Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 497,
+      "name": "BF-G-handle-nut-144Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 510,
+      "name": "BF-D-handle-nut64Sketch",
+      "across_flats_mm": 7.2
+    },
+    {
+      "feature": 514,
+      "name": "BF-D-handle-nut144Sketch",
+      "across_flats_mm": 7.2
+    }
+  ],
+  "warning_count": 99,
+  "scope": "Full candidate reopened; legacy entry relief suppressed and recomputed; source and bodies verified. No second full reopen after save.",
+  "motion_positions_mm": [
+    0,
+    200,
+    430
+  ],
+  "motion_interferences": 0,
+  "unchecked_pairs": 0,
+  "revision": "V7-calibree",
+  "mesh_report": "verification/3mf-audit.json",
+  "plate_report": "plateaux/verification/audit-plateaux.json",
+  "old_summary": "verification/summary-avant-calibration.json",
+  "mesh_repair": "calibration/verification/mesh-repair.json",
+  "guides_and_filament_physically_validated": false
+}

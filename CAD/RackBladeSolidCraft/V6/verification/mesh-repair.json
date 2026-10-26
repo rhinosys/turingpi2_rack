@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Q-AV-D",
+    "method": "Gmsh/OCC triangulation of SolidCraft STEP",
+    "watertight": true,
+    "winding_consistent": true,
+    "solidcraft_volume_mm3": 671368.9712380649,
+    "occ_import_volume_mm3": 671374.3914006059,
+    "mesh_volume_mm3": 671372.2888188775,
+    "relative_volume_delta": 4.941516445856542e-06,
+    "bbox_max_delta_mm": 1.0828655405248355e-05,
+    "vertices": 55662,
+    "triangles": 111372
+  },
+  {
+    "name": "Q-AV-G-EAR",
+    "method": "Gmsh/OCC triangulation of SolidCraft STEP",
+    "watertight": true,
+    "winding_consistent": true,
+    "solidcraft_volume_mm3": 671549.6536347615,
+    "occ_import_volume_mm3": 671554.3521744751,
+    "mesh_volume_mm3": 671553.7857480937,
+    "relative_volume_delta": 6.153101725111521e-06,
+    "bbox_max_delta_mm": 5.7765799112985405e-06,
+    "vertices": 55393,
+    "triangles": 110834
+  },
+  {
+    "name": "Q-AR-D",
+    "method": "Gmsh/OCC triangulation of SolidCraft STEP",
+    "watertight": true,
+    "winding_consistent": true,
+    "solidcraft_volume_mm3": 706838.9603813519,
+    "occ_import_volume_mm3": 706836.1747952348,
+    "mesh_volume_mm3": 706839.8378029672,
+    "relative_volume_delta": 1.2413317098744235e-06,
+    "bbox_max_delta_mm": 1.1831347194402042e-05,
+    "vertices": 50418,
+    "triangles": 100868
+  },
+  {
+    "name": "Q-AR-G",
+    "rear_end_numerical_trim_mm": 0.005,
+    "method": "Gmsh/OCC triangulation of SolidCraft STEP",
+    "watertight": true,
+    "winding_consistent": true,
+    "solidcraft_volume_mm3": 706837.3799836626,
+    "occ_import_volume_mm3": 706798.0465939125,
+    "mesh_volume_mm3": 706786.8552471994,
+    "relative_volume_delta": 7.148000076676262e-05,
+    "bbox_max_delta_mm": 0.004789232725613601,
+    "vertices": 50128,
+    "triangles": 100288
+  }
+]

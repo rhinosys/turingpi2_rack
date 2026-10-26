@@ -1,0 +1,61 @@
+{
+  "name": "batch",
+  "arguments": {
+    "commands": [
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "BT-D",
+            "BF-D",
+            "HANDLE-D",
+            "FOND-AR-D",
+            "REF_TP2_R",
+            "REF_MODULES_R",
+            "REF_NVME_R",
+            "REF_PSU_R",
+            "REF_FAN_R",
+            "REF_FILAMENT-D-1",
+            "REF_FILAMENT-D-2"
+          ],
+          "translate": [
+            0,
+            -200,
+            0
+          ]
+        }
+      },
+      {
+        "command": "inspect.interference",
+        "params": {
+          "budget_s": 45
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "BT-D",
+            "BF-D",
+            "HANDLE-D",
+            "FOND-AR-D",
+            "REF_TP2_R",
+            "REF_MODULES_R",
+            "REF_NVME_R",
+            "REF_PSU_R",
+            "REF_FAN_R",
+            "REF_FILAMENT-D-1",
+            "REF_FILAMENT-D-2"
+          ],
+          "translate": [
+            0,
+            200,
+            0
+          ]
+        }
+      }
+    ],
+    "rollback": true,
+    "verbose": false
+  }
+}

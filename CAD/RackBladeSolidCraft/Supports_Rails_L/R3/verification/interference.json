@@ -1,0 +1,12 @@
+{
+  "id": 9,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"boolean_ms\": 12837.232,\n  \"budget_exceeded\": false,\n  \"budget_s\": 45.0,\n  \"checked\": 10,\n  \"count\": 0,\n  \"interferences\": [],\n  \"ms\": 6331.199,\n  \"pairs_candidate\": 12,\n  \"pairs_cleared\": 0,\n  \"pairs_intersected\": 12,\n  \"pairs_not_checked\": 0,\n  \"skipped_pairs\": 0,\n  \"slowest\": [\n    {\n      \"a\": \"AR-B\",\n      \"b\": \"REF-VIS-M4-B\",\n      \"boolean_ms\": 6089.87,\n      \"ms\": 6215.317,\n      \"tessellate_ms\": 0.0\n    },\n    {\n      \"a\": \"AR-A\",\n      \"b\": \"REF-VIS-M4-A\",\n      \"boolean_ms\": 5916.831,\n      \"ms\": 5996.465,\n      \"tessellate_ms\": 0.0\n    },\n    {\n      \"a\": \"AR-A\",\n      \"b\": \"REF-L-A\",\n      \"boolean_ms\": 37.998,\n      \"ms\": 344.512,\n      \"tessellate_ms\": 202.825\n    },\n    {\n      \"a\": \"AR-B\",\n      \"b\": \"REF-L-B\",\n      \"boolean_ms\": 77.223,\n      \"ms\": 320.898,\n      \"tessellate_ms\": 193.288\n    },\n    {\n      \"a\": \"AR-A\",\n      \"b\": \"REF-ECROU-M4-A\",\n      \"boolean_ms\": 197.589,\n      \"ms\": 275.508,\n      \"tessellate_ms\": 0.0\n    },\n    {\n      \"a\": \"AR-B\",\n      \"b\": \"REF-ECROU-M4-B\",\n      \"boolean_ms\": 136.782,\n      \"ms\": 253.242,\n      \"tessellate_ms\": 0.0\n    },\n    {\n      \"a\": \"REF-L-A\",\n      \"b\": \"REF-VIS-M4-A\",\n      \"boolean_ms\": 115.64,\n      \"ms\": 159.614,\n      \"tessellate_ms\": 0.0\n    },\n    {\n      \"a\": \"REF-L-B\",\n      \"b\": \"REF-VIS-M4-B\",\n      \"boolean_ms\": 62.143,\n      \"ms\": 126.36,\n      \"tessellate_ms\": 0.0\n    }\n  ],\n  \"tessellate_ms\": 396.113,\n  \"threads\": 8,\n  \"truncated\": false,\n  \"unchecked\": [\n    {\n      \"a\": \"AR-A\",\n      \"b\": \"REF-VIS-M4-A\",\n      \"reason\": \"not verified: the bodies' facets pass through each other by more than 2.416702e-2 mm, but they could not be intersected there; that part is ignored\"\n    },\n    {\n      \"a\": \"AR-B\",\n      \"b\": \"REF-VIS-M4-B\",\n      \"reason\": \"not verified: the bodies' facets pass through each other by more than 2.416702e-2 mm, but they could not be intersected there; that part is ignored\"\n    }\n  ]\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

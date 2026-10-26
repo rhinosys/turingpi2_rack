@@ -1,0 +1,4 @@
+verification/*.gcode
+verification/*.3mf
+verification/plate_*.png
+verification/result.json

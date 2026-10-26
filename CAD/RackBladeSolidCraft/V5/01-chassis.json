@@ -1,0 +1,665 @@
+{
+  "name": "batch",
+  "arguments": {
+    "commands": [
+      {
+        "command": "component.activate",
+        "params": {
+          "component": "root"
+        }
+      },
+      {
+        "command": "solid.remove",
+        "params": {
+          "bodies": [
+            "FW-D",
+            "FW-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "BT-D",
+            "BT-G",
+            "REF_TP2_R",
+            "REF_MODULES_R",
+            "REF_NVME_R",
+            "REF_TP2_L",
+            "REF_MODULES_L",
+            "REF_NVME_L",
+            "REF_FAN_R",
+            "REF_FAN_L"
+          ],
+          "translate": [
+            0,
+            0,
+            8
+          ]
+        }
+      },
+      {
+        "command": "solid.move",
+        "params": {
+          "bodies": [
+            "REF_PSU_R",
+            "REF_PSU_L"
+          ],
+          "translate": [
+            0,
+            0,
+            16
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Degagement-cassette-D",
+          "body_name": "Degagement-cassette-D",
+          "corner": [
+            5.25,
+            6,
+            4.01
+          ],
+          "length": 197.5,
+          "width": 414,
+          "height": 151.5,
+          "operation": "cut",
+          "targets": [
+            "Q-AV-D",
+            "Q-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Cadre-arriere-D",
+          "body_name": "Cadre-arriere-D",
+          "corner": [
+            0,
+            420,
+            4
+          ],
+          "length": 223,
+          "width": 4,
+          "height": 169.5,
+          "operation": "join",
+          "targets": [
+            "Q-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Passage-arriere-D",
+          "body_name": "Passage-arriere-D",
+          "corner": [
+            5.2,
+            419.9,
+            12
+          ],
+          "length": 197.6,
+          "width": 4.2,
+          "height": 143.5,
+          "operation": "cut",
+          "targets": [
+            "Q-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "RAIL-Q-AV-D",
+          "body_name": "RAIL-Q-AV-D",
+          "corner": [
+            203,
+            0,
+            4
+          ],
+          "length": 16,
+          "width": 210,
+          "height": 18,
+          "operation": "new"
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Gorge-long-Q-AV-D",
+          "body_name": "Gorge-long-Q-AV-D",
+          "corner": [
+            202.8,
+            -0.1,
+            15.99
+          ],
+          "length": 3.2,
+          "width": 210.2,
+          "height": 3.42,
+          "operation": "cut",
+          "targets": [
+            "RAIL-Q-AV-D",
+            "Q-AV-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.combine",
+        "params": {
+          "target": "Q-AV-D",
+          "tools": [
+            "RAIL-Q-AV-D"
+          ],
+          "operation": "join"
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "RAIL-Q-AR-D",
+          "body_name": "RAIL-Q-AR-D",
+          "corner": [
+            203,
+            210.2,
+            4
+          ],
+          "length": 16,
+          "width": 209.8,
+          "height": 18,
+          "operation": "new"
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Gorge-long-Q-AR-D",
+          "body_name": "Gorge-long-Q-AR-D",
+          "corner": [
+            202.8,
+            210.1,
+            15.99
+          ],
+          "length": 3.2,
+          "width": 210.0,
+          "height": 3.42,
+          "operation": "cut",
+          "targets": [
+            "RAIL-Q-AR-D",
+            "Q-AR-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.combine",
+        "params": {
+          "target": "Q-AR-D",
+          "tools": [
+            "RAIL-Q-AR-D"
+          ],
+          "operation": "join"
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Bande-IO-rehaussee-D",
+          "body_name": "Bande-IO-rehaussee-D",
+          "corner": [
+            21,
+            -4,
+            24
+          ],
+          "length": 166,
+          "width": 4,
+          "height": 10,
+          "operation": "join",
+          "targets": [
+            "BF-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Fenetre-IO-V5-D",
+          "body_name": "Fenetre-IO-V5-D",
+          "corner": [
+            24.625,
+            -4.2,
+            33.6
+          ],
+          "length": 158.75,
+          "width": 4.4,
+          "height": 44.45,
+          "operation": "cut",
+          "targets": [
+            "BF-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-facade-V5-D-30",
+          "body_name": "Vis-facade-V5-D-30",
+          "base": [
+            30,
+            -4.2,
+            25
+          ],
+          "diameter": 3.4,
+          "height": 10.4,
+          "axis": "Y",
+          "operation": "cut",
+          "targets": [
+            "BF-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-facade-V5-D-75",
+          "body_name": "Vis-facade-V5-D-75",
+          "base": [
+            75,
+            -4.2,
+            25
+          ],
+          "diameter": 3.4,
+          "height": 10.4,
+          "axis": "Y",
+          "operation": "cut",
+          "targets": [
+            "BF-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-facade-V5-D-135",
+          "body_name": "Vis-facade-V5-D-135",
+          "base": [
+            135,
+            -4.2,
+            25
+          ],
+          "diameter": 3.4,
+          "height": 10.4,
+          "axis": "Y",
+          "operation": "cut",
+          "targets": [
+            "BF-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-facade-V5-D-180",
+          "body_name": "Vis-facade-V5-D-180",
+          "base": [
+            180,
+            -4.2,
+            25
+          ],
+          "diameter": 3.4,
+          "height": 10.4,
+          "axis": "Y",
+          "operation": "cut",
+          "targets": [
+            "BF-D"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Degagement-cassette-G",
+          "body_name": "Degagement-cassette-G",
+          "corner": [
+            -202.75,
+            6,
+            4.01
+          ],
+          "length": 197.5,
+          "width": 414,
+          "height": 151.5,
+          "operation": "cut",
+          "targets": [
+            "Q-AV-G-EAR",
+            "Q-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Cadre-arriere-G",
+          "body_name": "Cadre-arriere-G",
+          "corner": [
+            -223,
+            420,
+            4
+          ],
+          "length": 223,
+          "width": 4,
+          "height": 169.5,
+          "operation": "join",
+          "targets": [
+            "Q-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Passage-arriere-G",
+          "body_name": "Passage-arriere-G",
+          "corner": [
+            -202.79999999999998,
+            419.9,
+            12
+          ],
+          "length": 197.6,
+          "width": 4.2,
+          "height": 143.5,
+          "operation": "cut",
+          "targets": [
+            "Q-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "RAIL-Q-AV-G-EAR",
+          "body_name": "RAIL-Q-AV-G-EAR",
+          "corner": [
+            -219,
+            0,
+            4
+          ],
+          "length": 16,
+          "width": 210,
+          "height": 18,
+          "operation": "new"
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Gorge-long-Q-AV-G-EAR",
+          "body_name": "Gorge-long-Q-AV-G-EAR",
+          "corner": [
+            -206.0,
+            -0.1,
+            15.99
+          ],
+          "length": 3.2,
+          "width": 210.2,
+          "height": 3.42,
+          "operation": "cut",
+          "targets": [
+            "RAIL-Q-AV-G-EAR",
+            "Q-AV-G-EAR"
+          ]
+        }
+      },
+      {
+        "command": "solid.combine",
+        "params": {
+          "target": "Q-AV-G-EAR",
+          "tools": [
+            "RAIL-Q-AV-G-EAR"
+          ],
+          "operation": "join"
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "RAIL-Q-AR-G",
+          "body_name": "RAIL-Q-AR-G",
+          "corner": [
+            -219,
+            210.2,
+            4
+          ],
+          "length": 16,
+          "width": 209.8,
+          "height": 18,
+          "operation": "new"
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Gorge-long-Q-AR-G",
+          "body_name": "Gorge-long-Q-AR-G",
+          "corner": [
+            -206.0,
+            210.1,
+            15.99
+          ],
+          "length": 3.2,
+          "width": 210.0,
+          "height": 3.42,
+          "operation": "cut",
+          "targets": [
+            "RAIL-Q-AR-G",
+            "Q-AR-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.combine",
+        "params": {
+          "target": "Q-AR-G",
+          "tools": [
+            "RAIL-Q-AR-G"
+          ],
+          "operation": "join"
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Bande-IO-rehaussee-G",
+          "body_name": "Bande-IO-rehaussee-G",
+          "corner": [
+            -187,
+            -4,
+            24
+          ],
+          "length": 166,
+          "width": 4,
+          "height": 10,
+          "operation": "join",
+          "targets": [
+            "BF-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Fenetre-IO-V5-G",
+          "body_name": "Fenetre-IO-V5-G",
+          "corner": [
+            -183.375,
+            -4.2,
+            33.6
+          ],
+          "length": 158.75,
+          "width": 4.4,
+          "height": 44.45,
+          "operation": "cut",
+          "targets": [
+            "BF-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-facade-V5-G--178",
+          "body_name": "Vis-facade-V5-G--178",
+          "base": [
+            -178,
+            -4.2,
+            25
+          ],
+          "diameter": 3.4,
+          "height": 10.4,
+          "axis": "Y",
+          "operation": "cut",
+          "targets": [
+            "BF-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-facade-V5-G--133",
+          "body_name": "Vis-facade-V5-G--133",
+          "base": [
+            -133,
+            -4.2,
+            25
+          ],
+          "diameter": 3.4,
+          "height": 10.4,
+          "axis": "Y",
+          "operation": "cut",
+          "targets": [
+            "BF-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-facade-V5-G--73",
+          "body_name": "Vis-facade-V5-G--73",
+          "base": [
+            -73,
+            -4.2,
+            25
+          ],
+          "diameter": 3.4,
+          "height": 10.4,
+          "axis": "Y",
+          "operation": "cut",
+          "targets": [
+            "BF-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.cylinder",
+        "params": {
+          "name": "Vis-facade-V5-G--28",
+          "body_name": "Vis-facade-V5-G--28",
+          "base": [
+            -28,
+            -4.2,
+            25
+          ],
+          "diameter": 3.4,
+          "height": 10.4,
+          "axis": "Y",
+          "operation": "cut",
+          "targets": [
+            "BF-G"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Gorge-V5-CL-AV-5.01",
+          "body_name": "Gorge-V5-CL-AV-5.01",
+          "corner": [
+            -5.01,
+            -0.01,
+            16
+          ],
+          "length": 3.01,
+          "width": 210.02,
+          "height": 3.4,
+          "operation": "cut",
+          "targets": [
+            "CL-AV"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Gorge-V5-CL-AV2",
+          "body_name": "Gorge-V5-CL-AV2",
+          "corner": [
+            2,
+            -0.01,
+            16
+          ],
+          "length": 3.01,
+          "width": 210.02,
+          "height": 3.4,
+          "operation": "cut",
+          "targets": [
+            "CL-AV"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Gorge-V5-CL-AR-5.01",
+          "body_name": "Gorge-V5-CL-AR-5.01",
+          "corner": [
+            -5.01,
+            209.99,
+            16
+          ],
+          "length": 3.01,
+          "width": 210.02,
+          "height": 3.4,
+          "operation": "cut",
+          "targets": [
+            "CL-AR"
+          ]
+        }
+      },
+      {
+        "command": "solid.box",
+        "params": {
+          "name": "Gorge-V5-CL-AR2",
+          "body_name": "Gorge-V5-CL-AR2",
+          "corner": [
+            2,
+            209.99,
+            16
+          ],
+          "length": 3.01,
+          "width": 210.02,
+          "height": 3.4,
+          "operation": "cut",
+          "targets": [
+            "CL-AR"
+          ]
+        }
+      }
+    ],
+    "rollback": true,
+    "verbose": false,
+    "timings": true
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "watertight": true,
+  "consistent": true,
+  "relative_volume_error": 1.8565158472206084e-05,
+  "bounds_error_mm": 7.105427357601002e-15
+}

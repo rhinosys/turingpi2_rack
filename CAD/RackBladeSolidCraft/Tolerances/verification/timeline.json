@@ -1,0 +1,702 @@
+[
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 1,
+    "ms": 20.352625,
+    "name": "Base",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "BoxFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 2,
+    "ms": 0.14387499999999998,
+    "name": "M3Hex",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "Sketch",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 3,
+    "ms": 27.850083,
+    "name": "M3Poches",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "ExtrudeFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 4,
+    "ms": 0.14666700000000002,
+    "name": "M4Hex",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "Sketch",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 5,
+    "ms": 15.052959,
+    "name": "M4Poches",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "ExtrudeFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 6,
+    "ms": 0.08275,
+    "name": "Passages",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "Sketch",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 7,
+    "ms": 133.487541,
+    "name": "Trous",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "ExtrudeFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 8,
+    "ms": 65.95162499999999,
+    "name": "BiscuitJeu1",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "BoxFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 9,
+    "ms": 50.961208,
+    "name": "BiscuitJeu2",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "BoxFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 10,
+    "ms": 42.44112500000001,
+    "name": "BiscuitJeu3",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "BoxFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 11,
+    "ms": 47.380875,
+    "name": "BiscuitJeu4",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "BoxFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 12,
+    "ms": 44.34625,
+    "name": "BiscuitJeu5",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "BoxFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 13,
+    "ms": 47.027667,
+    "name": "BiscuitProfondeur0",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "BoxFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 14,
+    "ms": 47.324833,
+    "name": "BiscuitProfondeur1",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "BoxFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 15,
+    "ms": 49.4025,
+    "name": "BiscuitProfondeur2",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "BoxFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 16,
+    "ms": 50.334042000000004,
+    "name": "BiscuitCentral",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "BoxFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 17,
+    "ms": 0.230917,
+    "name": "BlocRail0",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "BoxFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 18,
+    "ms": 3.038125,
+    "name": "Rainure0",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "BoxFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 19,
+    "ms": 0.277291,
+    "name": "BlocRail1",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "BoxFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 20,
+    "ms": 2.391542,
+    "name": "Rainure1",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "BoxFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 21,
+    "ms": 0.2125,
+    "name": "BlocRail2",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "BoxFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 22,
+    "ms": 2.3956250000000003,
+    "name": "Rainure2",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "BoxFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 23,
+    "ms": 0.261667,
+    "name": "BlocRail3",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "BoxFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 24,
+    "ms": 2.7364170000000003,
+    "name": "Rainure3",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "BoxFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 25,
+    "ms": 0.23566700000000002,
+    "name": "BlocRail4",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "BoxFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 26,
+    "ms": 2.2459580000000003,
+    "name": "Rainure4",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "BoxFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 27,
+    "ms": 0.324709,
+    "name": "BiscuitStandard",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "BoxFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 28,
+    "ms": 0.273667,
+    "name": "BiscuitCarre",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "BoxFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 29,
+    "ms": 0.299625,
+    "name": "PoigneeLangue",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "BoxFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 30,
+    "ms": 5.056292,
+    "name": "Langue_2p9_3",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "BoxFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 31,
+    "ms": 2.922166,
+    "name": "M3_VERTICALBloc",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "BoxFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 32,
+    "ms": 0.190167,
+    "name": "M3_VERTICALHex",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "Sketch",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 33,
+    "ms": 10.917041000000001,
+    "name": "M3_VERTICALPoches",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "ExtrudeFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 34,
+    "ms": 0.030792,
+    "name": "M3_VERTICALVis",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "Sketch",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 35,
+    "ms": 43.510584,
+    "name": "M3_VERTICALTrous",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "ExtrudeFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 36,
+    "ms": 0.252583,
+    "name": "M4_VERTICALBloc",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "BoxFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 37,
+    "ms": 0.151417,
+    "name": "M4_VERTICALHex",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "Sketch",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 38,
+    "ms": 8.997709,
+    "name": "M4_VERTICALPoches",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "ExtrudeFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 39,
+    "ms": 0.027875,
+    "name": "M4_VERTICALVis",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "Sketch",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 40,
+    "ms": 42.416292,
+    "name": "M4_VERTICALTrous",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "ExtrudeFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 41,
+    "ms": 0.054209,
+    "name": "PeauHex",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "Sketch",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 42,
+    "ms": 87.933208,
+    "name": "Fond_1mm",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "ExtrudeFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 43,
+    "ms": 46.519999999999996,
+    "name": "ReperesPlanche",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "Sketch",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 44,
+    "ms": 30742.779667,
+    "name": "GravurePlanche",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "ExtrudeFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 45,
+    "ms": 13.780875,
+    "name": "ReperesRails",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "Sketch",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 46,
+    "ms": 1020.1139999999999,
+    "name": "GravureRails",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "ExtrudeFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 47,
+    "ms": 12.03975,
+    "name": "ReperesVerticaux",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "Sketch",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 48,
+    "ms": 8584.463917000001,
+    "name": "GravureVerticaux",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "ExtrudeFeature",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 49,
+    "ms": 0.089708,
+    "name": "EjectionBiscuits",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "Sketch",
+    "warning": null
+  },
+  {
+    "boolean_diagnostics": {
+      "events": [],
+      "truncated": false
+    },
+    "error": null,
+    "id": 50,
+    "ms": 42302.318209,
+    "name": "TrousEjection",
+    "rolled_back": false,
+    "suppressed": false,
+    "type": "ExtrudeFeature",
+    "warning": null
+  }
+]

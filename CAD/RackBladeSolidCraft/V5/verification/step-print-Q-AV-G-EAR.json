@@ -1,0 +1,12 @@
+{
+  "id": 67,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"bytes\": 922068,\n  \"format\": \"Step\",\n  \"path\": \"./CAD/RackBladeSolidCraft/V5/exports/Q-AV-G-EAR_print.step\"\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

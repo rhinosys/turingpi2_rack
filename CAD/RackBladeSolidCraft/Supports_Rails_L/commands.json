@@ -1,0 +1,697 @@
+[
+  {
+    "command": "parameters.change",
+    "params": {
+      "name": "m6_d",
+      "expression": 6.8
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "BERCEAU-A-Platine",
+      "body_name": "BERCEAU-A",
+      "corner": [
+        -15,
+        0,
+        0
+      ],
+      "length": 30,
+      "width": 8,
+      "height": 56,
+      "operation": "new"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "BERCEAU-A-Tablette",
+      "body_name": null,
+      "corner": [
+        -15,
+        7.8,
+        24
+      ],
+      "length": 44,
+      "width": 48.2,
+      "height": 8,
+      "operation": "join",
+      "targets": [
+        "BERCEAU-A"
+      ]
+    }
+  },
+  {
+    "command": "sketch.create",
+    "params": {
+      "plane": {
+        "origin": [
+          -15,
+          0,
+          0
+        ],
+        "x_dir": [
+          0,
+          1,
+          0
+        ],
+        "y_dir": [
+          0,
+          0,
+          1
+        ]
+      },
+      "name": "BERCEAU-A-Nervure"
+    }
+  },
+  {
+    "command": "sketch.line",
+    "params": {
+      "points": [
+        [
+          7.8,
+          4
+        ],
+        [
+          56,
+          24
+        ],
+        [
+          56,
+          24.1
+        ],
+        [
+          7.8,
+          24.1
+        ]
+      ],
+      "closed": true
+    }
+  },
+  {
+    "command": "sketch.finish",
+    "params": {}
+  },
+  {
+    "command": "solid.extrude",
+    "params": {
+      "distance": 4,
+      "direction": "positive",
+      "operation": "join",
+      "targets": [
+        "BERCEAU-A"
+      ],
+      "name": "BERCEAU-A-Renfort"
+    }
+  },
+  {
+    "command": "sketch.create",
+    "params": {
+      "plane": {
+        "origin": [
+          11,
+          0,
+          0
+        ],
+        "x_dir": [
+          0,
+          1,
+          0
+        ],
+        "y_dir": [
+          0,
+          0,
+          1
+        ]
+      },
+      "name": "BERCEAU-A-Nervure"
+    }
+  },
+  {
+    "command": "sketch.line",
+    "params": {
+      "points": [
+        [
+          7.8,
+          4
+        ],
+        [
+          56,
+          24
+        ],
+        [
+          56,
+          24.1
+        ],
+        [
+          7.8,
+          24.1
+        ]
+      ],
+      "closed": true
+    }
+  },
+  {
+    "command": "sketch.finish",
+    "params": {}
+  },
+  {
+    "command": "solid.extrude",
+    "params": {
+      "distance": 4,
+      "direction": "positive",
+      "operation": "join",
+      "targets": [
+        "BERCEAU-A"
+      ],
+      "name": "BERCEAU-A-Renfort"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "BERCEAU-A-Bord-exterieur",
+      "body_name": null,
+      "corner": [
+        -15,
+        8,
+        31.9
+      ],
+      "length": 18.7,
+      "width": 48,
+      "height": 1.1,
+      "operation": "join",
+      "targets": [
+        "BERCEAU-A"
+      ]
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "BERCEAU-A-Bord-interieur",
+      "body_name": null,
+      "corner": [
+        19.8,
+        8,
+        31.9
+      ],
+      "length": 9.2,
+      "width": 48,
+      "height": 1.1,
+      "operation": "join",
+      "targets": [
+        "BERCEAU-A"
+      ]
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "BERCEAU-A-Butee",
+      "body_name": null,
+      "corner": [
+        3.7,
+        16,
+        31.9
+      ],
+      "length": 16.1,
+      "width": 2,
+      "height": 2.1,
+      "operation": "join",
+      "targets": [
+        "BERCEAU-A"
+      ]
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "BERCEAU-A-Lumiere",
+      "body_name": null,
+      "corner": [
+        -3.4,
+        -1,
+        10
+      ],
+      "length": 6.8,
+      "width": 10,
+      "height": 4,
+      "operation": "cut",
+      "targets": [
+        "BERCEAU-A"
+      ]
+    }
+  },
+  {
+    "command": "solid.cylinder",
+    "params": {
+      "radius": "m6_d/2",
+      "height": 10,
+      "base": [
+        0,
+        -1,
+        10
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "operation": "cut",
+      "targets": [
+        "BERCEAU-A"
+      ],
+      "name": "BERCEAU-A-M6"
+    }
+  },
+  {
+    "command": "solid.cylinder",
+    "params": {
+      "radius": "m6_d/2",
+      "height": 10,
+      "base": [
+        0,
+        -1,
+        14
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "operation": "cut",
+      "targets": [
+        "BERCEAU-A"
+      ],
+      "name": "BERCEAU-A-M6"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "BERCEAU-A-Lumiere",
+      "body_name": null,
+      "corner": [
+        -3.4,
+        -1,
+        41.75
+      ],
+      "length": 6.8,
+      "width": 10,
+      "height": 4,
+      "operation": "cut",
+      "targets": [
+        "BERCEAU-A"
+      ]
+    }
+  },
+  {
+    "command": "solid.cylinder",
+    "params": {
+      "radius": "m6_d/2",
+      "height": 10,
+      "base": [
+        0,
+        -1,
+        41.75
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "operation": "cut",
+      "targets": [
+        "BERCEAU-A"
+      ],
+      "name": "BERCEAU-A-M6"
+    }
+  },
+  {
+    "command": "solid.cylinder",
+    "params": {
+      "radius": "m6_d/2",
+      "height": 10,
+      "base": [
+        0,
+        -1,
+        45.75
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "operation": "cut",
+      "targets": [
+        "BERCEAU-A"
+      ],
+      "name": "BERCEAU-A-M6"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "BERCEAU-B-Platine",
+      "body_name": "BERCEAU-B",
+      "corner": [
+        85,
+        0,
+        0
+      ],
+      "length": 30,
+      "width": 8,
+      "height": 56,
+      "operation": "new"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "BERCEAU-B-Tablette",
+      "body_name": null,
+      "corner": [
+        71,
+        7.8,
+        24
+      ],
+      "length": 44,
+      "width": 48.2,
+      "height": 8,
+      "operation": "join",
+      "targets": [
+        "BERCEAU-B"
+      ]
+    }
+  },
+  {
+    "command": "sketch.create",
+    "params": {
+      "plane": {
+        "origin": [
+          115,
+          0,
+          0
+        ],
+        "x_dir": [
+          0,
+          1,
+          0
+        ],
+        "y_dir": [
+          0,
+          0,
+          1
+        ]
+      },
+      "name": "BERCEAU-B-Nervure"
+    }
+  },
+  {
+    "command": "sketch.line",
+    "params": {
+      "points": [
+        [
+          7.8,
+          4
+        ],
+        [
+          56,
+          24
+        ],
+        [
+          56,
+          24.1
+        ],
+        [
+          7.8,
+          24.1
+        ]
+      ],
+      "closed": true
+    }
+  },
+  {
+    "command": "sketch.finish",
+    "params": {}
+  },
+  {
+    "command": "solid.extrude",
+    "params": {
+      "distance": 4,
+      "direction": "negative",
+      "operation": "join",
+      "targets": [
+        "BERCEAU-B"
+      ],
+      "name": "BERCEAU-B-Renfort"
+    }
+  },
+  {
+    "command": "sketch.create",
+    "params": {
+      "plane": {
+        "origin": [
+          89,
+          0,
+          0
+        ],
+        "x_dir": [
+          0,
+          1,
+          0
+        ],
+        "y_dir": [
+          0,
+          0,
+          1
+        ]
+      },
+      "name": "BERCEAU-B-Nervure"
+    }
+  },
+  {
+    "command": "sketch.line",
+    "params": {
+      "points": [
+        [
+          7.8,
+          4
+        ],
+        [
+          56,
+          24
+        ],
+        [
+          56,
+          24.1
+        ],
+        [
+          7.8,
+          24.1
+        ]
+      ],
+      "closed": true
+    }
+  },
+  {
+    "command": "sketch.finish",
+    "params": {}
+  },
+  {
+    "command": "solid.extrude",
+    "params": {
+      "distance": 4,
+      "direction": "negative",
+      "operation": "join",
+      "targets": [
+        "BERCEAU-B"
+      ],
+      "name": "BERCEAU-B-Renfort"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "BERCEAU-B-Bord-exterieur",
+      "body_name": null,
+      "corner": [
+        96.3,
+        8,
+        31.9
+      ],
+      "length": 18.7,
+      "width": 48,
+      "height": 1.1,
+      "operation": "join",
+      "targets": [
+        "BERCEAU-B"
+      ]
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "BERCEAU-B-Bord-interieur",
+      "body_name": null,
+      "corner": [
+        71.0,
+        8,
+        31.9
+      ],
+      "length": 9.2,
+      "width": 48,
+      "height": 1.1,
+      "operation": "join",
+      "targets": [
+        "BERCEAU-B"
+      ]
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "BERCEAU-B-Butee",
+      "body_name": null,
+      "corner": [
+        80.19999999999999,
+        16,
+        31.9
+      ],
+      "length": 16.1,
+      "width": 2,
+      "height": 2.1,
+      "operation": "join",
+      "targets": [
+        "BERCEAU-B"
+      ]
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "BERCEAU-B-Lumiere",
+      "body_name": null,
+      "corner": [
+        96.60000000000001,
+        -1,
+        10
+      ],
+      "length": 6.8,
+      "width": 10,
+      "height": 4,
+      "operation": "cut",
+      "targets": [
+        "BERCEAU-B"
+      ]
+    }
+  },
+  {
+    "command": "solid.cylinder",
+    "params": {
+      "radius": "m6_d/2",
+      "height": 10,
+      "base": [
+        100,
+        -1,
+        10
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "operation": "cut",
+      "targets": [
+        "BERCEAU-B"
+      ],
+      "name": "BERCEAU-B-M6"
+    }
+  },
+  {
+    "command": "solid.cylinder",
+    "params": {
+      "radius": "m6_d/2",
+      "height": 10,
+      "base": [
+        100,
+        -1,
+        14
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "operation": "cut",
+      "targets": [
+        "BERCEAU-B"
+      ],
+      "name": "BERCEAU-B-M6"
+    }
+  },
+  {
+    "command": "solid.box",
+    "params": {
+      "name": "BERCEAU-B-Lumiere",
+      "body_name": null,
+      "corner": [
+        96.60000000000001,
+        -1,
+        41.75
+      ],
+      "length": 6.8,
+      "width": 10,
+      "height": 4,
+      "operation": "cut",
+      "targets": [
+        "BERCEAU-B"
+      ]
+    }
+  },
+  {
+    "command": "solid.cylinder",
+    "params": {
+      "radius": "m6_d/2",
+      "height": 10,
+      "base": [
+        100,
+        -1,
+        41.75
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "operation": "cut",
+      "targets": [
+        "BERCEAU-B"
+      ],
+      "name": "BERCEAU-B-M6"
+    }
+  },
+  {
+    "command": "solid.cylinder",
+    "params": {
+      "radius": "m6_d/2",
+      "height": 10,
+      "base": [
+        100,
+        -1,
+        45.75
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "operation": "cut",
+      "targets": [
+        "BERCEAU-B"
+      ],
+      "name": "BERCEAU-B-M6"
+    }
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "id": 55,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"bytes\": 100193,\n  \"format\": \"ThreeMf\",\n  \"path\": \"./CAD/RackBladeSolidCraft/V6/exports/Q-AV-D.3mf\"\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

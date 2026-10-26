@@ -1,0 +1,12 @@
+{
+  "id": 11,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"completed\": 2,\n  \"ok\": true,\n  \"results\": [\n    {\n      \"changed_bodies\": [\n        \"BT-D\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 989,\n      \"ms\": 293.68083299999995,\n      \"name\": \"Retrait-obturation-exterieure-D\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    },\n    {\n      \"changed_bodies\": [\n        \"BT-G\"\n      ],\n      \"created_bodies\": [],\n      \"feature\": 990,\n      \"ms\": 596.613916,\n      \"name\": \"Retrait-obturation-exterieure-G\",\n      \"removed_bodies\": [],\n      \"warning\": null\n    }\n  ]\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

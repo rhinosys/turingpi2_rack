@@ -1,0 +1,68 @@
+[
+  {
+    "name": "PLANCHE",
+    "expected_mm3": 172995.45640670403,
+    "measured_mm3": 172995.9670634259,
+    "relative_error": 0.000002951850484791574
+  },
+  {
+    "name": "RAIL_3.1",
+    "expected_mm3": 4767.5,
+    "measured_mm3": 4767.5,
+    "relative_error": 0
+  },
+  {
+    "name": "RAIL_3.2",
+    "expected_mm3": 4760,
+    "measured_mm3": 4760,
+    "relative_error": 0
+  },
+  {
+    "name": "RAIL_3.3",
+    "expected_mm3": 4752.5,
+    "measured_mm3": 4752.500000000001,
+    "relative_error": 1.9137184676968505e-16
+  },
+  {
+    "name": "RAIL_3.4",
+    "expected_mm3": 4745,
+    "measured_mm3": 4745,
+    "relative_error": 0
+  },
+  {
+    "name": "RAIL_3.5",
+    "expected_mm3": 4737.5,
+    "measured_mm3": 4737.5,
+    "relative_error": 0
+  },
+  {
+    "name": "BIS_TEST",
+    "expected_mm3": 1294.92,
+    "measured_mm3": 1294.9200000000008,
+    "relative_error": 5.267669248522659e-16
+  },
+  {
+    "name": "BIS_X_TEST",
+    "expected_mm3": 1425.72,
+    "measured_mm3": 1425.7200000000003,
+    "relative_error": 1.594798946800438e-16
+  },
+  {
+    "name": "LANGUE_TEST",
+    "expected_mm3": 1417.5,
+    "measured_mm3": 1417.5000000000007,
+    "relative_error": 4.812141279221843e-16
+  },
+  {
+    "name": "M3_VERTICAL",
+    "expected_mm3": 17674.322073674903,
+    "measured_mm3": 17674.399669011134,
+    "relative_error": 0.000004390286422771882
+  },
+  {
+    "name": "M4_VERTICAL",
+    "expected_mm3": 17011.261706533947,
+    "measured_mm3": 17011.375302426484,
+    "relative_error": 0.00000667768766930122
+  }
+]

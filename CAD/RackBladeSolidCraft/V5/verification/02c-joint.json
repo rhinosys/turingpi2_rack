@@ -1,0 +1,12 @@
+{
+  "id": 12,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"bodies\": [\n    \"Q-AV-D\",\n    \"Q-AR-D\",\n    \"Q-AV-G-EAR\",\n    \"Q-AR-G\",\n    \"CL-AV\",\n    \"CL-AR\",\n    \"BT-D\",\n    \"BT-G\",\n    \"EAR-D\",\n    \"BF-D\",\n    \"BF-G\",\n    \"TOP-AV-D\",\n    \"TOP-AR-D\",\n    \"TOP-AV-G\",\n    \"TOP-AR-G\",\n    \"REF_TP2_R\",\n    \"REF_MODULES_R\",\n    \"REF_NVME_R\",\n    \"REF_PSU_R\",\n    \"REF_FAN_R\",\n    \"REF_TP2_L\",\n    \"REF_MODULES_L\",\n    \"REF_NVME_L\",\n    \"REF_PSU_L\",\n    \"REF_FAN_L\",\n    \"BIS\",\n    \"BIS-X\",\n    \"HANDLE-G\",\n    \"HANDLE-D\",\n    \"BIS-BOT-X50\",\n    \"BIS-BOT-X130\",\n    \"BIS-BOT-X290\",\n    \"BIS-BOT-X370\",\n    \"BIS-BOT-Y-160\",\n    \"BIS-BOT-Y-60\",\n    \"BIS-BOT-Y60\",\n    \"BIS-BOT-Y160\",\n    \"BIS-X-BOT\",\n    \"BIS-TOP-X50\",\n    \"BIS-TOP-X130\",\n    \"BIS-TOP-X290\",\n    \"BIS-TOP-X370\",\n    \"BIS-TOP-Y-160\",\n    \"BIS-TOP-Y-60\",\n    \"BIS-TOP-Y60\",\n    \"BIS-TOP-Y160\",\n    \"BIS-X-TOP\",\n    \"FOND-AR-D\",\n    \"ECLISSE-D-1\",\n    \"ECLISSE-D-2\",\n    \"FOND-AR-G\",\n    \"ECLISSE-G-1\",\n    \"ECLISSE-G-2\"\n  ],\n  \"changed_bodies\": [\n    \"Q-AR-D\",\n    \"Q-AR-G\"\n  ],\n  \"created_bodies\": [],\n  \"feature\": 673,\n  \"ms\": 314.075625,\n  \"name\": \"Jeu-joint-central-arriere-V5\",\n  \"removed_bodies\": [],\n  \"warning\": null\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

@@ -1,0 +1,4327 @@
+[
+  {
+    "path": "CAD/RackBladeSolidCraft/BOM.md",
+    "bytes": 2722,
+    "sha256": "4eb9801768895550f73be1fd9bb7e0d833e58134098207cd70ab45224888086b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/CAHIER_DES_CHARGES.txt",
+    "bytes": 21160,
+    "sha256": "2f780e56891f6114a4098d2e1aedfcf08bc4f28f6c5a3a4f03108a9f3ebc850d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/LIRE_R4.md",
+    "bytes": 1923,
+    "sha256": "9010d01c41d041bc2588f7778021ef24cfefa1f292426bd9b6f3df2940f4b5b2"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/LIRE_V5.md",
+    "bytes": 946,
+    "sha256": "12192509d196757e8791f989c673244a5f5894abd8ae5c03ceef87edb44ba223"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/NOTICE_IMPRESSION_MONTAGE_V1.md",
+    "bytes": 16830,
+    "sha256": "a3262dda8589dae70ef56adfdf60ccb6264a9bc3eb87309e033c7cbf2191fa09"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/RAPPORT_VERIFICATION.md",
+    "bytes": 4194,
+    "sha256": "784471c3527583525941ea19f0c59fd2d365b0c3a2410ec8ec97b13c7554d39c"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/RAPPORT_VERIFICATION_R1.md",
+    "bytes": 11295,
+    "sha256": "3b17668d8ab90b5e136d9339abf50a6f0673ab1279d651c6ccf622e6eb567fa4"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/RAPPORT_VERIFICATION_R2.md",
+    "bytes": 5958,
+    "sha256": "ff64121b79d0337a955cad3b86287478863a74e0cb16995e085ba09056131af8"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/README.md",
+    "bytes": 4253,
+    "sha256": "c9b1767d9d04d2560b7d7c47bdd367da2706469c850c193e47c73ca8077f99a9"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/RackTuringPi2_Complet_R4.solidcraft",
+    "bytes": 21453016,
+    "sha256": "cbde366734e9f02626c724bb8466fe08bc723e551d157aa4ce19662f969f5455"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/RackTuringPi2_Complet_V5.solidcraft",
+    "bytes": 54406,
+    "sha256": "64568347ccd7379df42e3ff0af2c6e775a4ca6391e6e29ed1e8f46164c22e971"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/RackTuringPi2_Complet_V6.solidcraft",
+    "bytes": 59750,
+    "sha256": "93d168caababab24245afd920d4a77b129a258d2af5f93811a04132da6dada45"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/RackTuringPi2_Complet_V7.solidcraft",
+    "bytes": 64439,
+    "sha256": "522880d127ef4477bb7af576f94a892bfd03326f34d009245eb52e67448db3ae"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/RackTuringPi2_SolidCraft.solidcraft",
+    "bytes": 20661987,
+    "sha256": "0fb816871af5d92bff6a0a7f7e587e191bcc34a0eb162e39d8fd259d7917a47d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/.gitignore",
+    "bytes": 90,
+    "sha256": "816ef68875be16e1afab1bb9158a4d8e1b9832577e11fdb75f2e8aba0ed74037"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/Montage_3D.png",
+    "bytes": 104442,
+    "sha256": "0703fd88ac4a2799675a4273707039c471f17ae7446cdcd647320b9bc51f0f08"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/Montage_berceaux_reference.solidcraft",
+    "bytes": 175057,
+    "sha256": "78a32413f465f34c299f02468ac52a825dd160c538b01169e4ca15232f57d4ad"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/Plateau_4_berceaux.png",
+    "bytes": 13838,
+    "sha256": "3bc61cf7e5bd1132bc1a6abeb57b8dcd88ea2adc8c2ca992dd3bf7a527bd88a8"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/Plateau_4_berceaux_PETG_noir.3mf",
+    "bytes": 1986163,
+    "sha256": "27e385b28f777de3cde0291359f037c19a299f2050e59e249ee2e92d307f91cb"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/.gitignore",
+    "bytes": 90,
+    "sha256": "816ef68875be16e1afab1bb9158a4d8e1b9832577e11fdb75f2e8aba0ed74037"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/Montage_arriere_M4.png",
+    "bytes": 110298,
+    "sha256": "3858d8761eecfb9f0331345708e2813d42026a0a1996b5a1c20308790c3c11de"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/Montage_berceaux_reference.solidcraft",
+    "bytes": 615628,
+    "sha256": "665be340c7b106cda0a778ef1fc8e444447ed4544c7dcdb2aeb860dd1f606f1d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/Plateau_2_arriere_M4_R2.png",
+    "bytes": 10537,
+    "sha256": "b796fcdb851f6e7bf604e175cae802a9675a7789c7777a7cff12f6b0e086941f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/Plateau_2_arriere_M4_R2_PETG_noir.3mf",
+    "bytes": 2067607,
+    "sha256": "cd0de198c519eadfd7688c902596f0eeb35f4dba30282c553248b32f9dea3e66"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/Plateau_4_supports_R2.png",
+    "bytes": 13639,
+    "sha256": "7823a28184e5111e64df98cf84adaf3bcc00d27677756edfc215d37b702629cf"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/Plateau_4_supports_R2_PETG_noir.3mf",
+    "bytes": 3487708,
+    "sha256": "ae38e0df185f1a6db1a57af514410e82606f04ad08591f0c9445a9ac70a5d734"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/README.md",
+    "bytes": 5746,
+    "sha256": "a38ed8ab0e1f7547bef909dbe0f6839588092ac98659a8b57e285de0e7581de4"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/Supports_Rails_L_PETG_R2.solidcraft",
+    "bytes": 574919,
+    "sha256": "19512349f30564ef3e89cc643bfd2256cd6b89eb17faf611a1c84c990f3f65c3"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/audit.py",
+    "bytes": 2172,
+    "sha256": "11ef8896e25d69db8dd583d5a3573ae76fe29fe0a1f508cb264f7f9e4ba0f8c0"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/build.py",
+    "bytes": 7797,
+    "sha256": "88561b17e2b58e70a746499607098d733c2c2fcc932e02846082e136924b3446"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/commands.json",
+    "bytes": 27769,
+    "sha256": "06115f55d834246a2e7e692182f2d06e9099beebad774c4317d8f5e3d9751fc5"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/exports/AR-A.3mf",
+    "bytes": 19995,
+    "sha256": "257c95d8d5de8d58fb62e0634a95a944cea4287a54268b18c29c75f6f971c5b0"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/exports/AR-A.step",
+    "bytes": 103011,
+    "sha256": "4d25ec43d7d0beeab5f40ee4db9a00088cb723841159375fddf7388ae7ff05b8"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/exports/AR-B.3mf",
+    "bytes": 563100,
+    "sha256": "08e736fc48deb6d201e826492bd9d870bc79f199b93e1e7c541005e80a299bfb"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/exports/AR-B.step",
+    "bytes": 105914,
+    "sha256": "a2abc85d9325bd1f670a1d090ba678dfdbfc9d743b468477ad4e5dfa413a6d61"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/exports/AV-A.3mf",
+    "bytes": 9486,
+    "sha256": "f5432d03af02bd55b940674255db38208e50d35e1c92f6d6f9e34996fd84c082"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/exports/AV-A.step",
+    "bytes": 47269,
+    "sha256": "10cbe541f7902854de2810bea19335862b517396402284fadc7b02fbebb29070"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/exports/AV-B.3mf",
+    "bytes": 9418,
+    "sha256": "afc281dfee461a569aac00353763bd24f17dc0d37154e85dbf684928f2dc584f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/exports/AV-B.step",
+    "bytes": 46020,
+    "sha256": "bec39a49636071f8548ab8e02339e990dfd1983b97fd14894d456ab1e3eda05e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/exports/Montage_berceaux_reference.step",
+    "bytes": 261444,
+    "sha256": "c925ea246ee2ed7f96baa44eb3322a7b133d063727cdc08490b001366ad8ff55"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/exports/Supports_Rails_L.step",
+    "bytes": 289691,
+    "sha256": "46b79e9cbe8bffac8927741575be10f8a22fdbb80847b977a5c11e077c5d7a3b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/prepare_plate.py",
+    "bytes": 4595,
+    "sha256": "8d5b9563ec02153b505ace1bf2c03e09bee2ba8a1dde0ed0beba348d6ce9f264"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/remesh.py",
+    "bytes": 2369,
+    "sha256": "5d394d8256cf97ccc04dcdf20c09a560d5c2ae664a9c05a4a0a35ae530f2d175"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/verification/AR-A-3mf.json",
+    "bytes": 268,
+    "sha256": "96666ec3f1d8594ac81fb699112acad55941fbc31bc849a853c611e77231b5dc"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/verification/AR-A-step.json",
+    "bytes": 267,
+    "sha256": "b76c169efaaa1609c1a43dc499b89f18702d867ddf8b43904a5727faeebde497"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/verification/AR-B-3mf.json",
+    "bytes": 268,
+    "sha256": "99fa55602df589534fc70bbf5fecf36e2127a96869588f9a2403a8b9c8a446f5"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/verification/AR-B-step.json",
+    "bytes": 267,
+    "sha256": "eac128ceb639d81ceb3777804448820fd4d563202820f8409d06b6d08facffe6"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/verification/AV-A-3mf.json",
+    "bytes": 267,
+    "sha256": "679a9d166308c3db22d1d0f40804c3bb5bbf422c40a719be8db9af0a94bbde4a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/verification/AV-A-step.json",
+    "bytes": 266,
+    "sha256": "e39f94047bc4566bfd8c4809cf684caaa990506327693327a1c8154a7880bf3c"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/verification/AV-B-3mf.json",
+    "bytes": 267,
+    "sha256": "d3bbb6b4587cca10a775127bf1a68090fed9abfa7f913a00d32517dec0b5e30d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/verification/AV-B-step.json",
+    "bytes": 266,
+    "sha256": "3a0a9b7356d5420e8a1237598ea32c920a9ebf824d6f3d563acaaf71c4fbcd19"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/verification/Plateau_2_arriere_M4_R2.json",
+    "bytes": 842,
+    "sha256": "5c3a56a3cb1b525d25c1977d8225e1d8bfdee05abf3ba74d061eac8a58806cfc"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/verification/Plateau_4_supports_R2.json",
+    "bytes": 943,
+    "sha256": "c76f6d47e9e747cb2f97b94337e91d46a70d438f0db7d86966b2e27d578c2249"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/verification/build.json",
+    "bytes": 25865,
+    "sha256": "cc57027e66eb5f9a673f0771aad292bc53fc96cb2eefafc8f233d3dbdbb27229"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/verification/demo-save.json",
+    "bytes": 307,
+    "sha256": "8213de3b9dc4dc391ed6917b71fbfaf60165b79b3655887c1b5ad3f5a7ff0748"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/verification/demo-step.json",
+    "bytes": 289,
+    "sha256": "f276d9aee0077e8d70d60853cc858c12cfe803c5745b76614a10b7fdd12642bb"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/verification/inspect.json",
+    "bytes": 32575,
+    "sha256": "ad70f6e034c9844460acddb77a9220e8f5cfee71d6bbb044d67211a14bcbae0a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/verification/interference.json",
+    "bytes": 2912,
+    "sha256": "64e907d924799fd52abf580b5a07bae2a814d3dcbb57cc39afa1d09b91ea84ea"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/verification/measure-rotated.json",
+    "bytes": 9152,
+    "sha256": "f00f7a51eda43075b44e12fa29b14f79116d997fc31f79a118ea18e2a3f13b16"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/verification/measure.json",
+    "bytes": 3782,
+    "sha256": "4902c3af3c6f49a2a1125d277fccb04839c7ac464a77328c838b78ba3f586ba5"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/verification/mesh-audit.json",
+    "bytes": 1072,
+    "sha256": "8127248ff79c51834ee571daebc599d8ecd6d66f7e4143e2919de71cfaca5544"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/verification/metadata-normalization.json",
+    "bytes": 217,
+    "sha256": "fd808a2e872c9dac48eb1d8c1992980d3ece1dfcf6566cf3d9281b77a99cde29"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/verification/new.json",
+    "bytes": 180,
+    "sha256": "0193b24c4860ed357fe807a1d68b061c552f2a4325ce0a504b95affde525d313"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/verification/normalize.json",
+    "bytes": 1165,
+    "sha256": "098617436caf445a06b77e9fa3eaf9b8ddede960122ee2dd23ba96be687275ba"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/verification/orient.json",
+    "bytes": 1152,
+    "sha256": "761a9537f15fe2856b2a17b0ee7ae7a50fc0ee747d1c2122880462419e1f6c65"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/verification/reference-rails.json",
+    "bytes": 5463,
+    "sha256": "4d3554ddff34c7914868360be4de4781fbecc524697441c5fb5a8371dd0293c2"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/verification/remesh-AR-B.json",
+    "bytes": 141,
+    "sha256": "2386ac3bc20d02a03dcbbf2d9618dc2f61b20f04a72d80cd8a90371ebc994bef"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/verification/save.json",
+    "bytes": 302,
+    "sha256": "1e0f21b3fa3edbec371b6568cd3195e79be6907c50026ad6199cb1b906347ebd"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R2/verification/step.json",
+    "bytes": 278,
+    "sha256": "e549f108903694010875c58b9b1ddabb0c723fc8805636e59f223057056fc2ef"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/.gitignore",
+    "bytes": 90,
+    "sha256": "816ef68875be16e1afab1bb9158a4d8e1b9832577e11fdb75f2e8aba0ed74037"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/Montage_berceaux_reference.solidcraft",
+    "bytes": 618462,
+    "sha256": "813ad3199f4cdb7a87082cbf4744b046be711636e259755278bccea8ac03d6d3"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/Plateau_2_arriere_M4_R3.png",
+    "bytes": 10230,
+    "sha256": "75707b3a3c2cb92b358d7f50b7c45932fea42aecffd03dd904c308d829a51b7d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/Plateau_2_arriere_M4_R3_PETG_noir.3mf",
+    "bytes": 2150233,
+    "sha256": "b4d7fecded8a852ed616297fad27b08d35f711c012e5e8d44005ff0392d5158b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/Plateau_4_supports_R3.png",
+    "bytes": 13543,
+    "sha256": "9ceb047bab215a693f95f8cae08da40761fbe2180b012c3a1fa2758ad46a31c9"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/Plateau_4_supports_R3_PETG_noir.3mf",
+    "bytes": 3570239,
+    "sha256": "6a79e5b4dcb8f92db0ce95da2b6f21aa9a04dfe316d1e709ddece9158e25c450"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/README.md",
+    "bytes": 6386,
+    "sha256": "25ac3ca7150593f03ed8518e545e1a8311c8c3b83ba326685a728c9f44476a59"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/Supports_Rails_L_PETG_R3.solidcraft",
+    "bytes": 579160,
+    "sha256": "885172ef1f16045394a6f69ce265cf1a0ce6e429c5b25324b7adc135dc65eb5f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/audit.py",
+    "bytes": 2172,
+    "sha256": "d359628f248b2298370884ab9e9a65baaa3a52af0dffdaed7c91a77108b422d0"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/build.py",
+    "bytes": 8117,
+    "sha256": "dc49a899373cffdbd4ae947ca208fa7796ab2f09b72b74019bae9b680ea0f22e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/commands.json",
+    "bytes": 27769,
+    "sha256": "d0ec12603f90edbb586fa7e0b5d68edcf2e4a08b1f583977d1dd43e7d325fd96"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/exports/AR-A.3mf",
+    "bytes": 19838,
+    "sha256": "d163367c07757d268bffe7a5ecc2e14c9c2614cb3225423d61093cf2a449db78"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/exports/AR-A.step",
+    "bytes": 103699,
+    "sha256": "20110d248664501ca13dd7d22e737c67f33f78c628fdd57cd3aecbeb0bb82d1c"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/exports/AR-B.3mf",
+    "bytes": 574941,
+    "sha256": "be42a484f49762ef0363dfd0d604b41131a80d36ff856c583b9eeadada3cbe56"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/exports/AR-B.step",
+    "bytes": 105270,
+    "sha256": "1211baffebbe77e2b92b932df9d4178de686279fe21361d73170cf37af81f316"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/exports/AV-A.3mf",
+    "bytes": 9486,
+    "sha256": "f5432d03af02bd55b940674255db38208e50d35e1c92f6d6f9e34996fd84c082"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/exports/AV-A.step",
+    "bytes": 47269,
+    "sha256": "10cbe541f7902854de2810bea19335862b517396402284fadc7b02fbebb29070"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/exports/AV-B.3mf",
+    "bytes": 9418,
+    "sha256": "afc281dfee461a569aac00353763bd24f17dc0d37154e85dbf684928f2dc584f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/exports/AV-B.step",
+    "bytes": 46020,
+    "sha256": "bec39a49636071f8548ab8e02339e990dfd1983b97fd14894d456ab1e3eda05e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/exports/Montage_berceaux_reference.step",
+    "bytes": 260836,
+    "sha256": "b8f7f944e8c400ce91fe9e2b040894e81a4b647328b58578178d68f96b2a3409"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/exports/Supports_Rails_L.step",
+    "bytes": 288853,
+    "sha256": "d9e274ef2b365e53de7928df34d7cc8500b371668731f1893c619416e4db0d75"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/prepare_plate.py",
+    "bytes": 4595,
+    "sha256": "1c3dfb87ab974566e125270ddc184760fe1ebf7ce6f27e8320423268cdb2b755"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/remesh.py",
+    "bytes": 2369,
+    "sha256": "5d394d8256cf97ccc04dcdf20c09a560d5c2ae664a9c05a4a0a35ae530f2d175"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/verification/AR-A-3mf.json",
+    "bytes": 268,
+    "sha256": "1cf93e5c3432376a62120bdf58e44b262e37f5fb8c2414efcce71c480edf0735"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/verification/AR-A-step.json",
+    "bytes": 267,
+    "sha256": "2f2123e9f88984f10c01c107c72f63abe163db600b7cc7687b2be95b03a97d48"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/verification/AR-B-3mf.json",
+    "bytes": 268,
+    "sha256": "4f8a7cc6d84526c496d6efe63edf9b01bda2aa681500c626d870476d0ff25d45"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/verification/AR-B-step.json",
+    "bytes": 267,
+    "sha256": "ea9c79615dae237a92211d4556f2601a76ffabc4cc87981aa7d8cc98d2c98ba1"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/verification/AV-A-3mf.json",
+    "bytes": 267,
+    "sha256": "9be070e7eb5ef4d467f97dcd0f884b252b74eb75d1b5cb92654c7e24825d69b8"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/verification/AV-A-step.json",
+    "bytes": 266,
+    "sha256": "7279162b8224e41e2d504817977440e81a80396899eb1d15db1a80f2edd1cf47"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/verification/AV-B-3mf.json",
+    "bytes": 267,
+    "sha256": "1ee31841b322814ea3c8b7c532479ddd4695a00a559225ffac502346af16d706"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/verification/AV-B-step.json",
+    "bytes": 266,
+    "sha256": "c965a65b69237af4ebf97e02323c339d423af31ab6becf4e615d739ca0c79122"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/verification/Plateau_2_arriere_M4_R3.json",
+    "bytes": 831,
+    "sha256": "b39f11356a6f35fdabfc30da7efcd835785ab38e10c40d2ae820d4edbfdf07d6"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/verification/Plateau_4_supports_R3.json",
+    "bytes": 942,
+    "sha256": "8288665c0cf8bd0bc6a201bdacc5da77c3a260277eeb0722f2298db3b468ad03"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/verification/build.json",
+    "bytes": 25944,
+    "sha256": "662d19f9590202568d9c2f0df164729cb1bcb89f2ef578552a918a29c077b080"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/verification/demo-save.json",
+    "bytes": 307,
+    "sha256": "c616abb2d090a8966b538ce6e47fcdf8d03c6bcee05548a667927dada178d75f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/verification/demo-step.json",
+    "bytes": 289,
+    "sha256": "306f8af7c6a3bcbbf2012a35fed93a45009178ed49e585702eb3df4481e18a68"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/verification/inspect.json",
+    "bytes": 32688,
+    "sha256": "413ad45fc8de355fdd0478a5fb6cc8dfedd9fd8f4949155fc177965e1d1ac0ac"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/verification/interference.json",
+    "bytes": 2311,
+    "sha256": "61236dbd7841571857de5af82863f4dd14271cb098f15a61a44ce624804e17e0"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/verification/measure-rotated.json",
+    "bytes": 9132,
+    "sha256": "e3814c551965c2671577e74e1708356a680867b260d824629e4fd713f5187ff5"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/verification/measure.json",
+    "bytes": 3832,
+    "sha256": "3f7b6d9fb7990a11751f163ebe7889ec6e7fcf3dbbd66707b24e23368dbe757f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/verification/mesh-audit.json",
+    "bytes": 1081,
+    "sha256": "dab51490ca418f6eb5c3b416b5ec04026b3538ca10934f36ceda5c50fb828fc3"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/verification/new.json",
+    "bytes": 180,
+    "sha256": "b8276f211cacd041bb306f94290a91c11dfab16236da596eb6ad10f04c9663a0"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/verification/normalize.json",
+    "bytes": 1166,
+    "sha256": "4e62dedb6085064c7fd414b8d70a7ec1a4c75b3ac714f33e31af97a424061f41"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/verification/orient.json",
+    "bytes": 1154,
+    "sha256": "45369f8578866cf8f5eaba0ed15ac13b873ab6097e080a91eeda3420158561fd"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/verification/reference-rails.json",
+    "bytes": 5471,
+    "sha256": "b7eaf92ba210ca91308fafe3b991834cbca2288f4d8aa8f60cfc9b9ada681053"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/verification/remesh-AR-B.json",
+    "bytes": 141,
+    "sha256": "a547d275aa2a2a7b973a419c9f9ce65b2e42fd8c7a2cd4c135255559a370b0ea"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/verification/save.json",
+    "bytes": 302,
+    "sha256": "e540f8e161eb436b5a7f5ee39e6917b98622d88f4580b15cba261ee1ace4b37b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/R3/verification/step.json",
+    "bytes": 278,
+    "sha256": "d18c950f7723ae78a3d8507e260bce71bfbf67e6d54045e20847bc5f1f1bc65b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/README.md",
+    "bytes": 6768,
+    "sha256": "6b64a38b4e57263259b8bf67ffb6d6ad848f969e059a0c812382987b197a3a7b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/Supports_Rails_L_PETG_R1.solidcraft",
+    "bytes": 168638,
+    "sha256": "2e7b3567f69a53b8a1eebb6f662f81704b2a19104c26dff43d31d8ae0b74394d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/audit.py",
+    "bytes": 1718,
+    "sha256": "d496633a13b579c4964e97250dc10a1c666ff5223afeb14658c6443dd1d9b258"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/build.py",
+    "bytes": 4612,
+    "sha256": "2e954346c1455f725ccff75f2bb54358f83e851da40b5d4bcea303d5ed7b06db"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/commands.json",
+    "bytes": 10848,
+    "sha256": "bbb54a2da58dbec02d98c5d361c2cfb858a4782f0ce992cf99895f107b081677"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/exports/BERCEAU-A.3mf",
+    "bytes": 9496,
+    "sha256": "88c390eddebf04182273aa33a1b844560531d21167691f77f196ab7c19038554"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/exports/BERCEAU-A.step",
+    "bytes": 47299,
+    "sha256": "62288e355c11e80056e6c88d41ed1933ce11aa2b6b2ba52d55cb8cd5a19a0925"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/exports/BERCEAU-B.3mf",
+    "bytes": 9428,
+    "sha256": "8dbd58b9455282f425d869a0bcfa97e264e4676902067fc512799fc0303f16e6"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/exports/BERCEAU-B.step",
+    "bytes": 46050,
+    "sha256": "55720837a2f9f8dac1804e95c80971ed15b2f22d70692921d11c309e85b1006f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/exports/Montage_berceaux_reference.step",
+    "bytes": 102133,
+    "sha256": "1e7c8014e3a34c40bf3524f34390905129a108822167307edbaa7d8e1afd1553"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/exports/Supports_Rails_L.step",
+    "bytes": 91184,
+    "sha256": "eb5e836c7ddb005eeab8e31e10762f5228c26aa7c0210c3ce7681ee0f7016b4f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/prepare_plate.py",
+    "bytes": 3926,
+    "sha256": "94070adee27b509e8e6dc65336ef4d375d7eca0140fc831c9d8738de5805be46"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/verification/BERCEAU-A-3mf.json",
+    "bytes": 269,
+    "sha256": "6e39d0bc4a1298c63ff0f59315550c595012b57cf3707f9c5e8513ec83d41b31"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/verification/BERCEAU-A-step.json",
+    "bytes": 268,
+    "sha256": "4b947ff4038f4c8ef2a5f51c116a5eb6a197b3ad9ec2c052763d364e6d7f1f7a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/verification/BERCEAU-B-3mf.json",
+    "bytes": 269,
+    "sha256": "e6460616191621a6a9ed7a1b0bf255ce64e457eb35520e8ba0e3d783c6d26d9e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/verification/BERCEAU-B-step.json",
+    "bytes": 268,
+    "sha256": "d0c2e8bccd944e0ba17d3f15d6c4eaf6dff4cd3d5d7d1575ea76e5012129b4c4"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/verification/build.json",
+    "bytes": 10092,
+    "sha256": "6f507639920dc9b65f9022bc7cbfe7bd3196ca4c1e9e0cd3e930dbd1b613d4ca"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/verification/demo-save.json",
+    "bytes": 303,
+    "sha256": "e8db25ab831ec29f46b8ec28a0ede4ef91986f8b4c58e4fe19e899c43b92a4c0"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/verification/demo-step.json",
+    "bytes": 286,
+    "sha256": "3da61626d87190a1732b3a412a69aea6e6dc89669d14cb1ecaafe9393f99f881"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/verification/inspect.json",
+    "bytes": 12939,
+    "sha256": "1ea8a02dc116ad8e5d2e5f3cd0e8f3449d114b66b5a4bf9f9afd7a741624f51b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/verification/measure-rotated.json",
+    "bytes": 3650,
+    "sha256": "9340a1c7727d2d06d2845a855446c114d3ff97637682c7ac2aaac7e31ae1a4cb"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/verification/measure.json",
+    "bytes": 2103,
+    "sha256": "3243ab233a2d69893388509cbbe14a9b74256721a3a3c0d74f311a8cca5afb2b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/verification/mesh-audit.json",
+    "bytes": 535,
+    "sha256": "672f5b11e4757e649157d6e504296166a004305c73133c883cd2057bb061424f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/verification/new.json",
+    "bytes": 180,
+    "sha256": "39108f8eb9edd3d3c756e2db691c047e291dbfdb7df7bd046671a707d04e9a8d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/verification/normalize.json",
+    "bytes": 680,
+    "sha256": "f28f199d82eaf49226d6273ff226d21f2beb34d4db56dba9d5e922218cd9a78d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/verification/orient.json",
+    "bytes": 703,
+    "sha256": "04873f15c5f952071b07427aba3ad50e25c3854f24bfa54e55e204567e97ed0c"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/verification/plateau.json",
+    "bytes": 962,
+    "sha256": "f80d04201095e47ac482f463b4d48ec1da33191630c901c2e2941f3af41e983d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/verification/reference-rails.json",
+    "bytes": 1172,
+    "sha256": "ba9af87ce2255985b12fcbe31c3dd9d3b3ef43471432bec9fa2aa0dce6e48e74"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/verification/save.json",
+    "bytes": 299,
+    "sha256": "35d3ab5cf70a007751d95e5433b624edbc4d6c7786fe42817cf54c1ae187c640"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Supports_Rails_L/verification/step.json",
+    "bytes": 274,
+    "sha256": "cc2526c716cb03adc3fb592a9be0a071beac08b492612fde3872385c50170515"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Tolerances/README.md",
+    "bytes": 5302,
+    "sha256": "2642befba208158ed19870ad1f8bc95f3b80f0c1d922fae13f6647d935255489"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Tolerances/Rack_Tolerance_PETG_Noir_X1C.3mf",
+    "bytes": 315796,
+    "sha256": "27094b8ebb225eb8049fc71082f446b441573f52db6750dd7514048212d51897"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Tolerances/Rack_Tolerance_PETG_R1.3mf",
+    "bytes": 261547,
+    "sha256": "e5f8d1fa83ebbdd13afc9178168cade151d3ece745c5602bfdf6e85dc2ff2e43"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Tolerances/Rack_Tolerance_PETG_R1.solidcraft",
+    "bytes": 1854337,
+    "sha256": "524da52356586fc5d690705dda6ff018cfc7dfedb3ad204f7ce378356988bc6e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Tolerances/Rack_Tolerance_PETG_R1.step",
+    "bytes": 3898003,
+    "sha256": "c2821295855ea063c9c9c4fdf65fc702efc5ca777c79345d5b9761f6dc598633"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Tolerances/Rack_Tolerance_PETG_R1.stl",
+    "bytes": 1325384,
+    "sha256": "b7b9eb2f38281520b1641ed046806097eb09dab94946e0239ff5410a422ecd54"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Tolerances/Tolerance_iso.png",
+    "bytes": 135635,
+    "sha256": "c61925a0665910306c8b904bfce54d567b838d6b7eaa23850aceb47f6c5e071d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Tolerances/Tolerance_top.png",
+    "bytes": 63583,
+    "sha256": "7c708ce554b40ff8bcb04c36754dcaff4067d0f8a55749940f637481dd91a0ff"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Tolerances/impression-petg-noir.txt",
+    "bytes": 816,
+    "sha256": "4150f90a0526a37c756bebaa8f32d6a55b7b92058752d41073dcac27f3ceaac5"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Tolerances/reglages.txt",
+    "bytes": 199,
+    "sha256": "76e8cc74cdf8b7e56b9ccb07ffca33a230d970721fe3d0305cf8848b345a8248"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Tolerances/resultats.csv",
+    "bytes": 1080,
+    "sha256": "b32c911b23a2c39eccb55df6635495022c7ce986c984f2f2bbfdd4058cab46eb"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Tolerances/verification/audit.py",
+    "bytes": 2329,
+    "sha256": "2db317283f8c8c7ceb1be0be4904cfb72fdc6625dd9475a075750e1b6d4ac236"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Tolerances/verification/build.json",
+    "bytes": 30377,
+    "sha256": "e3d8808f456508b30b032fe5c0d4ae71ba433501a8caea68f3820a9e33ae1f4b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Tolerances/verification/measure.json",
+    "bytes": 8619,
+    "sha256": "8dd8c2c90ff4f9906fb6664c05200ab74ce6f00aba326404f8b6a63a23bd0373"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Tolerances/verification/mesh-audit.json",
+    "bytes": 3604,
+    "sha256": "6ee0ea903644005881f3929f2fe1c203e416f4d1bb2f196183787e226f33e1b5"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Tolerances/verification/timeline.json",
+    "bytes": 13524,
+    "sha256": "2cedf0cf6da5c65487bdc3112bc71a375b5e3ae4e0b41824d49a004d0c4ee8a9"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Tolerances/verification/volume-checks.json",
+    "bytes": 1514,
+    "sha256": "4e9644144f6edddbb793ef6de4873d6612fda626e03e6229afaaa76584c3ac5e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/01-chassis.json",
+    "bytes": 14181,
+    "sha256": "e8bccbd49a9c7a130c263dcc40e346f126cb39e8890757807593ad2a2aa0da34"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/02-cassettes.json",
+    "bytes": 30215,
+    "sha256": "e2b6cc89c3aa002c99eb1f565d9b6b72b9b0e0b03bf7fd7afb2d617e2e608250"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/02b-ouvertures.json",
+    "bytes": 3133,
+    "sha256": "3469280a01d9eb7ed578402c736e665b5c9b56de463f0baf5fb2a54ea9986ea8"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/02c-joint.json",
+    "bytes": 364,
+    "sha256": "207ac5861ebd80796c2a689e538c00bde1e3f1c9e39952e12d8ec4df783111ac"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/03-groups.json",
+    "bytes": 959,
+    "sha256": "acc113f5fb2b0d52166dbabc390f4b4e796c1fd5299471f018bfe45163c77a18"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/04-reprise-rails.json",
+    "bytes": 2152,
+    "sha256": "c193569bcec81363a1051a348f9eae77e828ae7d5c3e738d2323cdf94b559203"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/05-rails-recouvrement.json",
+    "bytes": 726,
+    "sha256": "871b6f4f37261ac80f4a1ed425340ba7631793674491e52a4cdd99fbf954eeb1"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/NOMENCLATURE.csv",
+    "bytes": 1018,
+    "sha256": "b435a206804e4ddea10a6f4210d9baa7d85ebe9d2d65930e76b37ae2946b4544"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/README.md",
+    "bytes": 10214,
+    "sha256": "6946445c2325b781dc4db1d3b38f9f26dc2a2e9275a4c7e78922524dccc3190f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/audit_3mf.py",
+    "bytes": 2324,
+    "sha256": "ce718666fbc2df7c5e17f9706f2be5b64ff47377dc430e6a8bcfa4c558c2b1e0"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/blade-D.json",
+    "bytes": 165,
+    "sha256": "b7eb2666670044f2058809100b21469235b6de879c16fa5184f563d8f28253e5"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/blade-G.json",
+    "bytes": 165,
+    "sha256": "432ebc4c6fa5269bcd7681d3d0506c38898b38fbd4ab341f43950a859dc78722"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/build_commands.py",
+    "bytes": 4803,
+    "sha256": "0569a9e7bd0e9f13cb7cfbc98f4b59c489a07e4fb5cdb35159bef7124ab8fe63"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/cassette-complete.png",
+    "bytes": 159729,
+    "sha256": "a932be52cbfe392fc26ab4d5c9fca0f20794f96953826d1447fc0e1c5ed5c103"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/export-assembly-requests.jsonl",
+    "bytes": 1441,
+    "sha256": "b9820f37153e461c1a60a223339872ae7729bfe5e56fc17dc9893805f155c747"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/export-repaired-requests.jsonl",
+    "bytes": 1590,
+    "sha256": "488e945100f05a4dea3fb4878386a901adf8c29a9d7cf5588aa49e05603426ff"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/Assemblage_V5.step",
+    "bytes": 7335058,
+    "sha256": "faa9ef6663503293ad69e006b499f8cd11ef05f8eac8c48904cd83fab31bf319"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/BF-D.3mf",
+    "bytes": 32778,
+    "sha256": "6edcf005390ff9c0dc4302c42d3bc0f10367df57db47d21ec3cdbf36e827f4b5"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/BF-G.3mf",
+    "bytes": 35054,
+    "sha256": "424b69d0aac9230be9948a3160af78e954c33065af6f7c10d7b7e1b5899a4173"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/BIS-X.3mf",
+    "bytes": 1260,
+    "sha256": "5ef58da075a6d0805defb880c29243511fc7527ed678575d9ae60bd6ad4637f3"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/BIS.3mf",
+    "bytes": 1246,
+    "sha256": "f2567e82fa386c937e42e77b6a6f4db4851b16efb52b94b76c07b47ff18fcc88"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/BT-D.3mf",
+    "bytes": 37877,
+    "sha256": "58c32dbf68cae1cf911d1663cdf0c59a64c6c39cfcef45951561adc7b7914d0d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/BT-G.3mf",
+    "bytes": 37508,
+    "sha256": "e3fdc19077fb1e42279f775a7d4b11c44e9da6eacce210c486cce17c1d95ee28"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/CASSETTE-D.step",
+    "bytes": 763455,
+    "sha256": "841fbab120fea6b58900948b4bde1fb150443c09caa8d1c9458ee8604b05252f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/CASSETTE-G.step",
+    "bytes": 797274,
+    "sha256": "4e992e39f1f4a030b61daad0e426b21b7921da9919d01f499e9da40d155dd073"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/CL-AR.3mf",
+    "bytes": 28937,
+    "sha256": "56aa3233ad84a81cae4a8aecbc2c8e6af5be581e8f33920bd1e1e41aa42261f0"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/CL-AV.3mf",
+    "bytes": 29123,
+    "sha256": "91b0bfe13cf449888607827b989dc319cd03276219a458d9a6aa5adf3dc07c9a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/Cassette_D_vue.step",
+    "bytes": 766087,
+    "sha256": "e5e834ae839747f28554335dfd7e855418d6b2c9bf24f331019ff701e7dd2df0"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/EAR-D.3mf",
+    "bytes": 20390,
+    "sha256": "e164a9f19f8f6450ae1e5ae45be0ec1b9d2694adf797cb72c4fcf9bb760b571b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/ECLISSE-D-1.3mf",
+    "bytes": 10832,
+    "sha256": "327ac5371d5d334b799c0cabd4764b31b0f1cb9b2356b5b762e0995ed1b39388"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/ECLISSE-D-2.3mf",
+    "bytes": 10805,
+    "sha256": "8b910d07e472905b00ebd15645cc66965c08eb0e72080a2e13b2145cab4bcb41"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/ECLISSE-G-1.3mf",
+    "bytes": 11684,
+    "sha256": "d4ec641a97371475c0544afaac57e1c0772342ed31984cdaeb450325069efbff"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/ECLISSE-G-2.3mf",
+    "bytes": 10816,
+    "sha256": "d086ac111361fbf9b52b3113c742ab7c389f04798b5d1a8bd5889e5c6968c17b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/FOND-AR-D.3mf",
+    "bytes": 20500,
+    "sha256": "eaedca61ad15e4dd527386cd977b77917865573451e4b14cd2284c6bfeb7e469"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/FOND-AR-G.3mf",
+    "bytes": 20501,
+    "sha256": "779e0a10c857f658b222a561d170eecaecf7aab434c604ff5b35513303248743"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/HANDLE-D.3mf",
+    "bytes": 19372,
+    "sha256": "5eb1cc2d7a171ce8b75292d11fc4f783fa2f1735b21ebdf1e667f7669005c765"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/HANDLE-G.3mf",
+    "bytes": 19428,
+    "sha256": "e326760cbae705d16be4de88addd6f2db75d8cace13ab2d89097cb4a485b40d2"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/Q-AR-D.3mf",
+    "bytes": 1229395,
+    "sha256": "4c0a35306b409690e362829c098026fadbaef828c432d8c26f9bcb113968a095"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/Q-AR-D_print.step",
+    "bytes": 555639,
+    "sha256": "09ac0680913bd580ab436314d0648bad1a081b189eaef478e01b57b1b557cea3"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/Q-AR-G.3mf",
+    "bytes": 1237569,
+    "sha256": "c0dc58f8e766458b1c2d6ea3a965fbf0ea582139fd7c698d0e54ff7ed862f939"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/Q-AR-G_print.step",
+    "bytes": 549930,
+    "sha256": "577a68f118bf5b068951c855c93ef30ceacce2ed68c5e5432f3d153643e34d3d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/Q-AV-D.3mf",
+    "bytes": 1104585,
+    "sha256": "c6a8a9c6886dd2c71de47c673bf9b7014b8e3bed42ff34fa53d35054abb0ee99"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/Q-AV-D_print.step",
+    "bytes": 885676,
+    "sha256": "44e0ebba7370c6568b564561ab45bd328e3d93cc558a9247093830f1aec14c89"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/Q-AV-G-EAR.3mf",
+    "bytes": 1420805,
+    "sha256": "3d1d44b1c3ce95ca244d404141100b9039cf0229845bde875825008e38b3a51e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/Q-AV-G-EAR_print.step",
+    "bytes": 922068,
+    "sha256": "27c92dec712319473a1686198a9c542718d87b5831d9094113aa1c94fff2ecc2"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/TOP-AR-D.3mf",
+    "bytes": 20415,
+    "sha256": "ffb30c4215e0f51e768f2f49ffed304c7416e41ff7b055423043c962b543dd7b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/TOP-AR-G.3mf",
+    "bytes": 19917,
+    "sha256": "6ef92385d53ead5a3f5c08f07fb823c08e5bc94fc819784d945a4eeb9f032e2f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/TOP-AV-D.3mf",
+    "bytes": 20255,
+    "sha256": "a8608ca14b324e1f615d1a43c17ac4a99568184cdfe59db1bc4ce0d281ab605b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/TOP-AV-G.3mf",
+    "bytes": 19862,
+    "sha256": "887465867b5fadd68a35dcd74dc564e95fe64ffd037ee4a99b4f79483129d481"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/exports/Vue_extraction_V5.step",
+    "bytes": 5563840,
+    "sha256": "989b3db4881428a09ed4c63bcbfa3586f7c43cab891b12a0d45d0a89d4aeb762"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/extraction-complete.png",
+    "bytes": 280917,
+    "sha256": "4257c03fcaf620a162462ab92a431c26e323b8ce3c45713d91a4a5fbd9316579"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/mcp_control.py",
+    "bytes": 1398,
+    "sha256": "b3c924614255172fd00e785fad42131129e815370e1dabb180eb51d74f0a27d3"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/motion-0.json",
+    "bytes": 968,
+    "sha256": "f8a88ce66647bf49775f4db3493b7714ba79ecc3b6ada4f0dc1d908fd44f2fc3"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/motion-100.json",
+    "bytes": 968,
+    "sha256": "75ea8bde4cf363d7545f67d8aea031e8378ebebdcbf0c8160e1fc930b91d4634"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/motion-200.json",
+    "bytes": 969,
+    "sha256": "1f2f42ef383971b5b966920e3ab320c58594c5ee80e932544485a5509c967a1b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/motion-25.json",
+    "bytes": 968,
+    "sha256": "7d6ca12c9999487fe9e0312ed3f261f125944992aa8105c71849ec8638a17fb0"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/motion-300.json",
+    "bytes": 969,
+    "sha256": "1f2f42ef383971b5b966920e3ab320c58594c5ee80e932544485a5509c967a1b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/motion-430.json",
+    "bytes": 969,
+    "sha256": "1b36c877c7e77df62ac738e41d32f82f566870e24fadf50d1b6376f52345c6cb"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/motion-5.json",
+    "bytes": 967,
+    "sha256": "e7e4f88e30929346c7a4a713f28e01d96ce71fc0ed63214497a4f38908a6678a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/motion-50.json",
+    "bytes": 968,
+    "sha256": "bddcba6b0378d582a7ab7805fcf872528e6fa0a373a69934eac07d819eae2b33"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/motion-independent.json",
+    "bytes": 2222,
+    "sha256": "cf45958a7b7ac13c3bb752a9a85d5108bcd64a923a58e9c4b0d8e7fcc9e84641"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/preview-colors.json",
+    "bytes": 3225,
+    "sha256": "639495bfdca019f146ec3d71b9c1f3ac4059292d0fb885d7e3231fc1394712ca"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/preview-requests.jsonl",
+    "bytes": 2603,
+    "sha256": "64eee6c3058cd022d8b755927d3c442ed4862b6233730dd55f242eefd6bbd19c"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/print-export-requests.jsonl",
+    "bytes": 4036,
+    "sha256": "c7f004bfeb15fb5f629191b85bee7f47a4b682cebdb8d5b0be4f85371323a9bc"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/print-parts.json",
+    "bytes": 329,
+    "sha256": "6dc151ae711906ce023e0e74a2abbf1acdecc5ba0696b0e5b0c0d02435b60a5e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/print-place.json",
+    "bytes": 6416,
+    "sha256": "4368dafc7e28d476f3fe43b25b8f36c3a0e4dc0420f21501f7e56621a1d4fed5"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/print-rotate.json",
+    "bytes": 2208,
+    "sha256": "d6ae7e190fc53c2abceb2877856ab3fd64930778e4e4c1fb889b70ea9704c09b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/remesh_step.py",
+    "bytes": 3963,
+    "sha256": "c682aa863442aad122b502c419cffcd5c25724551597bce7516fdac51f8752b1"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/restore-assembly.json",
+    "bytes": 8546,
+    "sha256": "9f2313b3fc9422580283ad6e4dba145ac22e4465f373eb992dae0c2caa881a86"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/01-chassis-final.json",
+    "bytes": 14343,
+    "sha256": "a7432d73328b055dd51b0359354e2d487a68de9b90047bec945f6728a96caf0c"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/01-chassis-retry.json",
+    "bytes": 3827,
+    "sha256": "53d6a07a210d55629d278a076a65fb1519c2d855c2b43130eaae47b295ad95c9"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/01-chassis.json",
+    "bytes": 3837,
+    "sha256": "750176803a7d7d0e354707a3068206aa141281f881d439d408f43c70614b30da"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/02-cassettes-retry.json",
+    "bytes": 26519,
+    "sha256": "533e004f41824731822bc821a89ae9a64616a64e1ef6fcada693a393ee08a302"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/02-cassettes.json",
+    "bytes": 7620,
+    "sha256": "3ea562cab06659c4422a01916afc3e6f333b139e6fcab7b28cfc91f29c12698e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/02b-ouvertures.json",
+    "bytes": 2340,
+    "sha256": "362e9b70b484f5e23d668974a93ce474e69780ac9f7ad2b0f033f6dc7bf11518"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/02c-joint.json",
+    "bytes": 1459,
+    "sha256": "a5534296e25c4d6aef818659d2b48b9430912eb80f68cb7510cbdca92f606b58"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/03-groups.json",
+    "bytes": 1394,
+    "sha256": "3cfafcaff23cd8a40f9744e2c16e581b1d9c643a3a8ef296c948d39b08545878"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/04-reprise-rails.json",
+    "bytes": 2068,
+    "sha256": "1fafafbb305060837e3b3b1406349dc966385fa9848b1ae9ae6819abc1f66676"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/05-rails-recouvrement.json",
+    "bytes": 381,
+    "sha256": "58488c6ae2e50f1c6fe7a90e0c0e7be5b3d20b0847cb4c250914a99fcbccfd02"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/3mf-BF-D.json",
+    "bytes": 251,
+    "sha256": "a0727e9ef96cc59a2d61b4ec6474eb95f902fce279d76485bdc4b69988fe1168"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/3mf-BF-G.json",
+    "bytes": 251,
+    "sha256": "95303173f3ac3584c7b1ef8008a83a6bf72918e83b94e4d45b6721ee657cb2a1"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/3mf-BIS-X.json",
+    "bytes": 251,
+    "sha256": "65191689340f9d5391ea93fff301f05d9b1436eef5f4d92ce3cc7524a949aca4"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/3mf-BIS.json",
+    "bytes": 249,
+    "sha256": "66f5ac068adc8788f70ee683c1e446a0a452b0918926162747c25177d9d90888"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/3mf-BT-D.json",
+    "bytes": 251,
+    "sha256": "fed94098b0e85320c91f7d8a8062f0c86d0aea35c95f6d1f91f680868d60775d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/3mf-BT-G.json",
+    "bytes": 251,
+    "sha256": "1ca8bb55a2e725a87d46ee6dff527e902ba4186080ca38465049bdef09fb40e6"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/3mf-CL-AR.json",
+    "bytes": 252,
+    "sha256": "c95f2753f07845eb73ac75ddcea9cf44c11bebc88ad316969941f4acf41f5bd4"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/3mf-CL-AV.json",
+    "bytes": 252,
+    "sha256": "68f71a42f0a5e8f539201e9367b57fc3a0aa9b419c63c4cc7ec435ec310aecad"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/3mf-EAR-D.json",
+    "bytes": 252,
+    "sha256": "6a5dd00ba9c2f2a0cf20d885723064be3b637b8450c7e6fb259383723efe71f1"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/3mf-ECLISSE-D-1.json",
+    "bytes": 258,
+    "sha256": "09bad699e71ab0216b383bb4955b984c7e94b46e411cfb0986f6e9445489fca1"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/3mf-ECLISSE-D-2.json",
+    "bytes": 258,
+    "sha256": "530b851727ebd6d366d9026b3263ec5bb91cc06d6d1efd649258588c89959ff2"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/3mf-ECLISSE-G-1.json",
+    "bytes": 258,
+    "sha256": "9e706d92390e579a435b99e9a8f1955fb20cd881763073267fbacb12c334f87d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/3mf-ECLISSE-G-2.json",
+    "bytes": 258,
+    "sha256": "cc083e26ef57593485cae34db7cb225b9b8b3fdd43d0e32cedb8e66ee74c1562"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/3mf-FOND-AR-D.json",
+    "bytes": 256,
+    "sha256": "20eefc452051114c43f07f2edefbd54d7dd73c68c309e579fc2e9e2913d4e49e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/3mf-FOND-AR-G.json",
+    "bytes": 256,
+    "sha256": "b00586b6739939c7e88bc03654752aa09c0a31ffc14194a08a935af441ba847f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/3mf-HANDLE-D.json",
+    "bytes": 255,
+    "sha256": "982239f1169d03e950622f9ef935b88cf4f64d4c3abf864954655cb4338ce722"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/3mf-HANDLE-G.json",
+    "bytes": 255,
+    "sha256": "486ab8316613a0fc50478a8ea7fcde3cc2fe97723e688610e741e854d1d55538"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/3mf-Q-AR-D.json",
+    "bytes": 253,
+    "sha256": "ec66ffa8e8b887d0a359cf884da104fafd0d99bf9a2df2ed5115d5b77a477498"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/3mf-Q-AR-G.json",
+    "bytes": 253,
+    "sha256": "c82e94d7fe92786a356c48def414b8f0679c8f1566f992ff47976d5b3cf6e64f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/3mf-Q-AV-D.json",
+    "bytes": 253,
+    "sha256": "6b2b8af21c44b5b1f76bfd0a542b32deec5eb6562270a29ea9a85825ba5a98e0"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/3mf-Q-AV-G-EAR.json",
+    "bytes": 257,
+    "sha256": "d834608654760152ffd79ac32cf8d55c06f358a08eb2d1036ef2ea243af04042"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/3mf-TOP-AR-D.json",
+    "bytes": 255,
+    "sha256": "fd4be42a6849b2df7d63f6037c63f54e4497e111faca912f68583edd34735247"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/3mf-TOP-AR-G.json",
+    "bytes": 255,
+    "sha256": "80ba97f6fabf2e26fee9b8c196ca2b59d424c0638942b14e9a36c3b0c535d1d0"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/3mf-TOP-AV-D.json",
+    "bytes": 255,
+    "sha256": "2e09cf120eb5da1ff4b775ca5a954ade9cd9fe6fd4ac97b595763c4813e05ff2"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/3mf-TOP-AV-G.json",
+    "bytes": 255,
+    "sha256": "9badfdc86d272fc17484c4bf5d7b7b6765e441e8b60df0b906131885cb28f97d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/3mf-audit.json",
+    "bytes": 12415,
+    "sha256": "d4ebac896323a779edca8d35defb998c08640a3186afb8c923228e1bc5d23793"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/SHA256SUMS.json",
+    "bytes": 3439,
+    "sha256": "5763a56a2852db8866c0c7e4d3ffe5b2aff25d0fd5ffadb1e52a03cd151c66fe"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/check-closed-initial.json",
+    "bytes": 3098,
+    "sha256": "b055b32b4d1c069abc133bace283c886e8de0d7973662305f64927533bcf842b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/check-closed.json",
+    "bytes": 2072,
+    "sha256": "e30879145da6a9637f26b6eadec7b33c21cbbf0328ae87dcec06f82d52abd070"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/check-repaired-closed.json",
+    "bytes": 1831,
+    "sha256": "57af6736ca39046a4d98721826b24f038bd0a84875a9e506c8fba7b9d99d8834"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/components-final.json",
+    "bytes": 11775,
+    "sha256": "8b9d0245a949b039adbcd12aa959894a19565667b8a8c07fba75736610e193e8"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/export-assembly.json",
+    "bytes": 260,
+    "sha256": "a9012ad7d7f9aedb254048d0745df2a7183dee5ccd5a1e14647808bdca5183ac"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/export-cassette-D.json",
+    "bytes": 256,
+    "sha256": "f25e25781d312936b6e41a7c416138296d2dee576453e33afcbef26b21e15d65"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/export-cassette-G.json",
+    "bytes": 256,
+    "sha256": "6d32346a9e84ade5d52552f4b344e8de3b27df696016f7955a9517bb56b5de26"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/inspect-final.json",
+    "bytes": 331531,
+    "sha256": "e2c42975fea4833a3e44bf86585c015b626259ff6a9f189b8763c36d1290f228"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/measure-final.json",
+    "bytes": 44469,
+    "sha256": "d1b76fc50b2a4d84e512aaac57ee24c73bd931e1fbc257c92c960a4ac7e22721"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/measure-initial.json",
+    "bytes": 44420,
+    "sha256": "5eeea2fe80d6bddc494830f383fdb8a6da819660481a1ffc1936e29e1b169e21"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/mesh-Q-AR-D.json",
+    "bytes": 402,
+    "sha256": "1f7db8ec8ba8c58edc5729c009796c04b37b9d3d7983064d942b6611220a2cfc"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/mesh-Q-AR-G.json",
+    "bytes": 404,
+    "sha256": "119b8d3eaf89862cdb7c004e4d888217abd2908bbd0b68c226c6b50c6a2cf094"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/mesh-Q-AV-D.json",
+    "bytes": 402,
+    "sha256": "15ea18ff8fa86d1b3f6be022c4e91f299ab411a392ca8775d62e0aba23f52dda"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/mesh-Q-AV-G-EAR.json",
+    "bytes": 409,
+    "sha256": "509642567c9cdb83e40d65d21693d5e5a72244f5fc7146cd1db99a651136d3ea"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/mesh-repair.json",
+    "bytes": 1731,
+    "sha256": "70989f2cc553f7686b2e9e6082c05cfd54bbd81ae5f97e5dc8b91250b7746fe0"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/metadata.json",
+    "bytes": 808,
+    "sha256": "2cd99a3b4773a4f428323ec94c281efdd0b8b316bd1a8b6722fb497707bddc1d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/motion-0.json",
+    "bytes": 2942,
+    "sha256": "b32ec3bc561f0e47582e7ab6d9b0ac02a5d13e843eba7408b3b17db303c46981"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/motion-100.json",
+    "bytes": 2939,
+    "sha256": "d134ab9c683707afaa82fbb230a665bdd565fe44d35e1560d954d8f146d77d24"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/motion-200.json",
+    "bytes": 2936,
+    "sha256": "33964fb0b5d0b3cee2c8d8f4e85327e9af54b5866c0c29f0efb0b419217d4aa8"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/motion-25.json",
+    "bytes": 2952,
+    "sha256": "ef66d4dc9a6e3042ec7ad25baa5af33af1aec6d4895a58d1d48a9db38c2ed0e9"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/motion-300.json",
+    "bytes": 2940,
+    "sha256": "16d71751fe49e6d6d836697a5d585ee1feb21ad117c4ad2b60e26de2bae2c619"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/motion-430.json",
+    "bytes": 2942,
+    "sha256": "6dcd76ccd26f298b5ca820de8202f961216787da8495d736c6ab32085c2e7be6"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/motion-5.json",
+    "bytes": 2943,
+    "sha256": "b7b91072f656869207d6630a8151422ba5a433ee724f03799f14a50fb725f008"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/motion-50.json",
+    "bytes": 2949,
+    "sha256": "b348beab7472211106004200a0b72ef3f0ef0543756a06256e8a6b4880021e5b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/motion-final-0.json",
+    "bytes": 2942,
+    "sha256": "6f3ac6426e8b736be682bee19b20485ae455b9b8eb064d4f4333447aa34a598c"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/motion-final-100.json",
+    "bytes": 2945,
+    "sha256": "a233f35b610022f6a9300bccde53cb3a009f59a33944e2c424e3e263249bfb43"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/motion-final-200.json",
+    "bytes": 2938,
+    "sha256": "734e5af2ed8bf95e11605de8a52aa5e3ae7c9d63d40ed6bf669e8e1452e14ab8"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/motion-final-25.json",
+    "bytes": 2949,
+    "sha256": "5cbbb01251592c12617f582b16626c8214d4a1ebe4452bb31b9ee1c165020a15"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/motion-final-300.json",
+    "bytes": 2936,
+    "sha256": "f0f33dc5aa6f29f67091e37b2e7ff53ff7d6e13621b41121efda93ef13d1c1fe"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/motion-final-430.json",
+    "bytes": 2939,
+    "sha256": "5d921302295c8b110da48ac86621104a658e3b85d578454a93d78afa095f1c31"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/motion-final-5.json",
+    "bytes": 2945,
+    "sha256": "ba764d9c89d009f03649ac7affd3bc36c0e3b58e61dc4802c06a097e6fb222de"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/motion-final-50.json",
+    "bytes": 2947,
+    "sha256": "2f3544445dfec7060ccd9cb798c981ee4158a2a41f3521436c756b2d3bff30c6"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/motion-final-independent.json",
+    "bytes": 6118,
+    "sha256": "c8520b7155263ba0623ce59e7a0c1e061d40dbfe9a852ac66ee2b6f67c775768"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/motion-independent.json",
+    "bytes": 6132,
+    "sha256": "557d866098091871ebc508b3fb774a7fff8cc8293be2ba378362c437215b9b40"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/open-r4.json",
+    "bytes": 299,
+    "sha256": "6211b6580f21d875e98d00403252d4542697763c1127a9f7525cf1a49227916e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/preview-cassette-export.json",
+    "bytes": 260,
+    "sha256": "05b166f4044fa9a54598fcba09955ea6db8bb9af92d5889e04d1149dddc1ba32"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/preview-colors.json",
+    "bytes": 3729,
+    "sha256": "3bb56b8b26274474013de0071484d03e6d27d23620cb323c78586263229ccf0b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/preview-extract.json",
+    "bytes": 539,
+    "sha256": "6f1632659819647b83babb0546722106072fdf2956f240f9009ed71ccfae0b8a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/preview-return.json",
+    "bytes": 529,
+    "sha256": "c6f979d8262f9184df1100e7965accf0645d9598b489bbf9caf0d1518b6cdc33"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/preview-scene-export.json",
+    "bytes": 264,
+    "sha256": "8af6be78bb7e630a8c8a2f6eae8c187a6c361fa5737b80ec24a413922fddb7f7"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/print-measure-rotated.json",
+    "bytes": 44586,
+    "sha256": "284ba7246dd47042b4a0948eb62bd9b1f75aef1c801dfc04bca97facd9af6945"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/print-place.json",
+    "bytes": 6273,
+    "sha256": "388f8d11fb6da544fe11d34f9febe4307e83ca91f9dedd1f02f78480150cba2e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/print-rotate.json",
+    "bytes": 2384,
+    "sha256": "809a8000bec7fe4b47a83d0d357109edc273e816304cd6e4389678c3346b49f7"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/reload-v5.json",
+    "bytes": 328750,
+    "sha256": "3a368c1018f024ce46dc17ff77594f4b0a57c74b01d1680286d1564a19b48a7f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/repaired-3mf-Q-AR-D.json",
+    "bytes": 253,
+    "sha256": "5c229cbbd39beed74f6551c3d7581c1662e7190c189a4f2164d3d348990af62e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/repaired-3mf-Q-AR-G.json",
+    "bytes": 253,
+    "sha256": "17e9b9541bb8acffd0efdd3ead444da6aa49969b1da5820bee31cea3be5103fc"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/repaired-place-Q-AR-D.json",
+    "bytes": 329,
+    "sha256": "9f0abc3f665c0029929eb91c277712480d1556ab4027060f1677583b82cf8a01"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/repaired-place-Q-AR-G.json",
+    "bytes": 329,
+    "sha256": "b51f0ccb641a66f6c45f0709654a952839a015e5c49c37ae09ae5358ae03be40"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/repaired-return-Q-AR-D.json",
+    "bytes": 339,
+    "sha256": "6a3397c11bb3bf8d1d85ae0131007e3e9e1751cf8e572679660b83b9ff352135"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/repaired-return-Q-AR-G.json",
+    "bytes": 339,
+    "sha256": "a5b48131f05461db2fd2905609caa45258b0179fc36ef5b9c8f52b7a10568b5e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/repaired-step-Q-AR-D.json",
+    "bytes": 258,
+    "sha256": "783c2ecafcf27ba434a6eccfb77879bf21f63819f4c5c8a0ed25d0320e44a72d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/repaired-step-Q-AR-G.json",
+    "bytes": 258,
+    "sha256": "b9b91716b8546cea8e94a94d85d165775fbf83f0133f529d7643d71ffafa004a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/reset-colors.json",
+    "bytes": 1374,
+    "sha256": "60ac24d3d33307a6a49af96191cbd17053254fb6e28b4cd06052cb0ce7bc0b45"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/restore-assembly.json",
+    "bytes": 8499,
+    "sha256": "4be95019f0fd77d389dc0d7a7a906b7cc8470acd19ec4710a217b729278d4048"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/save-v5-final.json",
+    "bytes": 281,
+    "sha256": "5956fb3a22e20fd26e5d886069a9fdfd8f0c9f2e3ebb39029b77cde7ce34d301"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/save-v5.json",
+    "bytes": 284,
+    "sha256": "43c959746fb5cd60c36b0b448a2d9fed5902a2fb11da5884e0d9c3f806454f92"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/step-print-Q-AR-D.json",
+    "bytes": 258,
+    "sha256": "cdc91c48390fe7c7c53265216a8348df26ccdcb036b4ad766d47d016624bffee"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/step-print-Q-AR-G.json",
+    "bytes": 258,
+    "sha256": "be2ccaa5d5a662f030833fcbc39900a668d11795c6bfcb86ad8104adcbf025b1"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/step-print-Q-AV-D.json",
+    "bytes": 258,
+    "sha256": "b32eeab5fd88342d48b04e4e1ed0ce677f1e3dc82a8fe0ba754b23af14016dc9"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V5/verification/step-print-Q-AV-G-EAR.json",
+    "bytes": 262,
+    "sha256": "b0648d058664322fc42c565b9aba2c6c014d9dba54a1f8c8f53c22cdde08dad6"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/00-remove.json",
+    "bytes": 406,
+    "sha256": "a31616ae2915e69b75470da1f96a70b18b092a99957b45c125175a0a9388a5de"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/01-AR-D.json",
+    "bytes": 6530,
+    "sha256": "afee9d23fad8bffb5a601aa6e6164d887c5f741afb1d9c1c72077b4df3258ff7"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/01-AR-G.json",
+    "bytes": 6581,
+    "sha256": "e74cb7c50ea009574214a90f87f6583681db78d1948e625649014642638372b7"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/01-AV-D.json",
+    "bytes": 14411,
+    "sha256": "ba97425ec2fbc83f451c9e4dc25c9baa31ae28b7a41a52d045fe18fd633c6c16"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/01-AV-G.json",
+    "bytes": 14733,
+    "sha256": "54153f39304be413086f9a2168ccf51206e1858007f761c0695e5609cd1abf47"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/02-metadata.json",
+    "bytes": 390,
+    "sha256": "ae3d21fbf4834858020b95ba2b31570db1eea22e3fa6a809f91f5ab9bd004adf"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/04-av-d-ear-first.json",
+    "bytes": 14411,
+    "sha256": "ba97425ec2fbc83f451c9e4dc25c9baa31ae28b7a41a52d045fe18fd633c6c16"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/05-front-clearance.json",
+    "bytes": 481,
+    "sha256": "9e9dff0d2eff9ae4130ea4c8e42c44225ed1433a26147ea0b7478ac9d66b06f7"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/README.md",
+    "bytes": 8953,
+    "sha256": "c184fe066cb3de18027e887e4a31451f49472d060491fceb56722b323afa9750"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/audit_3mf.py",
+    "bytes": 2324,
+    "sha256": "ce718666fbc2df7c5e17f9706f2be5b64ff47377dc430e6a8bcfa4c558c2b1e0"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/blade-D.json",
+    "bytes": 165,
+    "sha256": "b7eb2666670044f2058809100b21469235b6de879c16fa5184f563d8f28253e5"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/blade-G.json",
+    "bytes": 165,
+    "sha256": "432ebc4c6fa5269bcd7681d3d0506c38898b38fbd4ab341f43950a859dc78722"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/build_commands.py",
+    "bytes": 2537,
+    "sha256": "1c76f7bc2d2de7ff349bc9bd9cc4c1e74ef31d25ceca29cc31ed701df6569c96"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/enclosure-v6.png",
+    "bytes": 196724,
+    "sha256": "de0623b256a2ce54a8d25d9a90daf1079988e31b4c09173f471701d74589d161"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/export-Assemblage_V6.json",
+    "bytes": 1028,
+    "sha256": "a21ec1262c3f8ddcbcdf12990f48d1ec4c6d4185ab2c7a65831a5f06ac87d4b8"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/export-Enclosure_V6.json",
+    "bytes": 225,
+    "sha256": "c656e327a88bfabe05a5cd57276079a3ad76aa1afa90efc93f59417b1f952776"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/export-requests.jsonl",
+    "bytes": 1364,
+    "sha256": "1f6db2a2861583823c7fcaa757f48945d4358719adf20cdb856520752b17dc5f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/exports/Assemblage_V6.step",
+    "bytes": 6963140,
+    "sha256": "f71ed124c970f8a91451023c927211b76bd8be07e88d8834cac496bfccd558f4"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/exports/BF-D.3mf",
+    "bytes": 32778,
+    "sha256": "6edcf005390ff9c0dc4302c42d3bc0f10367df57db47d21ec3cdbf36e827f4b5"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/exports/BF-G.3mf",
+    "bytes": 35054,
+    "sha256": "424b69d0aac9230be9948a3160af78e954c33065af6f7c10d7b7e1b5899a4173"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/exports/BIS-X.3mf",
+    "bytes": 1260,
+    "sha256": "5ef58da075a6d0805defb880c29243511fc7527ed678575d9ae60bd6ad4637f3"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/exports/BIS.3mf",
+    "bytes": 1246,
+    "sha256": "f2567e82fa386c937e42e77b6a6f4db4851b16efb52b94b76c07b47ff18fcc88"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/exports/BT-D.3mf",
+    "bytes": 37877,
+    "sha256": "58c32dbf68cae1cf911d1663cdf0c59a64c6c39cfcef45951561adc7b7914d0d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/exports/BT-G.3mf",
+    "bytes": 37508,
+    "sha256": "e3fdc19077fb1e42279f775a7d4b11c44e9da6eacce210c486cce17c1d95ee28"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/exports/CASSETTE-D.step",
+    "bytes": 763455,
+    "sha256": "841fbab120fea6b58900948b4bde1fb150443c09caa8d1c9458ee8604b05252f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/exports/CASSETTE-G.step",
+    "bytes": 797274,
+    "sha256": "4e992e39f1f4a030b61daad0e426b21b7921da9919d01f499e9da40d155dd073"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/exports/ECLISSE-D-1.3mf",
+    "bytes": 10832,
+    "sha256": "327ac5371d5d334b799c0cabd4764b31b0f1cb9b2356b5b762e0995ed1b39388"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/exports/ECLISSE-D-2.3mf",
+    "bytes": 10805,
+    "sha256": "8b910d07e472905b00ebd15645cc66965c08eb0e72080a2e13b2145cab4bcb41"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/exports/ECLISSE-G-1.3mf",
+    "bytes": 11684,
+    "sha256": "d4ec641a97371475c0544afaac57e1c0772342ed31984cdaeb450325069efbff"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/exports/ECLISSE-G-2.3mf",
+    "bytes": 10816,
+    "sha256": "d086ac111361fbf9b52b3113c742ab7c389f04798b5d1a8bd5889e5c6968c17b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/exports/Enclosure_V6.step",
+    "bytes": 5213000,
+    "sha256": "099dafd53e12e34945d3add19095a0586697445c99ef7d0683ca01e768faf604"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/exports/FOND-AR-D.3mf",
+    "bytes": 20500,
+    "sha256": "eaedca61ad15e4dd527386cd977b77917865573451e4b14cd2284c6bfeb7e469"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/exports/FOND-AR-G.3mf",
+    "bytes": 20501,
+    "sha256": "779e0a10c857f658b222a561d170eecaecf7aab434c604ff5b35513303248743"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/exports/HANDLE-D.3mf",
+    "bytes": 19372,
+    "sha256": "5eb1cc2d7a171ce8b75292d11fc4f783fa2f1735b21ebdf1e667f7669005c765"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/exports/HANDLE-G.3mf",
+    "bytes": 19428,
+    "sha256": "e326760cbae705d16be4de88addd6f2db75d8cace13ab2d89097cb4a485b40d2"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/exports/Q-AR-D.3mf",
+    "bytes": 1606706,
+    "sha256": "cdcec81cf6ef6fbee5c932b22d95e0aa71b7ae6b51fbcac82efa8874e3f5016c"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/exports/Q-AR-D_print.step",
+    "bytes": 1124978,
+    "sha256": "9e30067d1adfe5f7c30d93d3c0c644e9e5154ea0534ddf7b4816626f6ae4c0a6"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/exports/Q-AR-G.3mf",
+    "bytes": 1589043,
+    "sha256": "2a5f97f4ee43f3e6d0a7009257aa801e21593bbd64a37048173424ac381b42e2"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/exports/Q-AR-G_print.step",
+    "bytes": 1135496,
+    "sha256": "47a66e30e9707e2d58becbe8c4bd4f4040aae4b335b68f8d2611e1b0960f9621"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/exports/Q-AV-D.3mf",
+    "bytes": 1744538,
+    "sha256": "93fca15eaef7d589e7f3013e13d50b965dd4e104797125c394e3b0acca5cafd7"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/exports/Q-AV-D_print.step",
+    "bytes": 1586832,
+    "sha256": "15f11d448e422748d1013cca89e02ad89afdd8a27d51094450a88a1d96deb016"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/exports/Q-AV-G-EAR.3mf",
+    "bytes": 1735259,
+    "sha256": "a87b4c25b9cf6e23a63e4773f013b5d2a28e1401bdf8aefc334186905748352a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/exports/Q-AV-G-EAR_print.step",
+    "bytes": 1571786,
+    "sha256": "38774595f8d71b518cf159ec6969f03ccaaf64313af7a21c65c9ecef2697dc96"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/mcp_control.py",
+    "bytes": 1397,
+    "sha256": "440da92fac7fed7a69e55ef141ac68cc6c6918770f9fdcc00f53c22717f69967"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/motion-0.json",
+    "bytes": 225,
+    "sha256": "b63ffab3e6a6d4fa77af926d809dc82726d997a4abd7f5fedf1c45b4d71c0d0b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/motion-100.json",
+    "bytes": 968,
+    "sha256": "75ea8bde4cf363d7545f67d8aea031e8378ebebdcbf0c8160e1fc930b91d4634"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/motion-200.json",
+    "bytes": 969,
+    "sha256": "1f2f42ef383971b5b966920e3ab320c58594c5ee80e932544485a5509c967a1b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/motion-25.json",
+    "bytes": 968,
+    "sha256": "7d6ca12c9999487fe9e0312ed3f261f125944992aa8105c71849ec8638a17fb0"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/motion-300.json",
+    "bytes": 969,
+    "sha256": "1f2f42ef383971b5b966920e3ab320c58594c5ee80e932544485a5509c967a1b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/motion-430.json",
+    "bytes": 969,
+    "sha256": "1b36c877c7e77df62ac738e41d32f82f566870e24fadf50d1b6376f52345c6cb"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/motion-5.json",
+    "bytes": 967,
+    "sha256": "e7e4f88e30929346c7a4a713f28e01d96ce71fc0ed63214497a4f38908a6678a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/motion-50.json",
+    "bytes": 968,
+    "sha256": "bddcba6b0378d582a7ab7805fcf872528e6fa0a373a69934eac07d819eae2b33"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/motion-independent-D.json",
+    "bytes": 1166,
+    "sha256": "8db583d0ac553042069ce13c25423012dfff76417720133afda2f215d7a86532"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/motion-independent-G.json",
+    "bytes": 1166,
+    "sha256": "23267370383a3e021fbc8ec2e9729b62e5318752e3238ca619895fcdb0ec50be"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/motion-restore.json",
+    "bytes": 665,
+    "sha256": "df68d0fb28de28df83d5a615e081e2fe8855bcaec108b9d842b1e79d59ab67d1"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/normalize-print.json",
+    "bytes": 1198,
+    "sha256": "c696dfef71a34cb2d2eaec1abeb0b34dd7eaba5fa27dfeedb12252c56819197e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/print-parts.json",
+    "bytes": 240,
+    "sha256": "1ecf297903c6b1d8ff3fb2eab15b068762ea7ebbb86b83685d6c51f4cfc83048"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/remesh_step.py",
+    "bytes": 4610,
+    "sha256": "1400d74935de7d8f893385c1b367b95d42a5b5e840aaa9ce4eb3d4187e52844d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/rotate-print.json",
+    "bytes": 1054,
+    "sha256": "ec513f91a22e4a05ddc69d46e332eb544ea430154fb066b4b1eb21938994a8fb"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/tunnel-vertical.png",
+    "bytes": 160012,
+    "sha256": "b4d6ec5494b79252c5957cfb37d4edac3ab09ec26d02bd8eb07e51adf7d192c7"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/3mf-audit.json",
+    "bytes": 8936,
+    "sha256": "ba360d0857204e3c72c076b78392b87f1b9f2b0f3ee12acf0703b4d3821d11d5"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/ear-first-av-d-fixed.json",
+    "bytes": 10929,
+    "sha256": "d02db67b8939a549839d79e9050b82e099415e99469a24f0ed6ee495bc47ec73"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/ear-first-av-d.json",
+    "bytes": 1425,
+    "sha256": "a7844e4d3a9a87512ba03fed9a9e958d428f4782fc54b9d1cf34c853a86f2fd4"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/export-Q-AR-D-3mf.json",
+    "bytes": 253,
+    "sha256": "590c3f354e6f703ae04849fc1d74bbf87b2c2a2c81b8b514916f2e24f37b4e40"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/export-Q-AR-D-step.json",
+    "bytes": 259,
+    "sha256": "e5292bf495b829445a8137c9985052909c4ab801d3ba9915c15b09ef5f266575"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/export-Q-AR-G-3mf.json",
+    "bytes": 253,
+    "sha256": "c41386563ff7ad9cf7931244d88453ff14648a2f88b4e6fbdb3fcaf45d492d9f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/export-Q-AR-G-step.json",
+    "bytes": 259,
+    "sha256": "9f9b762b5d91c03781ac100b500180b8a410080646e962eb22d47d2c83d437ad"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/export-Q-AV-D-3mf.json",
+    "bytes": 254,
+    "sha256": "1372f2d21c92cae0806e376877d3bc181add315952d431e698be404a2c422607"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/export-Q-AV-D-step.json",
+    "bytes": 259,
+    "sha256": "6912d1c066ab75e902a16ba0941022c0f9923accb08eb678349bdcfe49cc3fe8"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/export-Q-AV-G-EAR-3mf.json",
+    "bytes": 257,
+    "sha256": "b5db820a5f7d02de467a70458d7542ed1aec481c25954c5a4a1650e0d71c9808"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/export-Q-AV-G-EAR-step.json",
+    "bytes": 263,
+    "sha256": "a041199858b33cee2ea5d2b58c7ec9f8f7ff598856877ddd86cb65c0ebc8a581"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/export-assembly-final.json",
+    "bytes": 260,
+    "sha256": "356d2cdd47adb373abdef781e87f0f570338c33a024a8d067162f1a7831493a1"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/export-assembly.json",
+    "bytes": 260,
+    "sha256": "2b4a8292f7a7e510104f9ac2292482d0559a008458a9ae366a5da6994fcbf64d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/export-enclosure-final.json",
+    "bytes": 259,
+    "sha256": "9fa536b62f0aa0596a5a076db795a755ba6e92053161e988c07bf55d92440716"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/export-enclosure.json",
+    "bytes": 259,
+    "sha256": "5dcab2f9d7f175227c6d9662ddc4f2af615c5edc85637db31bfa833152d2b335"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/final-av-d.json",
+    "bytes": 5419,
+    "sha256": "e1f36a9f4b77ec8d10e4e1184a56629782b05765e5f63a5d3d2fcf5f4ab132aa"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/front-clearance-D.json",
+    "bytes": 457,
+    "sha256": "53b8e9fb3c0643091baf56040fce5b337e57b690e8613158a83d861a70f71513"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/front-clearance.json",
+    "bytes": 712,
+    "sha256": "39d1453e5b310e8f8a5dba985a6565f62ca36e24bb8ad7a30cd723e9e23b7211"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/inspect-built.json",
+    "bytes": 373824,
+    "sha256": "1f69d0026c59dea892a98962831e8f88a4556641fb2499e87e092683f9a27347"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/inspect-final.json",
+    "bytes": 401350,
+    "sha256": "2919c7db6fb6f8807d189a3856494b2d8a0cffd63a5d545a20fdadbfd2dc8d09"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/measure-built.json",
+    "bytes": 39125,
+    "sha256": "84c2ac117db7f2525495a18a084f9a89176b87a0cd0040ac79a9d8f06a58b239"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/measure-complete.json",
+    "bytes": 39125,
+    "sha256": "6d9fc9817a22f7bc4a709b2748e1195d8604cbdc964faef6511ae1c0456437f5"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/measure-corrected.json",
+    "bytes": 38281,
+    "sha256": "826bae7e2f16d644e354b2120871549a45e2721f7f75d85f002e442513ae4333"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/measure-final-v6.json",
+    "bytes": 38283,
+    "sha256": "81dd813110fd134fd92bda551b27b2207b9ee7f29c18f422e94e657c852300d0"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/measure-final.json",
+    "bytes": 41722,
+    "sha256": "ae609738728fdae034c84cd5fbfe95cb2edd4ce81d7076513ba5a723ee5d31e6"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/measure-retry.json",
+    "bytes": 40851,
+    "sha256": "11c0b5d21eeeae4f9c3dee59bcc9326d6e143561769aafbcdd764be12280a4d4"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/measure-rotated.json",
+    "bytes": 38289,
+    "sha256": "17f38563480ecfb40afa5175a71b848a4bc77cc06ef9dcb25860d1003aae9d5d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/measure-start.json",
+    "bytes": 44456,
+    "sha256": "85083cc8b4047141eb17d05e17c3f246cbcf321f4f7c12806577bd14b7095b6d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/measure-vertical.json",
+    "bytes": 38287,
+    "sha256": "3825967918bf56a8d79f837470f6022f45224056683c0f8b36f41f2ca8a2c83f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/mesh-Q-AR-D.json",
+    "bytes": 405,
+    "sha256": "c5a9f12400b3900bcabf556dd2465b86670faaac19d47e852ca073ce0ef216a5"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/mesh-Q-AR-G.json",
+    "bytes": 441,
+    "sha256": "a90eab5b4e193ef9feca49e505a3557d3c9f52e7455cbebcbf48bc12c08047ad"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/mesh-Q-AV-D.json",
+    "bytes": 404,
+    "sha256": "7e13418b5bd236ca48e84037a1d835445e56c0f07486ddea4d17c233f3313881"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/mesh-Q-AV-G-EAR.json",
+    "bytes": 408,
+    "sha256": "92820832fb844c70f29c51fd18333bace2a220c03d414a9705435fbe411d25b3"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/mesh-repair.json",
+    "bytes": 1774,
+    "sha256": "723c7ef39a78793d624283ff4fdb55acdc8d05a5c5e353f8ae9694248fc6ad74"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/metadata.json",
+    "bytes": 482,
+    "sha256": "47db52a4533b6a5efd2333ecc08608c54aff1be2677e939ba7297b3747c2067e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/motion-0.json",
+    "bytes": 2203,
+    "sha256": "889da106673d550bd0005434893c88b10dd5874863029858d746f045ea3e7298"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/motion-closed-corrected.json",
+    "bytes": 2821,
+    "sha256": "7001bef03e98a50b97fef3b1c334cd7c4f66f2686d5f777e8401abfe62bdb668"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/motion-closed-final.json",
+    "bytes": 2206,
+    "sha256": "b84c3ce8ef133f82de84c71bff0789787ccfc59a25af1358848f1b957e035aed"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/motion-final-0.json",
+    "bytes": 2827,
+    "sha256": "457d233dd68f2d86e59e348408145001e6c5d09b69f6a51a9f819a763f478af8"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/motion-final-100.json",
+    "bytes": 2943,
+    "sha256": "4778db8a4cb7b3803b40206c671a7e0b347d19ea8e3eac4f030d56b97f0dcb2d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/motion-final-200.json",
+    "bytes": 2952,
+    "sha256": "60a47ada6be247f1607089fd33804dee4d24f13e3f954f3bc364e871a2c1040e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/motion-final-25.json",
+    "bytes": 2952,
+    "sha256": "551af84fadb8ea3e71cea8f692dc4fc10e57497fbdd243265221943357965b42"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/motion-final-300.json",
+    "bytes": 2938,
+    "sha256": "1a2abf5f74dd028394940f89a750c34bdbba102d72ff6a0cca441c2a75b6455d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/motion-final-430.json",
+    "bytes": 2943,
+    "sha256": "d766775d991ef165f7e462899976ef1af20700c4244fd9a4003ec819f2648ef0"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/motion-final-5.json",
+    "bytes": 2948,
+    "sha256": "743e27a67f628997d118cd904753bd838916ad578868543e16f1b41e5a36ade8"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/motion-final-50.json",
+    "bytes": 2938,
+    "sha256": "00d69ecb192c376373d97984b269adaf94672de8f1a7eec85affee4601f0f51d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/motion-independent-D.json",
+    "bytes": 3167,
+    "sha256": "f639aad189434868bed0d28842f70ead344a5d2bfb77b7f6056032fb8a187b8e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/motion-independent-G-final.json",
+    "bytes": 3161,
+    "sha256": "90f40ddc21f4cae4140095647204c032781cad514492004ae5b8f2f5a2ef945e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/motion-independent-G.json",
+    "bytes": 3793,
+    "sha256": "2b77fb375f9ca9cd4eff4d9bb6a985abc55a6ddbc93e409df36c7d6dcf04cdfa"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/normalize-print.json",
+    "bytes": 1168,
+    "sha256": "2be9fbabc039f0852ab595fe19696ee7b5ae5bed16a29269f9074000ca75509a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/open-v5.json",
+    "bytes": 299,
+    "sha256": "de6a6b6a4ff9a8df569e60161f1fbfa42eecace30ef4b84bd8a00a5a8431c394"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/reload-v6.json",
+    "bytes": 387501,
+    "sha256": "e7e6c5469914da17c79460089cf641b41d4c73026b73eac9ae504996def30612"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/remove.json",
+    "bytes": 514,
+    "sha256": "f5236131bd3dba739d3f8182bd412f428d2d42a264374f03753848f3b224a64e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/restore.json",
+    "bytes": 757,
+    "sha256": "1748f690001b76cebe43bdc62b9c07453f6ce1b109d682add7ebc8b1d818991f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/retry-ar-d.json",
+    "bytes": 5014,
+    "sha256": "9aa620a60e65106444311e83b87440ae85baaef46c8a538a143770e94cc9ad2e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/retry-ar-g.json",
+    "bytes": 4990,
+    "sha256": "7d6a2198ef904d2a102adc65ee979f646c66ebf670496b88aa48280b3d790d90"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/retry-av-d.json",
+    "bytes": 4926,
+    "sha256": "c3ed05adbccd0a8b3aacd5ee3c982785f61592871821b0915b8f8c5a90f8a307"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/retry-av-g.json",
+    "bytes": 11103,
+    "sha256": "6de3fc6c9cae64b5ae4e75148c61d97d270838e75d438d7b2425fd4f5bc7bd66"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/rotate-print-x.json",
+    "bytes": 1186,
+    "sha256": "296281fa2389528139fac52a8c87806915ace1d3e63591ae9ab9dc4ea639e186"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/rotate-print.json",
+    "bytes": 1174,
+    "sha256": "4cf469466fc64a64f60507d1abeea9a5116d9acd237f0401cb4908f5d65d9cd1"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/save-v6-final.json",
+    "bytes": 281,
+    "sha256": "8f4a2811bb9063be145f29a28b9012e32bd2ffa2f63cb145279dbee9dd7a769c"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/save-v6.json",
+    "bytes": 281,
+    "sha256": "e50d8dec39fd24e675de913cbaac19b61284f1ffa082cf9cddadd45ab531140c"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/summary.json",
+    "bytes": 1537,
+    "sha256": "7a84c7caf69eb840f41e5e7d5f910c3ccab8e8a9aafcd0d27e9dcb1a21806da5"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/tunnel-ar-d.json",
+    "bytes": 1451,
+    "sha256": "eff08f1041ab489814746fd2311ceb3af9ad776210931e7bb1fdf169f13293c6"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/tunnel-ar-g.json",
+    "bytes": 1797,
+    "sha256": "3c10e81d1a58922a9ff63332f264e4ac2dd06b4df21369b63edda1ca1622b27a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/tunnel-av-d.json",
+    "bytes": 4675,
+    "sha256": "248b763daac75b6d539082fd4b802dd6884892cd81ea757d503665c78f16dd4b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/tunnel-av-g.json",
+    "bytes": 5482,
+    "sha256": "24a64dc65a7ae8eaf0f665effd719aebba74d17d082a616dc6fbf0c8bfe3e84e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/unchanged-mesh-provenance.json",
+    "bytes": 2040,
+    "sha256": "6169cd6337de72a7cb3ff0bf2647368718e904265ca6951f51dc5ebec0829e95"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V6/verification/undo-rotation-z.json",
+    "bytes": 385,
+    "sha256": "a0305a7160fc57d96e9fa82bd52a2c846c78371065cab3c08e74c90178fcf6df"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/00-remove-splices.json",
+    "bytes": 451,
+    "sha256": "13198217be4001690425c649be4d49ff0cb53affe3f78eaa71b5ae9b7004f5af"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/01-walls-D.json",
+    "bytes": 14588,
+    "sha256": "dc493d63dcc82f0aa1a32663fb6321970d9798132ecbbdb8e7bd83a0451053e9"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/01-walls-G.json",
+    "bytes": 14647,
+    "sha256": "b6a7ff46ac47198375d42e57ad32c8758018b031dd9ca03dcb5e6f6da1f4956e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/02-metadata.json",
+    "bytes": 413,
+    "sha256": "24a9c056823591242784b948ebe338587b1c60eba3bc1a39816d708b953d820f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/03-remove-isolated-plugs.json",
+    "bytes": 867,
+    "sha256": "894d0844e9c72b7caca5fcecccfcbe3505ebc5f2a0ce73878be26b7fb6e75263"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/04-remove-outer-plugs.json",
+    "bytes": 877,
+    "sha256": "4ef119deb83be91e061b8dbb23a358e8700940b7d7f524b57d27b4a47497a87e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/README.md",
+    "bytes": 9328,
+    "sha256": "84aa67a885df84923ba1a6b5cb9134866b1a9217608c7ef1e9500cdc494d2b8c"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/Test_filament_V7.solidcraft",
+    "bytes": 188053,
+    "sha256": "2501726883aba4fc2d21d2be7a48e0f51c85e1d60a31d1160d65a8e51a3dd363"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/Test_jonction_V7.solidcraft",
+    "bytes": 81891,
+    "sha256": "ae7023b15708628341b94a20d10dd3c13164a6b648b83e9dd94c69217628d7d4"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/assembly-export-requests.jsonl",
+    "bytes": 1661,
+    "sha256": "6713f55a11ce67bed4ba04030f19c68e7cb741769e3f7454500a1b6307ded5ba"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/audit_3mf.py",
+    "bytes": 2324,
+    "sha256": "ce718666fbc2df7c5e17f9706f2be5b64ff47377dc430e6a8bcfa4c558c2b1e0"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/blade-D.json",
+    "bytes": 175,
+    "sha256": "484780f32e561d5a97c1d53e5f8b5727554fc6fa239da193acf1f2f21a82bd9d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/blade-G.json",
+    "bytes": 175,
+    "sha256": "896e093b9d930eb039ae8d0118efdb62a952b5a73cf367e246fafd8b3d3ab6f4"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/build_commands.py",
+    "bytes": 2531,
+    "sha256": "6ba0634a10f8f468dcf1cee5f6de7df51165b93c3092a00f3655c2cbab3f9dc4"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/README.md",
+    "bytes": 1901,
+    "sha256": "88b5d8ff884812c0d7aaa76136043ab90e8556d73e95fb3445638d5dd505307e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/V7_avant_calibration.solidcraft",
+    "bytes": 63839,
+    "sha256": "f848433f71258524ab105e5042b0478941acf54aa463f69a3ffce3ecdc37a35e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/export-requests.jsonl",
+    "bytes": 4702,
+    "sha256": "2b34685b673950bc29b29e1190b4d1c0b1b5ac1f8e59bac091219709a7954cac"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/mcp_control.py",
+    "bytes": 1413,
+    "sha256": "cda91ccf251a816a7d3d0342184519a165bdbeae0858f7ea3864db3ae41d56f7"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/motion-200.json",
+    "bytes": 989,
+    "sha256": "b042ef6ad81360cf477da84f70a721727cf98bd67d48fd1676f0d45b2f03e254"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/motion-430.json",
+    "bytes": 989,
+    "sha256": "725dc2be6b57952120d525f8bf7f06210e3fa5975d47d78173f1614cc6db8b3a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/normalize-print.json",
+    "bytes": 3648,
+    "sha256": "a0faa5fff02f1652d2fa0c0fca3831fba079333c462426e28cbb6e7c4afa5166"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/remesh.py",
+    "bytes": 4634,
+    "sha256": "940be3c0849d7e33debe3d8f622ea1db7b38ca75603561a0c1dd81990ed07b1f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/restore.json",
+    "bytes": 873,
+    "sha256": "656157337f270bdc01191ac108bf6c061e09b316279ed32576a9496283141d48"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/rotate-print.json",
+    "bytes": 1520,
+    "sha256": "a7f8e3ea742ecc136bbdcf459cf5dc6318e6f781f6e95ce326a1a65a36a2bae1"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/update_source.py",
+    "bytes": 2810,
+    "sha256": "7ce0d0c5f5a5cb01ea9785b9a8c67f1e02cbcbd909f33bb3c1751b232a055802"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/closed-final.json",
+    "bytes": 1826,
+    "sha256": "a8830eecc45769a4829fefa31cb89c4130f6f8bae4f9f0373bc9264d1b28941d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/commands.json",
+    "bytes": 265428,
+    "sha256": "0d5cb20a531fbae042cc815c3bc9740aa032c65c8e8649abc39042acf6facb50"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-Assemblage_V7.json",
+    "bytes": 260,
+    "sha256": "a57cc7bf76888b2b2b4e6a8a78db5d0f9c4271bd18ba4ef8971f2adf8a78af1d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-BF-D-3mf.json",
+    "bytes": 251,
+    "sha256": "510175128dac4e7f959d47ff02fed6fa76f5ecf5de303c05862c96c29e1ae81d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-BF-D-step.json",
+    "bytes": 256,
+    "sha256": "6cd6e9d941c7a219ab907bb6a1cd852f552eca9d6a65970ae4abe4c33a3c8268"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-BF-G-3mf.json",
+    "bytes": 251,
+    "sha256": "d2761cbbbe7fa19b8f1c588fa630f4b1626717537900cacbc399abf3e0673c5c"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-BF-G-step.json",
+    "bytes": 256,
+    "sha256": "2831f398999589594b79d0567f5a3c8b848b4e8c983837571208923c304b3565"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-BIS-3mf.json",
+    "bytes": 249,
+    "sha256": "63becdf3e59da767e73933621b3fd6ee5ef6ef15503798fd8a9b8abc8c8c0525"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-BIS-X-3mf.json",
+    "bytes": 251,
+    "sha256": "bf653c7ece9313185fb8fee6ccd99ff60ef6027a7e936aa7d2b1c1d92fdb8160"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-BIS-X-step.json",
+    "bytes": 255,
+    "sha256": "bd216ba9ed5af187a7c62bd5248e238aadc55e5d65d4dc3054c46f1a233e2c8a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-BIS-step.json",
+    "bytes": 253,
+    "sha256": "e3e1163c86c13b9f9e6f4c48ca07f85a2e6aea41ad0381e626872adf43029fdd"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-BT-D-3mf.json",
+    "bytes": 251,
+    "sha256": "64320474aab843227222050f51c1b0ebfb7c5a426abb3da1150c0ae6b9d17340"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-BT-D-step.json",
+    "bytes": 256,
+    "sha256": "b979c254179531c083700afc24f371f5a3af5a512069efc41e1f606836927691"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-BT-G-3mf.json",
+    "bytes": 251,
+    "sha256": "ee432cce12bfce1326838b2a565d447e2c7edb89f2d88e38a3ccec77ad27d9f0"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-BT-G-step.json",
+    "bytes": 256,
+    "sha256": "7da3261edb11633f0ebef6aaeebbb6a1bb697d55cec79d58e7152efe5fc1f86c"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-CASSETTE-D.json",
+    "bytes": 256,
+    "sha256": "4c9fd69632a72299cb219e084511eb02f3f24d7bfc3aba9d1e1a905a41d508b8"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-CASSETTE-G.json",
+    "bytes": 256,
+    "sha256": "b253430aadfe3d7d93ff559f0a9aeb3799a61c3e06c6ca815672a1a50f5ddea4"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-Cassette_D_vide.json",
+    "bytes": 261,
+    "sha256": "3b9c33584078adc089652443206665b583ca617e7543091bab2a7fa9de81d7dd"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-FOND-AR-D-3mf.json",
+    "bytes": 256,
+    "sha256": "18891c25165ba2f0227990e6863e94f050104bf075e2713bb31c81ab7dc48fec"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-FOND-AR-D-step.json",
+    "bytes": 261,
+    "sha256": "2881123509bf4c77a4c4eec9c94d65a602ae0ca642d1e9474fe378bcc7c7adee"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-FOND-AR-G-3mf.json",
+    "bytes": 256,
+    "sha256": "7e0ef5e98fa27a403d5f4c07419e2b034649421a17d50e547efeda0a512020ca"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-FOND-AR-G-step.json",
+    "bytes": 261,
+    "sha256": "cd507cde79668993769addb8b12b747186ccd773b3ca33984bfbc6e691a59432"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-HANDLE-D-3mf.json",
+    "bytes": 255,
+    "sha256": "a046580eb74fc605057383c086d3a32eaa65d150f7c071604050b330b529136a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-HANDLE-D-step.json",
+    "bytes": 259,
+    "sha256": "b62f5750ccfff3a1be49de11019085148755b12b2ab9f00a91e530bc62ea80fd"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-HANDLE-G-3mf.json",
+    "bytes": 255,
+    "sha256": "6ecf8daecd8de17902893909a792261b65269a572f0b65ea567722f4f4077a46"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-HANDLE-G-step.json",
+    "bytes": 259,
+    "sha256": "fa74d71f639fb130d11f79198e158d837b15e61dbb940d6275dad0c6cd3763c0"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-Q-AR-D-3mf.json",
+    "bytes": 253,
+    "sha256": "e1ac65f0e8037e55b1833f64f67c6ecd4a5988cc31781883d72474fa1b04475c"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-Q-AR-D-step.json",
+    "bytes": 259,
+    "sha256": "71e0b2e88cd5c66c016f8c3bb30eea208c695a2c57af2f0b567929811eeb292c"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-Q-AR-G-3mf.json",
+    "bytes": 253,
+    "sha256": "89188f2cfee3175ee8a79349cca318176a146cf000164d68f9602091face5cbb"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-Q-AR-G-step.json",
+    "bytes": 259,
+    "sha256": "f17056d4d873c5b3d4c1e0d18e4b00ceb9655abdbf206b28e9575a925c340091"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-Q-AV-D-3mf.json",
+    "bytes": 253,
+    "sha256": "d8db1d993514cfc9772bc9c534f9268bd66f8703fe6b7d9fe961ffb1cffb6a9e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-Q-AV-D-step.json",
+    "bytes": 259,
+    "sha256": "cd839491e870513d90f10049533905b0d53cfb017c2341806e2d1940ab701270"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-Q-AV-G-EAR-3mf.json",
+    "bytes": 257,
+    "sha256": "c63be2eb5adb6df3ef162621bbfd2ad4b1fd93ea07b5b38f32df1524be9b66aa"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/export-Q-AV-G-EAR-step.json",
+    "bytes": 263,
+    "sha256": "54add41a08b89822b437761d40f1e2d02992f538ba2adb3d014bae7fd44a5e91"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/inspect-calibrated.json",
+    "bytes": 453077,
+    "sha256": "d684b0f8a0296655783719693780b75d3d888ceb8990109ffb573c7e1a62b126"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/inspect-repaired.json",
+    "bytes": 453012,
+    "sha256": "282f4fcb328e8236cee2d159471512bd2526c23be3bc805bac053c953be7041a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/interference-before-repair.json",
+    "bytes": 1827,
+    "sha256": "4e2a2839d9ff2b13fae33c10071f13090b1bce2304bce00ae309a36628c9442a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/measure-calibrated.json",
+    "bytes": 38447,
+    "sha256": "497a167be790dac9af58b992a89e4ce9b15ae15fc9e1de7a93a6f102eed8f682"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/measure-repaired.json",
+    "bytes": 38448,
+    "sha256": "82bc6a46f95ea1892d98d1c46a4ae9af7ab3d2f1087d9c98aa87846792a08321"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/measure-rotated.json",
+    "bytes": 38495,
+    "sha256": "5b9dd18b4ed1c9750324696041e75eb0e0222a2529cfc25878880d5d9eab9789"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/mesh-BT-D.json",
+    "bytes": 442,
+    "sha256": "e0705b4a1fa87e2afa8ac3902e691e420eac46633a918a56bd3bf393f3f07ac2"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/mesh-BT-G.json",
+    "bytes": 443,
+    "sha256": "f460081fedf7cd69456bac57a42071cf1a60424ed52cc0112736678babd89e0a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/mesh-Q-AR-D.json",
+    "bytes": 441,
+    "sha256": "1416b4b1e814e724e9ebfa1ea2f9043ce4df28b8e3b4d9df9e22e18278531333"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/mesh-Q-AR-G.json",
+    "bytes": 440,
+    "sha256": "a46085ca4be4240ca699556a4788866d835d543c4a3b839669697b9d36576cf1"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/mesh-Q-AV-D.json",
+    "bytes": 441,
+    "sha256": "cda6e17549c5518c6d18f6ab067e6b2f7e5ef88b094538096a00b59a01ff09e8"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/mesh-Q-AV-G-EAR.json",
+    "bytes": 443,
+    "sha256": "6f5fd6b401f0d00b1a8953f079ff83a5ef8b138b505b669e1e90032ede6dbbbd"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/motion-200.json",
+    "bytes": 2982,
+    "sha256": "74c4376c6de60b7d84a9331914edb48c2ef1d954dcbade4388455cb8804da028"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/motion-430.json",
+    "bytes": 2969,
+    "sha256": "afc6965de8eff9bace9409fea25cedf80998db88214fe40d4b021b11fb83dd68"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/native-validation.json",
+    "bytes": 6400,
+    "sha256": "ebeb01a011390fb102f80305e95f129a41a5d84163bd49dcdffc69389ce8b5bc"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/normalize-print.json",
+    "bytes": 3602,
+    "sha256": "6bd65823c5ca37dcf7771bdcbc9dbec809ad0818610b7e949607bd5d25071131"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/open-calibrated.json",
+    "bytes": 310,
+    "sha256": "856294d35199653f5d91356e09003e3f0cb94b51fc51e9cb3a547401233c0419"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/repair-front-relief.json",
+    "bytes": 199,
+    "sha256": "ba674b589766601c62cd7a03044b74cb034bbdb9e955b3e23ca8e04ed48da24d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/repair-relief-wide.json",
+    "bytes": 200,
+    "sha256": "92347916d00cff62ac0ba4067ffc308fb3b7b3d3f3945c666dc1b77a956eeb48"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/restore.json",
+    "bytes": 974,
+    "sha256": "65636577e730056a99ccf1d11217d3276607799ef2793f84fcbdc91accd8a1b1"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/rotate-print.json",
+    "bytes": 1671,
+    "sha256": "ca8fc0f3f0ee19318991ccbb64fb45ca2bdc7ee9dbe1d1f3513a732f1be3a6d4"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/save-calibrated.json",
+    "bytes": 291,
+    "sha256": "90acbf7f88811670a916e835fa979cb86fd58126357bba30a7244c2c72135141"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/source-changes.json",
+    "bytes": 12737,
+    "sha256": "56f010184bcc7f00fa134582dd3df748ed60bd53e0e58d04a4bd20654045fe2e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verification/suppress-obsolete-relief.json",
+    "bytes": 184,
+    "sha256": "2a8215cef90260589baca91f5da0db75a8e2a30f6b9fc133144f317e01c1fcec"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/calibration/verify_native.py",
+    "bytes": 1639,
+    "sha256": "6725cccb2cdeec07c55553aa0f243025309935cb6795bcd715d9d535dd82aeb7"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/cassette-v7.png",
+    "bytes": 154613,
+    "sha256": "75afbe2eeef1db75edb96bbcdccc96c7ec00e4abbc26f4477923a041f44bb491"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/coupon-requests.jsonl",
+    "bytes": 3968,
+    "sha256": "1bd7e47b428f3ccacca6784664d91a8a93df8e2d77a4d69d74cf08b2518e7e2e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/Assemblage_V7.step",
+    "bytes": 7362213,
+    "sha256": "ee9023ff16cfaa1c4b8148800724722538ef5dca997aa98f947b4eb40f963a04"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/BF-D.3mf",
+    "bytes": 32778,
+    "sha256": "b7d6ef79d91b81b8095b70a565e697959c2acdbf8490295655e7ad8da00350f8"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/BF-D_print.step",
+    "bytes": 300945,
+    "sha256": "474d1f4d910d8114e03f623bd24041f94d04053b652211fbb572d56a3a406aa5"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/BF-G.3mf",
+    "bytes": 35100,
+    "sha256": "67d7e93eb41a782b0a56e28be69417ed662d5c51926c37f62aec692e14c89616"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/BF-G_print.step",
+    "bytes": 326371,
+    "sha256": "80f233dea4645f7834d6e3da2783fffd40f4790749c1146c9e7a71dc33130812"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/BIS-X.3mf",
+    "bytes": 1268,
+    "sha256": "42595537e2e38779c669f7c0b99219d7bc04c43a5274968468265926d4a40d54"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/BIS-X_print.step",
+    "bytes": 5933,
+    "sha256": "f67e99be6b85242127b649779754804d415a58ea8914ff60579210e75ff41247"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/BIS.3mf",
+    "bytes": 1254,
+    "sha256": "43a8cb117a6211028ab437af0de08bb774115f80936dea71ca43be6f296476c3"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/BIS_print.step",
+    "bytes": 5679,
+    "sha256": "5e61c1cbcbc4ab293301daafcbf9ebde88f651e6d6a9f8c7a8b802ede332cc15"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/BT-D.3mf",
+    "bytes": 3689940,
+    "sha256": "da0e1d478e5d56da8a5b10b6b5c85ecbac7d998b0104a5a845f4325bb7de14ad"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/BT-D_print.step",
+    "bytes": 371882,
+    "sha256": "cc4a46d43435374a0c1453710304e155a3d94d51cab52bc1b7bb7fe8f4fa5dbd"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/BT-G.3mf",
+    "bytes": 3678718,
+    "sha256": "37c95f8b9b128422b4a00941e67a68a7b44023dc64f5bd90818045c8cf8771a3"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/BT-G_print.step",
+    "bytes": 374060,
+    "sha256": "82db166de816e8ff32f8e37f1254ebc132035fbeb56cc347081f236bcf1b64bd"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/CASSETTE-D.step",
+    "bytes": 952218,
+    "sha256": "6c98556d9f6b05fbd95b1ac7be592426967156549de8727686a7f37f8d13e125"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/CASSETTE-G.step",
+    "bytes": 985261,
+    "sha256": "0b243c22912783e2d4427b471adc25450c01a8eeb2a8868f40ee245cfc33d9d3"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/Cassette_D_vide.step",
+    "bytes": 932588,
+    "sha256": "f18cc11c32c16984a5fb0fa3fd63b62043f1c8b53228ea96b83dda537e6d9f87"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/FOND-AR-D.3mf",
+    "bytes": 31363,
+    "sha256": "e0f90893e2f686fc3b4aae924c8ab056196e9c1e1a7072c7e241544066aff3d1"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/FOND-AR-D_print.step",
+    "bytes": 237033,
+    "sha256": "e26650b29b47c9bdfe09d2b71434cfddd716561f41a57a51f726b2a5bbcb9747"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/FOND-AR-G.3mf",
+    "bytes": 31359,
+    "sha256": "8aeef806d6b401b28acd7f386becee54bea8f1c331015ce3bd0c88f6fa2b92c5"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/FOND-AR-G_print.step",
+    "bytes": 235604,
+    "sha256": "fafdd0a30ceb05c382a180fa19b82e3c15c26aa007398a8df426c3f8f1e33c5d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/HANDLE-D.3mf",
+    "bytes": 19490,
+    "sha256": "670588f545afb115f7029a45b44fd088683af2c05e229a82568762afcce25fe7"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/HANDLE-D_print.step",
+    "bytes": 17961,
+    "sha256": "f8c3cdb61f519adbb93dfbc2bbb8a3718e57f245f071a8f52ec5fcc73b7f1cb3"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/HANDLE-G.3mf",
+    "bytes": 19467,
+    "sha256": "63b2a094aae169dad428b5b1b3c70c9959a626f3a6dd25d8181f302e9880eca9"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/HANDLE-G_print.step",
+    "bytes": 18287,
+    "sha256": "637091d4d3a3ce21744d58ddf8a5b2cc28cdd15e487ea75a303d3f75ba0def82"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/Joint_V7_eclate.step",
+    "bytes": 611678,
+    "sha256": "ce3442f4cd8d741ff3db0646c587543020c627b9b39ad81f9445e15e0eacedf5"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/Q-AR-D.3mf",
+    "bytes": 1601235,
+    "sha256": "0e38e22ba4f74b076feaff17bb9d76301754d07e0236f6c368912ec9ba33e08f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/Q-AR-D_print.step",
+    "bytes": 1121689,
+    "sha256": "b96722aa4cf736d90ae356311263158d7b6d5a3996712b4f83a85c3b4466fcad"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/Q-AR-G.3mf",
+    "bytes": 1591807,
+    "sha256": "5dff65e15b18587c85e494b72b8274636a4536e9d8e7879efc006306ff2cea3a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/Q-AR-G_print.step",
+    "bytes": 1136148,
+    "sha256": "a4f8a5971462057696a17413e4a60a68f88707ba5be6a660afd64b9b1e1de081"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/Q-AV-D.3mf",
+    "bytes": 1748172,
+    "sha256": "027089e0e31d1131e1c30552b561289b8f47af271f09838002197aca0c25e16a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/Q-AV-D_print.step",
+    "bytes": 1578471,
+    "sha256": "faa228abfa60100f9dc3a3ec8a949abbb60f5170560f2da48ab0a3f77c3cab85"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/Q-AV-G-EAR.3mf",
+    "bytes": 1739285,
+    "sha256": "5aa6ca85f53cd7a09d299fe469152db6450d8ce9f2264670d068536040d54487"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/Q-AV-G-EAR_print.step",
+    "bytes": 1578617,
+    "sha256": "55e96b9c77d1db8b38d457a69fcf360858f54c55b4df19c6c79c466685d1b70d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/TEST-FILAMENT.3mf",
+    "bytes": 42879,
+    "sha256": "5196fa98f0709d55d4c929919330655af138147d7f0822e7cadea3a53a2c36dc"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/TEST-FILAMENT.step",
+    "bytes": 70502,
+    "sha256": "add45040ce7bb6c84a6a7f8f2c6c99fc827d5cad1f1b8fb25c82cddf76c7d41b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/TEST-JONCTION.3mf",
+    "bytes": 35767,
+    "sha256": "5c7b5be5841a34274ff0f5e8171a856868ba6ac73a2adc8a83a783cf9497a82b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/exports/TEST-JONCTION.step",
+    "bytes": 80484,
+    "sha256": "14574d8b62c9b288fb950a53a0d66550b5e5be1cf38fd32bf89f459884e9dc37"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/joint-coupon-requests.jsonl",
+    "bytes": 3688,
+    "sha256": "4c04d45d235dcb7e97d5d36b20eaf4459070678605dffd6d37b75d562547091a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/joint-eclate.png",
+    "bytes": 156147,
+    "sha256": "43378ed96a57d7c48e09207caad13c9fa417596526bcbe0ec7a4e54afbab5d1f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/mcp_control.py",
+    "bytes": 1397,
+    "sha256": "a8c49de5bb745be023c0ba4c55f35ce855383e2f346c744f08b11e31d0e644a6"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/motion-0.json",
+    "bytes": 225,
+    "sha256": "5299322471476458b7d1570cb6671f316c2965978eae3c46090c9870855857f7"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/motion-100.json",
+    "bytes": 988,
+    "sha256": "f564358d9641dfb2d65d9e9e04eead9d09baeafd9a910fbfb42a2f636cbdd84a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/motion-200.json",
+    "bytes": 989,
+    "sha256": "fbc773b769f54f611e9330c2e067ff8ea161c2a29887ca110d73de5da017d5c6"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/motion-25.json",
+    "bytes": 988,
+    "sha256": "025b97ef79b7bcbd304efc56412a1389d473a13fa5af5f8118728876518079f1"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/motion-300.json",
+    "bytes": 989,
+    "sha256": "fbc773b769f54f611e9330c2e067ff8ea161c2a29887ca110d73de5da017d5c6"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/motion-430.json",
+    "bytes": 989,
+    "sha256": "47110d6e39ee96927bfbf358b75a1633061df717d626e50654fdc30dc5fb2d47"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/motion-5.json",
+    "bytes": 987,
+    "sha256": "2476a00b7c8e990b71a8ce1a130be248000d0f723b082fbcae1dd858428b2e29"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/motion-50.json",
+    "bytes": 988,
+    "sha256": "84f3b2bf97ee4640d54574b0d419b88eedacf9c343fb4708764389abd2ef7285"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/motion-independent-D.json",
+    "bytes": 1186,
+    "sha256": "6ab25489ff3cd6731d868e8a7188ceff015aba06e7b3c0f69e75098e6f96098e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/motion-independent-G.json",
+    "bytes": 1186,
+    "sha256": "19f1bbc719d96ed6ee68b64b60decb919b9d4bfaf384fb99668ebdb5c532bd8b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/motion-restore.json",
+    "bytes": 685,
+    "sha256": "296b6ee6da29d519a720574524659a093dc88c72e75a69c87af0d66903b7f12a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/normalize-print.json",
+    "bytes": 1114,
+    "sha256": "2f1d3f584b79ec01796f7ffb9de241f7a970ef964abecdd9d52305cb32284510"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/.gitignore",
+    "bytes": 191,
+    "sha256": "636fb3a96615615e1580e689945604ed2c1f02794bd557a80e32bd259ca02a2b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/01_Q-AV-D.3mf",
+    "bytes": 8442490,
+    "sha256": "416e889abeeb2d66284034955463b837c15faa11ded27ccb1b1881c11c0d6eec"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/01_Q-AV-D.png",
+    "bytes": 14243,
+    "sha256": "17fa4efb5ef40f5939926b1d9fcbc8648b51f52f724e6bbb25fc2ef747f6944f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/02_Q-AV-G-EAR.3mf",
+    "bytes": 8469382,
+    "sha256": "ae891d160cdcc6609470fe0a5da022f1062c4b0e0d32a7a753098575e63cd354"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/02_Q-AV-G-EAR.png",
+    "bytes": 18613,
+    "sha256": "3879889220a8dcae3399c85805f9fd99fd776825f2a2e9c8ef3f67baffccde2c"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/03_Q-AR-D.3mf",
+    "bytes": 6287884,
+    "sha256": "131c85c61b3f3309a68239b4ef9e1857ac0e4e31cd5561b40192d47a0bac72cc"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/03_Q-AR-D.png",
+    "bytes": 13064,
+    "sha256": "2a82c426f979915fc55a02e397e989195002e5c135ff768ddf8d6c1f41b43530"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/04_Q-AR-G.3mf",
+    "bytes": 6377548,
+    "sha256": "a2224a5122389ac555e3f6d6a755e26b9032c1e0ff15f8dc571bd74ae9be22f1"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/04_Q-AR-G.png",
+    "bytes": 17291,
+    "sha256": "f3624247652fbf2e2bd93a2bda87e34ddacba9af5c3f8909f74576458df7482c"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/05_BT-D.3mf",
+    "bytes": 4575868,
+    "sha256": "b8823455a4fa0d4e9a5534531eda423383e59e2d09bd2def6582c323911ff50a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/05_BT-D.png",
+    "bytes": 15362,
+    "sha256": "c73a5fc19d2357cc0526ad411ddff55bba10e6dc1811552ca9a6c4ad606eb13c"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/06_FOND-AR-D.3mf",
+    "bytes": 1752665,
+    "sha256": "3fc5dab325ab605cc96b80d37d361cc41b9da28f25933ac93cbe22297c8c9114"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/06_FOND-AR-D.png",
+    "bytes": 15581,
+    "sha256": "bd5c720149119a23b66e24c41150b7fdc5d6f19063c92d68fddbf9503367e6b9"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/07_BT-G.3mf",
+    "bytes": 4553681,
+    "sha256": "d369f1d4ec09c752dc80b4dac8c314d31e675af49ee5571be24696015d9c6318"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/07_BT-G.png",
+    "bytes": 15509,
+    "sha256": "fa900222bbb993e5a5ed29482dece8da2342efcb5a09330b53d58e904b6ecae1"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/08_FOND-AR-G.3mf",
+    "bytes": 1755599,
+    "sha256": "a161fa46b56b0a632e2a53d7ed949ea86dd099ce55dc920a0428cd71f7d11e96"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/08_FOND-AR-G.png",
+    "bytes": 15556,
+    "sha256": "f05d102e93fe03a29cccf9be93e134ec8f6ce6ea82f1c78660ac854116e4d3c2"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/09_Facade_D_poignee_biscuits.3mf",
+    "bytes": 935517,
+    "sha256": "30b8fb1a58c7a4833e8afc3aec473f04c2704dca96c697a7d4d20622637c2d16"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/09_Facade_D_poignee_biscuits.png",
+    "bytes": 15471,
+    "sha256": "656dfcc597c708a082e09f3275e853f6ac19138f551f5df0983fea9bb879ec13"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/10_Facade_G_poignee_biscuits.3mf",
+    "bytes": 959623,
+    "sha256": "b1eb558c0aad6b195487ce9e04d5c8c392c980bc124094fa1aa705a15478f6f3"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/10_Facade_G_poignee_biscuits.png",
+    "bytes": 15695,
+    "sha256": "217aa3afaf04ea93d377adedf306567359db8a38a5397a729255fffd55e43ef9"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/11_OPTION_Test_filament_et_jonction.3mf",
+    "bytes": 2089244,
+    "sha256": "5087b892852362bf73c3986c8e7f8458c36efd410d188a2b8b4f36e18a7c2472"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/11_OPTION_Test_filament_et_jonction.png",
+    "bytes": 11606,
+    "sha256": "23827e23861e0899881ad873490fef6733e9c9f3b93547b3e064450df8ed2c91"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/Apercu_plateaux_V7.png",
+    "bytes": 191573,
+    "sha256": "1ee714b6a5c10e701b6f3074537e1289fa7a0d32273a33a22699ce8045d42131"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/README.md",
+    "bytes": 4648,
+    "sha256": "95319f50588de2c34f1a47aa40182e2eb6936171d71d03b0b034eed5956163a8"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/SHA256.json",
+    "bytes": 1029,
+    "sha256": "cd156e96c51c26690119bd429616d4007a4541091ce1589d098abb0034e77b03"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/audit_plates.py",
+    "bytes": 3110,
+    "sha256": "e26a90bbeca031f284972a86e23a1d159d78cca79c24cf493b5540682f133cc8"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/build_plates.py",
+    "bytes": 4796,
+    "sha256": "6fdeaf2ff51c3afe24464526095972c9437fd46a023eba6cf70d9ebd65a27691"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/contact_sheet.py",
+    "bytes": 1214,
+    "sha256": "eebf314ec6be8d7c70defd6f270bd7116f430a8114749133c86bf859f62088ed"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/inventaire.json",
+    "bytes": 2792,
+    "sha256": "810d02e94cba3c165e65ec8bd184e3e5a75fbfac442c9960fd825115faef25e8"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/package.py",
+    "bytes": 2443,
+    "sha256": "d3dc96af0e5e0f9d7d2394fefb5511198e427ddbfd62be528f10b98e65695b8b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/prepare_profile.py",
+    "bytes": 1513,
+    "sha256": "0e957e6e61bf8f78835f26777e5ccbe62c107d213a43bd4874abbc1c07285366"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/profil_PETG_HF_noir_X1C.json",
+    "bytes": 55805,
+    "sha256": "f4e20e1e64537a3298f8d9b54325b3d21cb2251a3896218e207ebf860930e746"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/slice_plates.py",
+    "bytes": 1756,
+    "sha256": "8c73bd482d0bb619efe7c43f2bd6cea0f589cc1ec4a7e20e9e28dc991073b896"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/verification/01_Q-AV-D_placement.json",
+    "bytes": 198,
+    "sha256": "7742f00b2e78d8a2c7cf4eb688e112bdf0e13d4ed3f7bc33296bc5ec5a8e97c6"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/verification/02_Q-AV-G-EAR_placement.json",
+    "bytes": 198,
+    "sha256": "bf9929d9612249e830dff70353297e4f9b743f283c8a62c866da1d348453c1bf"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/verification/03_Q-AR-D_placement.json",
+    "bytes": 188,
+    "sha256": "d385479c6ac580a04917de6d43d1f8987e93a62ddc2e040feb22bdbeaebe1afe"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/verification/04_Q-AR-G_placement.json",
+    "bytes": 207,
+    "sha256": "b3a330659608093782a178a15c8912a16b6a004a5eb1b11df186520a83b61508"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/verification/05_BT-D_placement.json",
+    "bytes": 188,
+    "sha256": "3180a4be34ff4304a9deaa83390873042f020dc47cf79a0fbcc8b9e14593a544"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/verification/06_FOND-AR-D_placement.json",
+    "bytes": 157,
+    "sha256": "c042bd89a3b8e80113d5e54583408cc29e1da768253f4dc5eb5f6ece3dc75825"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/verification/07_BT-G_placement.json",
+    "bytes": 188,
+    "sha256": "4e747ae2645696c8ed0238e39775ea983afe889c9275a5c622df5d192c4001e5"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/verification/08_FOND-AR-G_placement.json",
+    "bytes": 157,
+    "sha256": "10fd3ed66cdc0309182928366c38ea88033bd578cb43318c9706d5f351c557c3"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/verification/09_Facade_D_poignee_biscuits_placement.json",
+    "bytes": 1482,
+    "sha256": "0e7a87df1778a3dd11138d915559bdb777909e7bb087e1d67a5e9bc1056bad11"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/verification/10_Facade_G_poignee_biscuits_placement.json",
+    "bytes": 1508,
+    "sha256": "0296741ae2463c330ed1406e0a3c841bdb1b317aa1e74456d94ac2693d878ebb"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/verification/11_OPTION_Test_filament_et_jonction_placement.json",
+    "bytes": 289,
+    "sha256": "acc95bc3348b9e586560054c9074220ba10d735331aaafaf16476a2d6b5fcb05"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/verification/audit-plateaux.json",
+    "bytes": 16653,
+    "sha256": "333062eb10cd85f363444706c90789c4ee0984f250cace6c4ef960081c0c6625"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/plateaux/verification/profile-normalization.json",
+    "bytes": 16432,
+    "sha256": "a9dcad204324b71f9e3bbbbe91dc64839264c2f525491b011f03975a0784ecc7"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/presentation-requests.jsonl",
+    "bytes": 859,
+    "sha256": "a5c19f7cff40c802cc7fa7e1bbde21acaaaddfc261fc01ce0f24b4ad8649f9d1"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/print-export-requests.jsonl",
+    "bytes": 1344,
+    "sha256": "49f5f1b9d6466451c64b5552590c2dca9197b0caffb1a6527d7e5e02d9b6deda"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/print-parts.json",
+    "bytes": 210,
+    "sha256": "c3690b8b1fd608d6962000bea5c3e7e49f2b19a39b8613e88e9f2ca8b2d1aec4"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/quick-trial-requests.jsonl",
+    "bytes": 8026,
+    "sha256": "e3d31235a887e05065f44597f1b0ab314d971216d673702474ff58b12b96e6a8"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/remesh_step.py",
+    "bytes": 4015,
+    "sha256": "1a476956812d63a0c633b5cf488c38ea71c344afe18afeefe5f5b38fde7b1563"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/test-filament.png",
+    "bytes": 53683,
+    "sha256": "487d0cd26b19efa5128acb58283c52130dce228de7d8fd9cce1ae9c627e5148e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/test-jonction.png",
+    "bytes": 71797,
+    "sha256": "42b9a881e7dc687c21e4e031224b123d337b1137f8815b5094f65837926916e9"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/3mf-audit.json",
+    "bytes": 8190,
+    "sha256": "7bebfd3ace1666ec3858a5d8d7252d4bbd52c1c547ebb200d226f97019d9da22"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/coupon-3mf.json",
+    "bytes": 259,
+    "sha256": "a75b1030c8d3dd17a9ca1b2c2bbcc8a6cb04d8c95528fdc4fb63b7127ae99d45"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/coupon-build.json",
+    "bytes": 5005,
+    "sha256": "91bdfe44c353a8f55c2152c8383aa8770cec81123b37369ad9eeafd229b2d511"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/coupon-measure.json",
+    "bytes": 1233,
+    "sha256": "394eecf5c7cc04419d37b3b5ea86ae2e7db75696422aee6f23589529889d58dd"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/coupon-native.json",
+    "bytes": 269,
+    "sha256": "e07375a9bf1bc184be7d66aa9d401344a805ba62e0983e3833b3f49b06f6f308"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/coupon-step.json",
+    "bytes": 257,
+    "sha256": "9620fe78e4e08909104f2089728659235ff0a156cf15bdadc3a4bedff01f262b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/explode-presentation.json",
+    "bytes": 732,
+    "sha256": "06e557fd9263ed28ee9ef3a557f7b78ce34da1c8057545f45dc6e108e0ff8632"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/export-Assemblage_V7.json",
+    "bytes": 260,
+    "sha256": "32962271e006d6a173ef28bfea6d5d20acf8533e4cf6b2f7acfac96485d84e75"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/export-CASSETTE-D.json",
+    "bytes": 256,
+    "sha256": "d2a13eb26bdbd9bb6f2df2d70c650ffb4b31dfbdf2c97a51b62fd4c46af2c49e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/export-CASSETTE-G.json",
+    "bytes": 256,
+    "sha256": "3730817fa0cdbbce05a3936b67113030ea45e0185136c65c4bd8e0ef54c657c0"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/export-Cassette_D_vide.json",
+    "bytes": 261,
+    "sha256": "11296d0b4181682c8ddc7c432126acf088f8d2ff9987c0635becd3d9e06c10eb"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/export-exploded.json",
+    "bytes": 261,
+    "sha256": "adef49899466d0f4634c630a5c47806979fd81e7913ff880c121aa90493d1988"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/inspect-final.json",
+    "bytes": 451841,
+    "sha256": "41cac24a907f34bfe1c9b15a39dc277d3b00a5da0bd1c4d96a56825b009df772"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/joint-coupon-3mf.json",
+    "bytes": 259,
+    "sha256": "bb2b163aef8bab358412915b0a1f7570577199a505d1f21cfada253a70844287"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/joint-coupon-build.json",
+    "bytes": 4209,
+    "sha256": "1aa7c06d9b2b95ebab07a9573a6ca18b81f75f59c30a72a14f3a3d98b77dafc0"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/joint-coupon-native.json",
+    "bytes": 268,
+    "sha256": "01e280fbcc6403ad42678027e7b9e004a28933cf7e4e4cfe56f17d276845671a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/joint-coupon-step.json",
+    "bytes": 257,
+    "sha256": "d8502692f07f6a5996c87274c8fafe759d237cdf3af5c4d6ca60391545487820"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/measure-built.json",
+    "bytes": 38462,
+    "sha256": "c556050dd33b7aa15d2bf174760cbcd7fcff801a6f788b33888f74577baad1a6"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/measure-final-v7.json",
+    "bytes": 38450,
+    "sha256": "25e6dad46b8c3d6e93121cf4e08595515abcae841d2055a39ea25d15c6ab4be5"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/mesh-BT-D.json",
+    "bytes": 405,
+    "sha256": "5d425c867e074e22677a3fa4603ac0269a599530c508fc42ad4adc55318de7d8"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/mesh-BT-G.json",
+    "bytes": 405,
+    "sha256": "43ca51acbbd906a7e9a5a18aaee302ad1b2fd786117c38cf780a803d6dacb9ef"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/mesh-repair.json",
+    "bytes": 2832,
+    "sha256": "b1211eed075570c481dd4039238116b96c4a1c93d609dc5366e6854762c6d73e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/metadata.json",
+    "bytes": 505,
+    "sha256": "fd9801a1b59805341e233002fc7625e98c872b2a78a5fd8e4faf2881dbe49502"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/motion-final-0-corrected.json",
+    "bytes": 2207,
+    "sha256": "58db5d34fb1317cec72642374090b29e821485b75776056a0908bf7114894a0e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/motion-final-0.json",
+    "bytes": 2198,
+    "sha256": "8fc010f943401282e29f6b1875dd6b2abcf086dfe6dc49ef8d4a98d4bd6ac04a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/motion-final-100.json",
+    "bytes": 2963,
+    "sha256": "0b390f4edebd6ad43e571cb5adb9b37398b242fb6eaa3e05ab91a5660bea5c8f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/motion-final-200.json",
+    "bytes": 2957,
+    "sha256": "24595bf6a4af55371ecb39a9dcbe28bd38370ad80762fe4b3369aa2834afb60a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/motion-final-25.json",
+    "bytes": 2969,
+    "sha256": "fcc955ee14e74d4443eb7a2473302e96a24bd6023a0a46fe684b476d04a98a17"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/motion-final-300.json",
+    "bytes": 2966,
+    "sha256": "fd63d2e1a3429da07bd4eeb300c57035d0e0522388f4f967d1acf658941d734a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/motion-final-430.json",
+    "bytes": 2980,
+    "sha256": "8856d5858024fecee229dc925115f8219a8e0fa4d5fce0969d66e7040334179d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/motion-final-5.json",
+    "bytes": 2965,
+    "sha256": "22db1e2ff458b9758d0145facd77215b5bf137779e88ff7db042a13f669a98a4"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/motion-final-50.json",
+    "bytes": 2973,
+    "sha256": "0e103ae3ee08b212fe0c9d8ec399ca2e7d45112df5f9261ddddb7e571c6ffe16"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/motion-independent-D.json",
+    "bytes": 3206,
+    "sha256": "63dcfa7377285b73bf46fc051b3c7919589b4e56c883503c0aa791364759d9e0"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/motion-independent-G.json",
+    "bytes": 3189,
+    "sha256": "f8754c6d648a63850749dd6ba3e93f5a7aa251889a3c9c1d6129ccf4b4e0aacc"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/motion-restore.json",
+    "bytes": 769,
+    "sha256": "e2cb23cc8ec8dbcc05706f58c31e953ac8c78efa80cd674bcc5750aa127bad33"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/normalize-print.json",
+    "bytes": 1178,
+    "sha256": "23ab3e1d0fc27285493a904a1f10b7bf4c68dcd028be3d2a764bc26d98c64e34"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/open-v6.json",
+    "bytes": 299,
+    "sha256": "4cf5506720780f64724d8a104749ceb4fe84a6a38ff6edd55766068c37116752"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/print-BT-D-3mf.json",
+    "bytes": 251,
+    "sha256": "3cc27d6626478fb5d87a25ae50e98d1fc6db8d1f5032a58cc1698e43f5ff2a5d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/print-BT-D-step.json",
+    "bytes": 256,
+    "sha256": "4f74b645c47cc6aba5a0611d38d135b1d49286ffeb194f202c653909ce64a85c"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/print-BT-G-3mf.json",
+    "bytes": 251,
+    "sha256": "0b4f0f7a0ab194c891b4f627e7ff33caba59214993bd66f02f068cadc17a7683"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/print-BT-G-step.json",
+    "bytes": 256,
+    "sha256": "c62b526b6e265faf10261a2e532582e009e39157cc398104b71efbb4a3d09f13"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/print-FOND-AR-D-3mf.json",
+    "bytes": 256,
+    "sha256": "c79d8a4b8e964d85bb12065530f0940a0e83ae1785c872b797c57dc046866364"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/print-FOND-AR-D-step.json",
+    "bytes": 261,
+    "sha256": "bf35999d958a1105410dbcb89f126a30ebdf1b0ec0d4a369f83830e4265addf9"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/print-FOND-AR-G-3mf.json",
+    "bytes": 256,
+    "sha256": "f961785cf70d227d209daac315ffea764c285312b6fe7a4fc50c45f82c7cb161"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/print-FOND-AR-G-step.json",
+    "bytes": 261,
+    "sha256": "1c0e87ecf0e82e89242a3a9804afaf9c3a08323cb0f6d1ac0a52b233679cbf7b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/quick-export.json",
+    "bytes": 265,
+    "sha256": "38919eb2b2ae41ec830f10c1f73376d51418af448a4b32e1ea9c9c3b421668b6"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/quick-interference.json",
+    "bytes": 1820,
+    "sha256": "e08bd5937fae9f46d4d04b40b1e6c402520741bb2281f93f130897fcc81b9173"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/quick-open.json",
+    "bytes": 680,
+    "sha256": "675fc4d8be4264953f1cbb970c56f7920818b9aa463f0b14d2ccdc40c09790ed"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/quick-walls.json",
+    "bytes": 10211,
+    "sha256": "885a12c52aa9baf7ecaf364d2409e60396d16c2bf7fd8027b472e458db75748e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/remove-isolated-plugs.json",
+    "bytes": 727,
+    "sha256": "f855964a3ec9b9e10b1e3414be3e978331088ea86ad53a6f2656ca1a261b3c2e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/remove-outer-plugs.json",
+    "bytes": 737,
+    "sha256": "a4e0dd4e01cdb7d09398c3037944f9091b4f0a2d80030bcce153b9f27bde2f26"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/remove-splices.json",
+    "bytes": 570,
+    "sha256": "50c1d86f30da86724aa64e7360da01227865feeb51115445a579ee30773efa27"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/restore-presentation.json",
+    "bytes": 722,
+    "sha256": "254534dca966c2804dabe467998a9c68dc12a343a79fbf6258fc1655a142cbef"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/save-v7.json",
+    "bytes": 281,
+    "sha256": "9de434379900c0d4695cb5d197fa11ed84f494dad95a3e5f1800df5d98fe5ace"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/summary-avant-calibration.json",
+    "bytes": 1518,
+    "sha256": "8910829feb277cbbc92f58ee0adadd13529a392cd33e2373040ff22dc6b160cf"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/summary.json",
+    "bytes": 6719,
+    "sha256": "0fd6c9d8d8c5a025c93976a346bae9a2b7aa493c54552d84bf928d5c578b134d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/walls-D.json",
+    "bytes": 10236,
+    "sha256": "4fec6a30de82c5553497ddf41d84725da3eb61e8de53a1f7f8b9f1570d2aa056"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/V7/verification/walls-G.json",
+    "bytes": 10250,
+    "sha256": "8839ac1dd0f34f6a81d9203129bf31a9c701264f6caf9d54a0691c20c9ab5baf"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Variants/Q-AV-G-EAR/Q-AV-G-EAR.step",
+    "bytes": 866744,
+    "sha256": "ce8a5988787ea354ec2f6cb1f6270c5c64455713236f7d6ce5c144ccbb6cbd49"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Variants/Q-AV-G-EAR/Q-AV-G-EAR_face-avant.3mf",
+    "bytes": 54500,
+    "sha256": "beb19c3bb6b351e71effeb1a0cf4a0dfc13c21595d8f4b3a14eef633c6c1281e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Variants/Q-AV-G-EAR/README.md",
+    "bytes": 3397,
+    "sha256": "1e4b8b20fea64a3723924733cc1da7ea0d6ae989a96ed64a1080879194e08412"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Variants/Q-AV-G-EAR/Rack_variante_oreille_G.solidcraft",
+    "bytes": 21453016,
+    "sha256": "cbde366734e9f02626c724bb8466fe08bc723e551d157aa4ce19662f969f5455"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Variants/Q-AV-G-EAR/construction.json",
+    "bytes": 1787,
+    "sha256": "73da22fc28d8b8a131ac6ff8a936b041590c7adbc806650796af170ad169fa53"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Variants/Q-AV-G-EAR/mcp_session.py",
+    "bytes": 953,
+    "sha256": "95b23b5ffb0c9f3d10a422bb3637873802cfce8ce14f4ced8b331d3af1a1f839"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Variants/Q-AV-G-EAR/orientation-impression.png",
+    "bytes": 57029,
+    "sha256": "2e65dd24c78a321f8c38c54193c838a673f7ccc4b59d0f56443e052ce44c9c1d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Variants/Q-AV-G-EAR/verification-interferences.json",
+    "bytes": 1477,
+    "sha256": "74240da7c47ff8e004576e0adcec438044a36f1d9f031e4b4c5aa564dda3796b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/Variants/Q-AV-G-EAR/vue-3D.png",
+    "bytes": 94350,
+    "sha256": "60da368b2c643797e65418c1517dfad2759d7919f3cfa6f6e85da91c5e71c1cf"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/animation-guidage/Coulissement_Blade.gif",
+    "bytes": 2438726,
+    "sha256": "867603eb9e3ad02c1f3629b5a83510696c8c60bf2cb38405a5a2d140a316aa52"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/animation-guidage/Coulissement_Blade.mp4",
+    "bytes": 273084,
+    "sha256": "6b7b5740753bcf9e0ee4769f5eb506f4d7df93145efb5f2a182760e70035e666"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/animation-guidage/README.md",
+    "bytes": 1219,
+    "sha256": "038f82ebf5890c891830e956db659a4bf02d4d0d6943dd001ec977699abdf101"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/animation-guidage/apercu.png",
+    "bytes": 49510,
+    "sha256": "c81b45286feec46ad82b7b3147726996ce2136f83fe89102f8977159cbb15363"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/animation-guidage/build_animation.py",
+    "bytes": 4693,
+    "sha256": "46cb31a3034959411ac82d20cb757da766f3d8ed1096ad991f18171f1ef048dd"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/animation-guidage/sortie.png",
+    "bytes": 51423,
+    "sha256": "39b53eebc04e423fb6867e80ce5ed2022df964f857aee54491222a663d68ee66"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/3mf/BF-D.3mf",
+    "bytes": 25407,
+    "sha256": "83777d730e085271f27b7f1d9753a0c542ddb6ecd3d5549d51a2b1f0dc48cc90"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/3mf/BF-G.3mf",
+    "bytes": 27479,
+    "sha256": "bd2cf28702598d6cc8356886d69a18d04a01730e1f5f87705a37455cb5ba50f7"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/3mf/BIS-X.3mf",
+    "bytes": 1182,
+    "sha256": "a26fa3127e8a4c20b296398c481f5f03dde5626e439795fa8e007bb1df454480"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/3mf/BIS.3mf",
+    "bytes": 1168,
+    "sha256": "0b23868e9bdbe7483dd75714069e8f82705bc83f93b2be2b1c2cc76c1800db13"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/3mf/BIS_20_plus_BIS-X_2.3mf",
+    "bytes": 2212,
+    "sha256": "3aa44aa0ff3239a7c9f6a44ae8b62ba8109d0fdc6a839a329baf870f2df73d16"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/3mf/BT-D.3mf",
+    "bytes": 33329,
+    "sha256": "26f21f928050d11580d8c1b99b7b09f1d5c356500e78dca5fb956b3ffbf20389"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/3mf/BT-G.3mf",
+    "bytes": 33636,
+    "sha256": "f421b41d41fd6be6b9ad91d94b3e8b2f5a07b9ed7323dc1df392d221ede33733"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/3mf/CL-AR.3mf",
+    "bytes": 30482,
+    "sha256": "5560fe639191d2629be7e0fa22a34923baa8cfc802d615571810cf5f24166569"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/3mf/CL-AV.3mf",
+    "bytes": 29145,
+    "sha256": "bd313252e6f990b4fa8a90b7aa7c1664b28add3448043f5983ed5cfaa4e17d60"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/3mf/EAR-D.3mf",
+    "bytes": 20262,
+    "sha256": "c1e29b779d7c429702d608bbc8a44925e083b153083dad69add79c42f9f6738a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/3mf/EAR-G.3mf",
+    "bytes": 20215,
+    "sha256": "ee0cc2eadfb7ea5a6858b2cb590d2b6e83aaff8c815cece25d4d70694dec7939"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/3mf/FW-D.3mf",
+    "bytes": 16467,
+    "sha256": "165e05164b5ed23f288b4926731abd8098a45fa3082724171c4d3b621f13da44"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/3mf/FW-G.3mf",
+    "bytes": 16506,
+    "sha256": "0f6712829f27971038e830f6827a93b11337e39c011b749ede8230d42cc56480"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/3mf/HANDLE-D.3mf",
+    "bytes": 19104,
+    "sha256": "bd457038d2053fde9364714b8f1257f984d4f99227f29e88386292fda84651e7"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/3mf/HANDLE-G.3mf",
+    "bytes": 19129,
+    "sha256": "c65034b2c562aac278234741ae62e25a1cd4846c2e16697bef0c878f9225bbdc"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/3mf/Q-AR-D.3mf",
+    "bytes": 1303518,
+    "sha256": "1f63ec368b4e0a0e8cbfaed5a7766586219f07756cb2dc8b19f8a87184c1f4e4"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/3mf/Q-AR-G.3mf",
+    "bytes": 34489,
+    "sha256": "c3f2e755b356258325a8ca9d0694ee298492c6d58b52a234e37408204f01ccec"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/3mf/Q-AV-D.3mf",
+    "bytes": 1168663,
+    "sha256": "bd7ebc45cfe93b61a17b233462887f47aeb3dc82547f86e18fa4476977d7467b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/3mf/Q-AV-G.3mf",
+    "bytes": 1179608,
+    "sha256": "32eed47c7bab5940391eee97b9b3aaada1579b41734418c65c9bc93e9e0fee38"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/3mf/TOP-AR-D.3mf",
+    "bytes": 20284,
+    "sha256": "48b0d30f425cb863e99126354d9b8b24dcfb395d7404e663cefe980f81266c7b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/3mf/TOP-AR-G.3mf",
+    "bytes": 19784,
+    "sha256": "eb04a871052c0b5b82e0a053ac13482752b1ef158b869be3f811ac31c159ea90"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/3mf/TOP-AV-D.3mf",
+    "bytes": 20138,
+    "sha256": "c9f39f6143742f33fa41dc4e9aa65b8f839c6b24721e2a67c4a636476b48fb85"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/3mf/TOP-AV-G.3mf",
+    "bytes": 19774,
+    "sha256": "3050cdab45cac083e32b8ede3bd5e394a2c7c7029f792e3ce8351de6270741e8"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/step/BF-D.step",
+    "bytes": 267970,
+    "sha256": "5654f08098430204342fe0a4807f571899bd0f9cdc5728a5d8a4247446409f44"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/step/BF-G.step",
+    "bytes": 298328,
+    "sha256": "0ca71b6edb26b01e679681df7bcec71600a72b86106c1a158727c70ff18e7efe"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/step/BIS-X.step",
+    "bytes": 5751,
+    "sha256": "019ae2ec3c1db40ef9d94f9497f575e310d3caf2009da22e7a29b13b1fb38c39"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/step/BIS.step",
+    "bytes": 5521,
+    "sha256": "c6d5cf229005ffc82eb9f607b898c97b5defccb7d3f41ddbc3cc99a7a75e9a0b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/step/BT-D.step",
+    "bytes": 229999,
+    "sha256": "b5f556213cea1afe8df84bf8cc2f9514adec6c5db704591ead18445a1c23b68b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/step/BT-G.step",
+    "bytes": 230821,
+    "sha256": "249086c29381a89de6ca6e12da1bff7e89ab39df121d6b4b5d325cb1f8d0833d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/step/CL-AR.step",
+    "bytes": 432254,
+    "sha256": "f69fc25ae9e038c0ef86a53bb7e5e8259dda2a2e3d2ed2eb7d2bef94200a7fda"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/step/CL-AV.step",
+    "bytes": 487667,
+    "sha256": "d2afeae496f7a5cb08702a60a2f30a5ef2bee1d300aa178f40a7bf2699bde85d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/step/EAR-D.step",
+    "bytes": 56241,
+    "sha256": "64862be4aa90a4412f8970d2221a7cfc0b4a0dab31cd1b1b90f55e8e12b1bb71"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/step/EAR-G.step",
+    "bytes": 56628,
+    "sha256": "09f5a1d26a45d9a5a8f6e3c10770a6ec3964f3335fab028582d48575fa398c37"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/step/FW-D.step",
+    "bytes": 107980,
+    "sha256": "9a9eb6aaa1fdd61986330fc4ec68eab44c784bb181e1b8f1f57cb9ed2d51654e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/step/FW-G.step",
+    "bytes": 108148,
+    "sha256": "6c0ea3f324ea2eb2236a14d7dc4b1736398444e2a0a8efbfcaa08715ca7c708c"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/step/HANDLE-D.step",
+    "bytes": 17591,
+    "sha256": "e63e4d989f9616277328e4e547b31e3f95b994af7dfc7992c6873e0ed3a3ba8a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/step/HANDLE-G.step",
+    "bytes": 17794,
+    "sha256": "f046f310eb708292efb64316188e80bcb03637769596e2002c2f3f3530d34ec9"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/step/Q-AR-D.step",
+    "bytes": 605423,
+    "sha256": "4681c1eea3da2852f50bea43e2e6f475e1bf3895cee7b433e03c8bc8d52ac951"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/step/Q-AR-G.step",
+    "bytes": 604488,
+    "sha256": "64d46f101fd05333fb4a0b4f343d1ad0cb034cf6adc7b4c1fc03a6dffb95da00"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/step/Q-AV-D.step",
+    "bytes": 817394,
+    "sha256": "bc4eaad0f667cbf4f1e1c61b1abe2780cf8f520eed05d60bf5e0dcb0b026a0bb"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/step/Q-AV-G.step",
+    "bytes": 813842,
+    "sha256": "f2ddf6a2e7c9a0bd6b681c8c32837cd4b696ef55735cdfed314ec145aecabbb6"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/step/RackTuringPi2.step",
+    "bytes": 7187418,
+    "sha256": "a7ea6e5d52d41d7e4324a8693a70f24ecd07ab66f0e9ae45d78821d83be7ffc7"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/step/RackTuringPi2_with_ref.step",
+    "bytes": 7230617,
+    "sha256": "306db604af5354ebb9e1e25d19ef475415eedd9ba35165e7d583d023f4648bbe"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/step/TOP-AR-D.step",
+    "bytes": 400203,
+    "sha256": "3c27fbe12ef3db8aa9c27be8c91b8b54741ed0cc48e6bc555f4afb148a6ff182"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/step/TOP-AR-G.step",
+    "bytes": 401526,
+    "sha256": "8f9f88a2707c4304380f43c1a8e8d7e2d25c88037f77eb90e2e47dea136e1304"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/step/TOP-AV-D.step",
+    "bytes": 409382,
+    "sha256": "97cde8fe33825384c7785a4419014582aa3b151e21ec55e951d0f1e3cd7aefb2"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/exports/step/TOP-AV-G.step",
+    "bytes": 410546,
+    "sha256": "d4d284347e6d051269fe754b144cb74a14f2d89eef33af93c05a159c7c39c9d5"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/README.md",
+    "bytes": 1602,
+    "sha256": "2caea839b390b7aeddf70af0daf9f48977ba0576835c0e02c7e83b342228557a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/blade.png",
+    "bytes": 45003,
+    "sha256": "128f2d4491ebe7ae1ce3a38f281e68e43a8ff9173c7ce62e54ce8fddae41b021"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/build_notice.py",
+    "bytes": 18449,
+    "sha256": "c6a7340befffebde70a1892fcde0884ec2bf1c8c338f5828c090db58296fea57"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/capots.png",
+    "bytes": 69894,
+    "sha256": "4096345d6b00c45c12ac33e7334db87400912829c6d977b39ca20c95619167d1"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/cloisons.png",
+    "bytes": 51051,
+    "sha256": "d255a35ca845ab4d613ba2b269079f89d1a57056e02260d5748d21d369102342"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/final.png",
+    "bytes": 63341,
+    "sha256": "6202e195c8313a7f51313f757e1c75aabbe61c1abdd8377da5f0a1be9ad4f246"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/guidage.png",
+    "bytes": 60349,
+    "sha256": "8b0e2e497b9b6beeedb448c48b4a6c49711a7b67d9a01c9a737c9c97b92285be"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/oreilles.png",
+    "bytes": 65925,
+    "sha256": "c2927cd251343b28d7bbdaab15993c783e4d47f3085d354e47ffa4c232937812"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/print-BF-D.png",
+    "bytes": 25414,
+    "sha256": "c0786f68269ba9586355799064a80f70eb686a1937f3e50e302c5bc4b1a01783"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/print-BF-G.png",
+    "bytes": 25454,
+    "sha256": "29198797b608747f800e76736a9dc2072998b68d7a4bb7a7946f7059ed837552"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/print-BIS-X.png",
+    "bytes": 14078,
+    "sha256": "c361e061fe1ab91e722905ae6a4ffe779586f07d97e64d51336a0ae0c2eee26c"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/print-BIS.png",
+    "bytes": 12976,
+    "sha256": "db1a1149b96d48987cfb3c323c3a4bc07c59dfc7ff5a22357f7d9083a28b2797"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/print-BT-D.png",
+    "bytes": 29856,
+    "sha256": "c87736681bad6e373454b717181136a3fff0b758d7597562403ff78e834722d8"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/print-BT-G.png",
+    "bytes": 30437,
+    "sha256": "2d28fd12ef24649077c48901a964403b2d6b461ebb275a22a77fad2eb80184a3"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/print-CL-AR.png",
+    "bytes": 25364,
+    "sha256": "e0247cf02c11a62e82dde8243b685b3015ee44170a066174c0379907619da3d0"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/print-CL-AV.png",
+    "bytes": 28095,
+    "sha256": "6d8c3362b41e716f1124d25d10d76db668080e10be25906e080b620f2badf5ed"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/print-EAR-D.png",
+    "bytes": 19963,
+    "sha256": "9a9ca7caa610e4fc83de6871005a3577978f2ddfd86e463ea364db11401107a3"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/print-EAR-G.png",
+    "bytes": 20290,
+    "sha256": "76353519311f8d7f292b2f8cbd08aef576ec65e3432e300d1448b420d094070f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/print-FW-D.png",
+    "bytes": 19324,
+    "sha256": "8f6cacd3bc60b951411fa7f164db0699b41d0aa5f23c7874b108b7fc42f73761"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/print-FW-G.png",
+    "bytes": 20661,
+    "sha256": "7d7a82b5ff92b137cb1d7004247e390a87d7202ead935ba865b92128cd8a470b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/print-HANDLE-D.png",
+    "bytes": 17734,
+    "sha256": "91f475a01e2c0f03342008e3c4fb01d07a2e7254bfb88a36356f88641aaffbc2"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/print-HANDLE-G.png",
+    "bytes": 17353,
+    "sha256": "fe9543c5539da01f8a8912731f5e132b9b52353ec36fad0ecfeb475d0b5b2966"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/print-Q-AR-D.png",
+    "bytes": 25466,
+    "sha256": "1713b070f7320483b67619a07de3bb7c010f64118156e1a215cebb66adff4f33"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/print-Q-AR-G.png",
+    "bytes": 30087,
+    "sha256": "3a412227af1d1e768eef0b38921795fbc573fef08109bab4fa4be56ce92c7fa9"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/print-Q-AV-D.png",
+    "bytes": 22233,
+    "sha256": "ca4c93f1b99ec641d6e99579e64523b4bdd3dbc3bad60faa551b494d17080248"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/print-Q-AV-G.png",
+    "bytes": 16015,
+    "sha256": "987208f47114d8c878e4d8ff66e7df774928a8a52c0adb6f859fec494cc86587"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/print-TOP-AR-D.png",
+    "bytes": 21665,
+    "sha256": "e87439f76c73d656f3ed9c4421e06fc520d7fef4af180cd03eda97bee8725229"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/print-TOP-AR-G.png",
+    "bytes": 21709,
+    "sha256": "75bf997cc7dcbf1b8dcabff65d6b8d60f5c0d68981df216f73d64a91d5d517e4"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/print-TOP-AV-D.png",
+    "bytes": 22395,
+    "sha256": "95475322fd488c6c9cd63c98ce1b8f8ead2f760887e594064300051ceab3ad0f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/print-TOP-AV-G.png",
+    "bytes": 21543,
+    "sha256": "b4bce20578b8d69ac64a7ca7ee668aebaef922c6b3cf20fdcd208fcd03342154"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/quadrants.png",
+    "bytes": 46705,
+    "sha256": "be5769899a0fc87bb610db1b03a0a1de2e78cd545a7f8440ea31903f509786ff"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/notice-visuelle/ventilos.png",
+    "bytes": 54909,
+    "sha256": "54752f809813885c7df9aa37659f286e95f8a5710e53ef158b7943899bf8ac4b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/previews/assembly-back.png",
+    "bytes": 53869,
+    "sha256": "87b77df97a164c1928d4f05dae34ebb5bd423deaba79952898f2bf97b640c5ae"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/previews/assembly-bottom.png",
+    "bytes": 61428,
+    "sha256": "687390e54d43026ee6bedd33cce4fb216b64e604bcd76a26b944bf79d55093df"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/previews/assembly-front.png",
+    "bytes": 45578,
+    "sha256": "ee0b32e5f71b589096ba08050a2d07d6477ef2e408a1834491b1b5b3406c037b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/previews/assembly-iso.png",
+    "bytes": 202368,
+    "sha256": "4f81cf0920848bbfcaaf324047c84593fcf89a26e5ed3c07d51f52cb3bb1a2ce"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/previews/assembly-open.png",
+    "bytes": 179549,
+    "sha256": "b99fced667776565265284bee881eb6d19a850ee7f8e720e83ef94ee67a3318d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/previews/assembly-top.png",
+    "bytes": 115921,
+    "sha256": "a878b55a3b0d296bdf5fbd541ec922e9b047e8a43f2f47e67442b49880bc9fe7"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/previews/part-BF-D.png",
+    "bytes": 47677,
+    "sha256": "840d4e3813610d6fb34a9492b61a59781eca84c02f3a9dd58746dfbdc9c02730"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/previews/part-BF-G.png",
+    "bytes": 48059,
+    "sha256": "ce33831218d2ec1e8fd35645db88a4c8808711aab621e8a24c8d821c7371c1d2"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/previews/part-BIS-X.png",
+    "bytes": 24079,
+    "sha256": "dfea5b52eb73bcf4b722f46dd4bef94657e3febdbd4de3c039d213cb53eb11ed"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/previews/part-BIS.png",
+    "bytes": 24531,
+    "sha256": "e213a9d2dcee6ab04fc1f65ff99e0274ca7081a1487175d6cdf5feacde29bc07"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/previews/part-BT-D.png",
+    "bytes": 46739,
+    "sha256": "ee5f67b7d43f6ddaa964f1ace4e24084dc68473c810b04a401ef1f563bfde850"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/previews/part-BT-G.png",
+    "bytes": 46674,
+    "sha256": "263308415fdce16b3f130faa024350471eaf76eadd32559766c16620e0c6aa7d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/previews/part-CL-AR.png",
+    "bytes": 37728,
+    "sha256": "175ee756c6443cec7da72bd84f1f47e03a95bfe3744b8cedf3604bb04f280c78"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/previews/part-CL-AV.png",
+    "bytes": 39361,
+    "sha256": "082a18bdbaef34f839bfbbce6071b888cc8c39c6a071d5b4d35027a0a8ba078a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/previews/part-EAR-D.png",
+    "bytes": 17975,
+    "sha256": "a057c281ceddb8e0ed970645f650879b931df8e203930d539dacf555d807734a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/previews/part-EAR-G.png",
+    "bytes": 17984,
+    "sha256": "8b449f17d1cbb730a30a363413da7cdf4cf20be0064110719ac7e891fac6d054"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/previews/part-FW-D.png",
+    "bytes": 26062,
+    "sha256": "d412e8edceca7302c0035825b67a0a761be141d5cc1496a7eaa178a7c3204ac3"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/previews/part-FW-G.png",
+    "bytes": 26073,
+    "sha256": "08a88e753cbd0d5281c07ea17bbe7e62be94dbf2d8e8dcdae0ca808baaa07351"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/previews/part-HANDLE-D.png",
+    "bytes": 25784,
+    "sha256": "b1c4d43c65774505c9d1ff431f1261ef0eec884df4cede0ba7455e3c2bc8f591"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/previews/part-HANDLE-G.png",
+    "bytes": 25784,
+    "sha256": "b1c4d43c65774505c9d1ff431f1261ef0eec884df4cede0ba7455e3c2bc8f591"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/previews/part-Q-AR-D.png",
+    "bytes": 65598,
+    "sha256": "b8a1fbde5a34e5d8cb77af3e080813068dbfc7438357c750d3d93a0a247dde1d"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/previews/part-Q-AR-G.png",
+    "bytes": 61456,
+    "sha256": "04f4233c415d95a0381f0edd1c913a05d1bca1c5ef0fe4c9d588c394871e1eb4"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/previews/part-Q-AV-D.png",
+    "bytes": 41036,
+    "sha256": "9c5527e56c183e24951587f4b5a4a30fd55293b5cc25ad4103f2b36e55006896"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/previews/part-Q-AV-G.png",
+    "bytes": 41075,
+    "sha256": "2abedc6d211bee2f747993aca02cd1b553dbecc81624f93278b20638c97981e9"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/previews/part-TOP-AR-D.png",
+    "bytes": 49460,
+    "sha256": "00905e83a4b89e1b1e649f8ffd053e3fdc6794e0548298336fc297d4f4acce01"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/previews/part-TOP-AR-G.png",
+    "bytes": 49497,
+    "sha256": "a29f610ef0d7e21dabca0b0d78cfb96c50fbfd161a23a4520a27247642d6d991"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/previews/part-TOP-AV-D.png",
+    "bytes": 49685,
+    "sha256": "645cb2437f8a120c438b6cd0752ebd86e3da13e7511ab101c2960cc1668a2284"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/previews/part-TOP-AV-G.png",
+    "bytes": 48803,
+    "sha256": "91069ec1d73e6e1a5075c65e53838d3ec84bcdbbc872787d02a1323600b91c64"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/3mf-audit.json",
+    "bytes": 11869,
+    "sha256": "463741e556156d2b52d65237d5a6ee166b1c7149d57a1e8e1c6b49a1fff02655"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/SHA256SUMS.json",
+    "bytes": 12704,
+    "sha256": "c2d596e0cba1e1e9d924ec2026e8a7f6040fba4baeb3599b22018c414019583b"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/airflow-change.json",
+    "bytes": 620,
+    "sha256": "96cf7e0d6b43fe9e01dcce8cbcc24d602dc7460b9981b15b0832e9403dd45509"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/audit_3mf.py",
+    "bytes": 1873,
+    "sha256": "3303365a99d8c02242f2c12f8c36604c79fcd15af7cc1fbce9c88dcc003989b9"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/drawer-motion.json",
+    "bytes": 1620,
+    "sha256": "df97cbead40e405010e2d53b4d2f5bb9e1ee8a446285f105477ffae1e24ff888"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/evaluation-complet-r4.json",
+    "bytes": 243400,
+    "sha256": "76b305040305d76582cb0fd5633d7cd4b4fc737960d2c843e505bbba6133fa1e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/guidage-central/README.md",
+    "bytes": 2021,
+    "sha256": "69fd7ce41392539c0697c526234d9e2e6bd521baf5c37c14d774efcd9848b66f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/interference.json",
+    "bytes": 1447,
+    "sha256": "ac6795b1df16d9d3f4eda3065debf4d8bc1993ab96bfd5de918dc728fe34e0d3"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/measure-assembly.json",
+    "bytes": 37286,
+    "sha256": "8ca97e00a96acfaa5c5fa2495feec953c459731f8671b3af9c12ad8c9b38ec07"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/measure-print.json",
+    "bytes": 18965,
+    "sha256": "170b2d2722d5efb9b01ea5eadcb910023c0fbd5d59b82988059a07922b2d27c4"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/mesh-repair.json",
+    "bytes": 1295,
+    "sha256": "df6fca06e430d22252c58df40318954b8a72f5f83bf4c3e543f8b04d25f4ff76"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/print-changes.json",
+    "bytes": 7091,
+    "sha256": "83b3a3e8d38e19acf44cde4793f46eb5cc8d10fc2b5813e064aaa44f67869c1c"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/r1-2026-10-24/3mf-audit.json",
+    "bytes": 11869,
+    "sha256": "d055297b90ea2c3fbbb6814c37041f2c8ed2e9edfb61fead7849c2ed1ea2f43f"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/r1-2026-10-24/SHA256SUMS.json",
+    "bytes": 9394,
+    "sha256": "3c26bda1a52372b513d40e3cd6fb82e5074bd5bf3c5005c603060b5f572c8aa5"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/r1-2026-10-24/construction-batches.json",
+    "bytes": 197492,
+    "sha256": "ff4bc6433eef5a5ec2d5eb9568a8b03b8955e86e79bf1774dffd27cec6b9caaa"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/r1-2026-10-24/drawer-motion.json",
+    "bytes": 6469,
+    "sha256": "77f388741268d7bde8d064f5cbe0dfc08e2967e7ea564a3864db7cffcf6ed668"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/r1-2026-10-24/interference.json",
+    "bytes": 1448,
+    "sha256": "7b3d131ca1b51e78528df5272e94e0d0b96784dbe99c7ee0cf229d79115bfb31"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/r1-2026-10-24/measure-assembly.json",
+    "bytes": 37289,
+    "sha256": "151fe6e67dc40d8b95ed44dfd4c0b67fddcf49f7fd1837d37aaabb15c575dc1e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/r1-2026-10-24/measure-print.json",
+    "bytes": 19006,
+    "sha256": "8d5fbc962ec3a42c6bae67130603584c707888c2de5c548075261b648770576a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/r1-2026-10-24/mesh-repair.json",
+    "bytes": 1296,
+    "sha256": "5b48f2a0c95fc3f1c2e74d39ff4dc6e5170c3dbcd480dc297e63a167370c9724"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/r1-2026-10-24/mesh-volume-audit.json",
+    "bytes": 3171,
+    "sha256": "3c5d011b5fba7b9a25cd7bbccb84a738c3ce45b1cf23e4bd43b4858c9c4e8a60"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/r1-2026-10-24/native-reopen.json",
+    "bytes": 135,
+    "sha256": "84e622c7287b368462009b83e79488b7838b07f7cb0602ff315dc139a1c3f997"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/r1-2026-10-24/timeline-before-exports.json",
+    "bytes": 200075,
+    "sha256": "b54c802871880a1ceb9c95c88619fe4b4c34a83b06d10c5899284612b586938a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/r2-2026-10-25/3mf-audit.json",
+    "bytes": 11843,
+    "sha256": "f8352a4ff2d3514b092a30e1bc63c4a6240661d53919a2bd5e7d0c077d09869e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/r2-2026-10-25/SHA256SUMS.json",
+    "bytes": 11061,
+    "sha256": "9bc8739ca6f6594bc4152daeba2f502070f8d563175b61fce9975fc58b41d6ba"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/r2-2026-10-25/airflow-change.json",
+    "bytes": 935,
+    "sha256": "53381780413f3abd68ee2c6307e73dacaa5da1a5ac9333e6849fab0dfeddc60a"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/r2-2026-10-25/drawer-motion.json",
+    "bytes": 1616,
+    "sha256": "4b4d656205e69f13aba75202f815fbdc158af38f36b053925706f75dd9207a52"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/r2-2026-10-25/interference.json",
+    "bytes": 1441,
+    "sha256": "59ec2d19b3af8b195024a2bdb35eeea184e46b967b5042f9d2e2e93a9008cb56"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/r2-2026-10-25/measure-assembly.json",
+    "bytes": 37303,
+    "sha256": "f97d8a29ef82db59602c4d0f376ad30f06df21da1161a1b0e336489bb8dbf8b4"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/r2-2026-10-25/measure-print.json",
+    "bytes": 19014,
+    "sha256": "e9e09ab23e52f733461e728c45a6085da01dfc3672b8ff742d17cfd795fa2e24"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/r2-2026-10-25/mesh-repair.json",
+    "bytes": 1292,
+    "sha256": "bdc6dec83b997fa0611d66ca35cfbe7fe051b701f4620cf1fb1ca761353ddca3"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/r2-2026-10-25/print-changes.json",
+    "bytes": 7139,
+    "sha256": "df164fbf8fe6083850d6578b331ef6c22bc517708ed5347cba6b84237c67182e"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/remesh_step.py",
+    "bytes": 3199,
+    "sha256": "ed4d43c3a899d00b033b4570aea9de474c9a831d1aeb87c843d1246dcca72d62"
+  },
+  {
+    "path": "CAD/RackBladeSolidCraft/verification/skin-thickness.json",
+    "bytes": 13405,
+    "sha256": "3f94e0c9de8b8a3e9007ab9affed2a55796f22cd6851fb724237667eaeeb2e86"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "id": 3,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"bytes\": 81891,\n  \"name\": \"Test_jonction_V7\",\n  \"path\": \"./CAD/RackBladeSolidCraft/V7/Test_jonction_V7.solidcraft\"\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

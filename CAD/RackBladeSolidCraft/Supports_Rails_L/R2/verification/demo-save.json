@@ -1,0 +1,12 @@
+{
+  "id": 10,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"bytes\": 615628,\n  \"name\": \"Montage_berceaux_reference\",\n  \"path\": \"./CAD/RackBladeSolidCraft/Supports_Rails_L/R2/Montage_berceaux_reference.solidcraft\"\n}",
+        "type": "text"
+      }
+    ]
+  }
+}

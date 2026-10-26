@@ -1,0 +1,12 @@
+{
+  "id": 53,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"bytes\": 37877,\n  \"format\": \"ThreeMf\",\n  \"path\": \"./CAD/RackBladeSolidCraft/V5/exports/BT-D.3mf\"\n}",
+        "type": "text"
+      }
+    ]
+  }
+}
